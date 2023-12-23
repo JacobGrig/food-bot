@@ -1,0 +1,68 @@
+{
+    "138619108": {
+        "addresses": [
+            "Москва, Самокатная улица, 6к1",
+            "Московская область, городской округ Домодедово, СНТ Москвич, Сиреневая улица, 34",
+            "Москва, Смоленская-Сенная площадь, 28",
+            "Москва, Красноярская улица, 9"
+        ],
+        "phone_numbers": [
+            "9057585915",
+            "9998797669",
+            "9161656380",
+            "9689280021"
+        ],
+        "food_restrictions": {
+            "calories_lower": 2900,
+            "calories_upper": 3100,
+            "proteins_lower": 200,
+            "proteins_upper": 350,
+            "fats_lower": 50,
+            "fats_upper": 150,
+            "carbo_lower": 200,
+            "carbo_upper": 300,
+            "max_mass": 600,
+            "start_min_price": 2000
+        }
+    },
+    "420987788": {
+        "addresses": [
+            "Москва, Самокатная улица, 6к1"
+        ],
+        "phone_numbers": [
+            "9057585915"
+        ],
+        "food_restrictions": {
+            "calories_lower": 1500,
+            "calories_upper": 2000,
+            "proteins_lower": 100,
+            "proteins_upper": 150,
+            "fats_lower": 50,
+            "fats_upper": 100,
+            "carbo_lower": 100,
+            "carbo_upper": 200,
+            "max_mass": 600,
+            "start_min_price": 1500
+        }
+    },
+    "5462644391": {
+        "addresses": [
+            "Москва, Шипиловская улица, 5к1"
+        ],
+        "phone_numbers": [
+            "9057585915"
+        ],
+        "food_restrictions": {
+            "calories_lower": 2900,
+            "calories_upper": 3100,
+            "proteins_lower": 250,
+            "proteins_upper": 350,
+            "fats_lower": 50,
+            "fats_upper": 150,
+            "carbo_lower": 200,
+            "carbo_upper": 300,
+            "max_mass": 600,
+            "start_min_price": 1500
+        }
+    }
+}

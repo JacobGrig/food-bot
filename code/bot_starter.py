@@ -36,6 +36,7 @@ def handle_start(message):
         user_token = message.from_user.id
 
         use_telegram = True  # for debug
+        use_mongo = True
 
         logon_before_parsing = False
         headless = False
@@ -137,6 +138,7 @@ def handle_start(message):
                 logon_before_parsing=logon_before_parsing,
                 headless=headless,
                 telegram_handler=telegram_handler,
+                use_mongo=use_mongo
             ).run()
 
         except (Exception, KeyboardInterrupt):
