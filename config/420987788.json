@@ -1,0 +1,20 @@
+{
+  "addresses": [
+    "Москва, Самокатная улица, 6к1"
+  ],
+  "phone_numbers": [
+    "9057585915"
+  ],
+  "food_restrictions": {
+    "calories_lower": 1500,
+    "calories_upper": 2000,
+    "proteins_lower": 100,
+    "proteins_upper": 150,
+    "fats_lower": 50,
+    "fats_upper": 100,
+    "carbo_lower": 100,
+    "carbo_upper": 200,
+    "max_mass": 600,
+    "start_min_price": 1500
+  }
+}

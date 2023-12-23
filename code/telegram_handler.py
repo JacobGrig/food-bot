@@ -8,34 +8,42 @@ BOT_TOKEN = "6654595906:AAEg185xtzk03m2wz9cjH_oimfuI7idGOfg"
 
 
 class TelegramHandler:
+
+    ANSWER = {}
     
     def __init__(
         self,
         chat_id,
         bot_token=BOT_TOKEN,
         use_telegram=True,
+        bot=None,
     ):
         
         self.chat_id = chat_id
+
+        if bot is not None:
+
+            self.__bot = bot
+            self.bot_token = bot.token
+
+        else:
+
+            self.bot_token = bot_token
+            self.__initialize_bot()
+
         self.use_telegram = use_telegram
 
-        self.bot_token = bot_token
-
-        self.__initialize_bot()
+        self.ANSWER[chat_id] = ""
         
     def __initialize_bot(self):
 
         self.__bot = telebot.TeleBot(token=self.bot_token, threaded=False)
         
     def send_message(self, message, reply_markup):
-
-        # self.__initialize_bot()
         
         try:
         
             message = self.__bot.send_message(self.chat_id, message, parse_mode='Markdown', reply_markup=reply_markup)
-
-            # self.__bot.stop_bot()
 
             return message
             
@@ -55,41 +63,41 @@ class TelegramHandler:
 
     def send_file(self, path_to_file):
 
-        # self.__initialize_bot()
-
         self.__bot.send_document(self.chat_id, path_to_file.open('rb'))
 
-        # self.__bot.stop_bot()
+    def __answer(self, reply_message):
 
-    def __ask(self, message):
+        self.ANSWER[reply_message.chat.id] = reply_message.text
 
-        # self.__initialize_bot()
+    def __ask(self, message, button_list):
 
-        answer = ""
+        self.ANSWER[self.chat_id] = ""
 
-        def __answer(reply_message):
+        if button_list is not None:
 
-            nonlocal answer
-            answer = reply_message.text
+            markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 
-            self.__bot.stop_polling()
-            # self.__bot.stop_bot()
+            button_list = [types.KeyboardButton(button) for button in button_list]
 
-        markup = types.ForceReply(selective=False)
+            markup.add(*button_list)
+
+        else:
+            markup = types.ForceReply(selective=False)
 
         message_obj = self.send_message(message, reply_markup=markup)
 
-        self.__bot.register_for_reply(message_obj, __answer)
+        self.__bot.register_next_step_handler(message_obj, self.__answer)
 
-        self.__bot.polling()
+        while self.ANSWER[self.chat_id] == "":
+            pass
 
-        if answer in ['stop', 'Stop', 's', 'S']:
+        if self.ANSWER[self.chat_id] in ['stop', 'Stop', 's', 'S']:
 
             self.log_info("Algorithm is stopped!")
 
             raise KeyboardInterrupt
 
-        return answer
+        return self.ANSWER[self.chat_id]
 
     def log_info(
         self,
@@ -103,16 +111,22 @@ class TelegramHandler:
 
     def ask_for_input(
         self,
-        message
+        message,
+        button_list
     ):
 
         if self.use_telegram:
 
             print("Answer the question on Telegram now!", end='\n\n', flush=True)
 
-            return self.__ask(message)
+            return self.__ask(message, button_list)
 
         answer = input(message + "\n")
         print(flush=True)
 
         return answer
+
+    def stop_bot(self):
+
+        self.__bot.stop_polling()
+        self.__bot.stop_bot()

@@ -148,21 +148,23 @@ class Optimizer:
 
                 self.__print_optimal_set_info(i_day, food_df)
 
-                answer = self.telegram_handler.ask_for_input("Do you like your set? (y/n)")
+                cur_button_list = ["yes", "no"]
+
+                answer = self.telegram_handler.ask_for_input("Do you like your set?", cur_button_list)
 
                 while True:
 
-                    if answer == "y":
+                    if answer == "yes":
 
                         is_optimized = True
 
                         break
 
-                    if answer == "n":
+                    if answer == "no":
 
                         break
 
-                    answer = self.telegram_handler.ask_for_input("Try again: y/n")
+                    answer = self.telegram_handler.ask_for_input("Try again!", cur_button_list)
 
             if n_attempts >= self.MAX_ATTEMPTS:
                 break
