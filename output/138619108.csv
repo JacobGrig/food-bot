@@ -1,0 +1,883 @@
+name,mass,quantity,price,proteins,fats,carbohydrates,calories,link
+"Суп «Куриный» с домашней лапшой, 1 кг",1000.0,16,420,,,,,https://rtw.vkusvill.ru/goods/sup-kurinyy-s-domashney-lapshoy-1-kg-44285.html
+"Салат «Оливье» с креветками и красной икрой, 500 г",500.0,4,788,9.6,9.2,9.2,158,https://rtw.vkusvill.ru/goods/salat-olive-s-krevetkami-i-krasnoy-ikroy-500-g-85553.html
+Борщ с говяжьим языком,390.0,0,318,2.4,1.8,6,49.8,https://rtw.vkusvill.ru/goods/borshch-s-govyazhim-yazykom-71645.html
+Ролл нори с лососем и томатами,180.0,0,246,,,,,https://rtw.vkusvill.ru/goods/roll-nori-s-lososem-i-tomatami-30144.html
+"Блины с творогом, 210 г",210.0,8,176,8.3,12,27.8,252.4,https://rtw.vkusvill.ru/goods/bliny-s-tvorogom-210-g-16943.html
+"Блины домашние, 1 кг",1000.0,6,450,,,,,https://rtw.vkusvill.ru/goods/bliny-domashnie-1-kg-43112.html
+Злаковая каша с ягодами,315.0,0,305,3.28,3.28,11.13,83,https://rtw.vkusvill.ru/goods/zlakovaya-kasha-s-yagodami-61033.html
+Филе семги на пару,170.0,0,550,,,,,https://rtw.vkusvill.ru/goods/file-semgi-na-paru-75129.html
+Ролл с огурцом,198.0,4,230,,,,,https://rtw.vkusvill.ru/goods/roll-s-ogurtsom-61150.html
+"Гречка отварная с овощами, 200 грамм",200.0,0,110,4.1,4.7,23,150.7,https://rtw.vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-200-gramm-64220.html
+"Чебуреки с сыром, 140 г",140.0,0,205,15.2,20.3,18.7,318.3,https://rtw.vkusvill.ru/goods/chebureki-s-syrom-140-g-68197.html
+Холодец говяжий 700г,700.0,5,508,5.5,2.7,0.9,49.9,https://rtw.vkusvill.ru/goods/kholodets-govyazhiy-700g-69324.html
+Каша гречневая сливочная,250.0,0,146,3.1,7,14.3,132.6,https://rtw.vkusvill.ru/goods/kasha-grechnevaya-slivochnaya-81476.html
+Блины постные с картофелем и грибами,200.0,4,152,,,,,https://rtw.vkusvill.ru/goods/bliny-postnye-s-kartofelem-i-gribami-24849.html
+Курица с булгуром и овощами пастеризованная_РП,250.0,0,235,5.3,2.2,15.3,102.2,https://rtw.vkusvill.ru/goods/kuritsa-s-bulgurom-i-ovoshchami-pasterizovannaya-rp-83277.html
+Деревенский завтрак,340.0,0,440,6.9,12,7.8,168,https://rtw.vkusvill.ru/goods/derevenskiy-zavtrak-65057.html
+Микро пельмени с индейкой и сметаной,255.0,0,163,9.1,11,23.3,227,https://rtw.vkusvill.ru/goods/mikro-pelmeni-s-indeykoy-i-smetanoy-84420.html
+Запеканка творожная без доб. сахара с манго и семенами чиа,220.0,8,188,11.8,9,16.8,195.4,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-bez-dob-sakhara-s-mango-i-semenami-chia-53298.html
+Макароны «Бантики» с котлетами и томатным соусом,300.0,0,334,10.8,8.3,23.9,212,https://rtw.vkusvill.ru/goods/makarony-bantiki-s-kotletami-i-tomatnym-sousom-84418.html
+Салат с креветками и соусом Спайси_РП,170.0,0,210,4.8,7.4,12,133.8,https://rtw.vkusvill.ru/goods/salat-s-krevetkami-i-sousom-spaysi-rp-83087.html
+"Каша молочная овсяная, 580 г",580.0,0,270,2.8,3.1,12.3,88.3,https://rtw.vkusvill.ru/goods/kasha-molochnaya-ovsyanaya-580-g-78783.html
+Куриная грудка с гречкой и томатным соусом,245.0,0,340,13.27,5.28,17.28,165,https://rtw.vkusvill.ru/goods/kurinaya-grudka-s-grechkoy-i-tomatnym-sousom-59005.html
+Спагетти с фрикадельками из индейки в томатном соусе,200.0,0,210,8.5,10.4,22.4,217.2,https://rtw.vkusvill.ru/goods/spagetti-s-frikadelkami-iz-indeyki-v-tomatnom-souse-76461.html
+Салат с мясом индейки и гранатовым соусом,165.0,2,270,12.8,4.6,10,132.6,https://rtw.vkusvill.ru/goods/salat-s-myasom-indeyki-i-granatovym-sousom-47413.html
+"Хачапури по-мегрельски, зам., 450 г",450.0,7,398,15.7,14.8,21.1,280.4,https://rtw.vkusvill.ru/goods/khachapuri-po-megrelski-zam-450-g-80922.html
+Пельмени отварные с курицей,200.0,2,196,10,5.8,32.1,220.6,https://rtw.vkusvill.ru/goods/pelmeni-otvarnye-s-kuritsey-68684.html
+Сэндвич прованский с индейкой и пикантным соусом,200.0,2,228,10.2,9.1,28.8,237.9,https://rtw.vkusvill.ru/goods/sendvich-provanskiy-s-indeykoy-i-pikantnym-sousom-71617.html
+Тальятелле с курицей в сырном соусе,240.0,19,268,10.4,6.1,21.7,183.3,https://rtw.vkusvill.ru/goods/talyatelle-s-kuritsey-v-syrnom-souse-24027.html
+Комбо-завтрак (мини-сырники + сэндвич),330.0,0,350,51,39,91,917,https://rtw.vkusvill.ru/goods/kombo-zavtrak-mini-syrniki-sendvich-84278.html
+Запечённый мини картофель с соусом «Тысяча островов»,180.0,0,190,,,,,https://rtw.vkusvill.ru/goods/zapechyennyy-mini-kartofel-s-sousom-tysyacha-ostrovov-84959.html
+"Запеканка картофельная с мясом, 600 г",600.0,4,470,6.2,8.7,11.4,148.7,https://rtw.vkusvill.ru/goods/zapekanka-kartofelnaya-s-myasom-600-g-48191.html
+Каша овсяная пастеризованная_РП,250.0,0,157,3.6,8.4,10.1,130.4,https://rtw.vkusvill.ru/goods/kasha-ovsyanaya-pasterizovannaya-rp-80597.html
+Курица с овощами и гречкой пастеризованная_РП,250.0,0,199,11.7,5,17.1,160.1,https://rtw.vkusvill.ru/goods/kuritsa-s-ovoshchami-i-grechkoy-pasterizovannaya-rp-66169.html
+Куриное филе на гриле и гречка с вешенками,220.0,2,258,14.4,2.8,13.7,137.6,https://rtw.vkusvill.ru/goods/kurinoe-file-na-grile-i-grechka-s-veshenkami-70126.html
+Филе индейки «Гриль» с пастой птитим со шпинатом и овощами,170.0,2,310,13.2,5.7,10.4,145.7,https://rtw.vkusvill.ru/goods/file-indeyki-gril-s-pastoy-ptitim-so-shpinatom-i-ovoshchami-48167.html
+Бутерброд с ветчиной и сыром,180.0,4,176,10.6,8.7,30.9,244.3,https://rtw.vkusvill.ru/goods/buterbrod-s-vetchinoy-i-syrom-74321.html
+Бургер «Сочная цыпа»,290.0,0,395,15.4,21.8,15.9,322,https://rtw.vkusvill.ru/goods/burger-sochnaya-tsypa-64468.html
+Запеканка творожная с манго,150.0,0,188,7.8,11.8,15.8,200.6,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-mango-53876.html
+Бургер «Богатырь»,315.0,0,435,10.6,25.1,14.1,325,https://rtw.vkusvill.ru/goods/burger-bogatyr-60795.html
+"Блины пшеничные, 500 г_РП",500.0,0,229,4.3,13.2,34.9,275.6,https://rtw.vkusvill.ru/goods/bliny-pshenichnye-500-g-rp-80547.html
+Картофельная вафля с беконом и яйцом,220.0,0,365,7.7,14.8,17.6,234,https://rtw.vkusvill.ru/goods/kartofelnaya-vaflya-s-bekonom-i-yaytsom-53919.html
+Блины с мясом,210.0,4,222,11,19.9,25.6,325.5,https://rtw.vkusvill.ru/goods/bliny-s-myasom-19347.html
+"Грибы древесные черные моэр маринованные, 210 г",210.0,4,240,0.7,15.5,10.1,182.7,https://rtw.vkusvill.ru/goods/griby-drevesnye-chernye-moer-marinovannye-210-g-78499.html
+Оладьи куриные со спагетти и томатным соусом,200.0,0,228,10.1,8.7,17.8,189.9,https://rtw.vkusvill.ru/goods/oladi-kurinye-so-spagetti-i-tomatnym-sousom-74323.html
+Комбо: Суп-пюре из цветной капусты с сыром + Котлета куриная «Солнышко» с картофельным пюре,550.0,0,487,,,,,https://rtw.vkusvill.ru/goods/kombo-sup-pyure-iz-tsvetnoy-kapusty-s-syrom-kotleta-kurinaya-solnyshko-s-kartofelnym-pyure-71205.html
+Борщ с говядиной,390.0,36,198,,,,,https://rtw.vkusvill.ru/goods/borshch-s-govyadinoy-42530.html
+Блины с вишней,210.0,12,196,4.8,8.5,28.2,208.5,https://rtw.vkusvill.ru/goods/bliny-s-vishney-24132.html
+Салат из свеклы с черносливом и грецкими орехами,150.0,10,118,,,,,https://rtw.vkusvill.ru/goods/salat-iz-svekly-s-chernoslivom-i-gretskimi-orekhami-79208.html
+Бризоль из рыбы с рисом басмати,230.0,4,208,8.6,4.3,29.6,191.5,https://rtw.vkusvill.ru/goods/brizol-iz-ryby-s-risom-basmati-74667.html
+Онигири с форелью,110.0,2,186,6.2,5.3,36.6,218.9,https://rtw.vkusvill.ru/goods/onigiri-s-forelyu-63605.html
+Не «мясная» пита в красном,285.0,0,330,7.1,8.2,15.1,160,https://rtw.vkusvill.ru/goods/ne-myasnaya-pita-v-krasnom-70040.html
+Говядина в сливочном соусе с гречкой,280.0,0,336,10.5,9.15,17.3,193,https://rtw.vkusvill.ru/goods/govyadina-v-slivochnom-souse-s-grechkoy-75327.html
+Креветки с рисом и соусом «карри»,250.0,2,348,6.6,5.5,39.1,232.3,https://rtw.vkusvill.ru/goods/krevetki-s-risom-i-sousom-karri-39293.html
+Паровая булочка с курицей,160.0,0,220,10.5,8.1,17,182.9,https://rtw.vkusvill.ru/goods/parovaya-bulochka-s-kuritsey-61053.html
+Паста Соба с креветками и соусом Терияки,265.0,0,448,5.3,1,20,110.2,https://rtw.vkusvill.ru/goods/pasta-soba-s-krevetkami-i-sousom-teriyaki-85571.html
+Суп «Умницы»,300.0,0,204,4.6,2.7,3.7,57.5,https://rtw.vkusvill.ru/goods/sup-umnitsy-72632.html
+"Блины с курицей в сливочном соусе, 160 грамм",160.0,0,196,11.5,13.5,14.5,225.5,https://rtw.vkusvill.ru/goods/bliny-s-kuritsey-v-slivochnom-souse-160-gramm-65042.html
+Сэндвич ролл с курицей «Тандури»,190.0,0,220,7.2,10.9,19.8,206.1,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-tanduri-38114.html
+"Тост сытный с лососем, сливочным сыром и авокадо",220.0,0,378,9.3,13.9,9.1,198,https://rtw.vkusvill.ru/goods/tost-sytnyy-s-lososem-slivochnym-syrom-i-avokado-81130.html
+Пицца с ветчиной куриной и сыром (мини),90.0,4,130,14,7.1,29.7,238.7,https://rtw.vkusvill.ru/goods/pitstsa-s-vetchinoy-kurinoy-i-syrom-mini-37523.html
+Суп щавелевый с курицей и сметаной,350.0,0,288,4.05,3.17,3.14,55,https://rtw.vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-i-smetanoy-78990.html
+"Чиабатта с курицей, моцареллой и омлетом, кафе",215.0,8,220,12,20.3,25.8,333.9,https://rtw.vkusvill.ru/goods/chiabatta-s-kuritsey-motsarelloy-i-omletom-kafe-39249.html
+"Филе трески с картофельно-тыквенным пюре, 260 грамм",260.0,0,296,6.2,8,4.8,116,https://rtw.vkusvill.ru/goods/file-treski-s-kartofelno-tykvennym-pyure-260-gramm-65049.html
+"Суп «Гороховый» с копчёностями, 390 грамм",390.0,0,188,3.4,6.5,4.4,89.7,https://rtw.vkusvill.ru/goods/sup-gorokhovyy-s-kopchyenostyami-390-gramm-61043.html
+"Пирог осетинский «Мясо и картошка», 250 г",250.0,2,255,10.5,8.4,23.3,210.8,https://rtw.vkusvill.ru/goods/pirog-osetinskiy-myaso-i-kartoshka-250-g-78651.html
+Салат «Столичный» с курицей_РП,150.0,0,130,8.1,13,22.5,251,https://rtw.vkusvill.ru/goods/salat-stolichnyy-s-kuritsey-rp-77190.html
+Салат с запеченной тыквой и крем чизом,180.0,0,230,2.5,13.4,5.8,153.8,https://rtw.vkusvill.ru/goods/salat-s-zapechennoy-tykvoy-i-krem-chizom-67828.html
+Макароны с курицей и грибами,200.0,8,208,9.2,8.4,14.8,171.6,https://rtw.vkusvill.ru/goods/makarony-s-kuritsey-i-gribami-34804.html
+Куриный шницель запеченный под сыром с картофелем-мини,227.0,0,403,9.4,12.76,10.69,197,https://rtw.vkusvill.ru/goods/kurinyy-shnitsel-zapechennyy-pod-syrom-s-kartofelem-mini-68163.html
+"Салат «Оливье» с говядиной, 600 г",600.0,4,890,7.6,16,6.9,202,https://rtw.vkusvill.ru/goods/salat-olive-s-govyadinoy-600-g-85030.html
+Сэндвич ролл со свининой «Спайси»,175.0,2,238,10.8,19.1,23.2,307.9,https://rtw.vkusvill.ru/goods/sendvich-roll-so-svininoy-spaysi-68610.html
+Хот-Дог с куриной люля,170.0,0,315,13.2,22.7,17.8,331,https://rtw.vkusvill.ru/goods/khot-dog-s-kurinoy-lyulya-77131.html
+"Блины с заварным кремом, мягким сыром и клубникой",160.0,4,166,6.3,9.4,27.4,219.4,https://rtw.vkusvill.ru/goods/bliny-s-zavarnym-kremom-myagkim-syrom-i-klubnikoy-47819.html
+"Картофель отварной с укропом, 500 г",500.0,0,220,2,3,16.9,102.6,https://rtw.vkusvill.ru/goods/kartofel-otvarnoy-s-ukropom-500-g-72937.html
+Лапша удон с курицей и овощами_РП,250.0,0,205,8.67,8.89,21.49,200.65,https://rtw.vkusvill.ru/goods/lapsha-udon-s-kuritsey-i-ovoshchami-rp-77229.html
+Паста «Карбонара»_РП,250.0,0,231,9.6,14.4,23.8,260,https://rtw.vkusvill.ru/goods/pasta-karbonara-rp-72531.html
+"Бефстроганов из говяжьей вырезки с пюре, моченой брусникой и луковыми чипсами",300.0,4,498,6.9,17.5,8.7,219.9,https://rtw.vkusvill.ru/goods/befstroganov-iz-govyazhey-vyrezki-s-pyure-mochenoy-brusnikoy-i-lukovymi-chipsami-82609.html
+Тефтели куриные с томатным соусом и гречкой,300.0,0,186,9.8,4.7,19.2,158.3,https://rtw.vkusvill.ru/goods/tefteli-kurinye-s-tomatnym-sousom-i-grechkoy-42843.html
+Зразы картофельные с сыром и грибами с соусом цезарь,250.0,0,271,3.8,16.8,17.6,241,https://rtw.vkusvill.ru/goods/zrazy-kartofelnye-s-syrom-i-gribami-s-sousom-tsezar-82205.html
+Салат с курицей и черносливом,170.0,0,188,9.8,12.1,7.5,178.1,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-i-chernoslivom-70533.html
+"Беляши с мясом, 320 г",320.0,4,330,8.2,23.1,31.6,367.1,https://rtw.vkusvill.ru/goods/belyashi-s-myasom-320-g-72682.html
+"Кутабы с сыром, творогом и зеленью, 275 г",275.0,4,303,12,6.1,33.8,238.1,https://rtw.vkusvill.ru/goods/kutaby-s-syrom-tvorogom-i-zelenyu-275-g-73701.html
+Суп «Гороховый» с копчёностями,390.0,24,208,4.1,6.3,10.2,113.9,https://rtw.vkusvill.ru/goods/sup-gorokhovyy-s-kopchyenostyami-16417.html
+Котлета из щуки (2 шт.) с картофельным пюре,350.0,0,359,8.08,6.78,12.22,143,https://rtw.vkusvill.ru/goods/kotleta-iz-shchuki-2-sht-s-kartofelnym-pyure-54373.html
+Салат с баклажаном и сыром «Фета»,185.0,4,220,3.9,16.7,8.6,200.3,https://rtw.vkusvill.ru/goods/salat-s-baklazhanom-i-syrom-feta-37929.html
+Солянка из семги и форели,300.0,12,228,3.5,3.1,5.6,64.3,https://rtw.vkusvill.ru/goods/solyanka-iz-semgi-i-foreli-41303.html
+"Салат «Оливье», 150 г",150.0,24,155,5.7,19.6,6.6,225.6,https://rtw.vkusvill.ru/goods/salat-olive-150-g-25290.html
+Суп Том ям с курицей,270.0,19,226,3.5,6.2,3.6,84.2,https://rtw.vkusvill.ru/goods/sup-tom-yam-s-kuritsey-68307.html
+Оладьи куриные,160.0,12,230,,,,,https://rtw.vkusvill.ru/goods/oladi-kurinye-28997.html
+Мини-сырники из козьего творога,140.0,0,348,16.1,10,30.1,166.8,https://rtw.vkusvill.ru/goods/mini-syrniki-iz-kozego-tvoroga-83216.html
+Манты по-восточному,200.0,4,268,7.7,9.2,22.4,203.2,https://rtw.vkusvill.ru/goods/manty-po-vostochnomu-83097.html
+Котлета куриная с картофельным пюре,250.0,4,238,,,,,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-20969.html
+Рис азиатский с креветками аргентинскими и овощами,250.0,10,250,4.9,4.5,25.9,163.7,https://rtw.vkusvill.ru/goods/ris-aziatskiy-s-krevetkami-argentinskimi-i-ovoshchami-50070.html
+Ролл «Симфония» с жареным лососем и соусом Васаби,90.0,0,180,5.3,6.6,24.7,179.4,https://rtw.vkusvill.ru/goods/roll-simfoniya-s-zharenym-lososem-i-sousom-vasabi-74895.html
+"Салат с курицей, ананасами и сельдереем",155.0,6,188,14.3,14.6,4.8,207.8,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-ananasami-i-seldereem-70519.html
+"Парфе-гранола тропическая с манго и голубикой, 345 г",345.0,0,273,5.1,4.9,17.2,133,https://rtw.vkusvill.ru/goods/parfe-granola-tropicheskaya-s-mango-i-golubikoy-345-g-80489.html
+"Каша пшенная молочная с тыквой, 250 г",250.0,7,166,1.7,2.6,13.5,84.2,https://rtw.vkusvill.ru/goods/kasha-pshennaya-molochnaya-s-tykvoy-250-g-68804.html
+Солянка мясная сборная,390.0,0,288,4.5,5.8,2.8,81.4,https://rtw.vkusvill.ru/goods/solyanka-myasnaya-sbornaya-83100.html
+Бифштекс говяжий с яйцом и картофельным пюре,380.0,0,390,7.1,19,8.6,235,https://rtw.vkusvill.ru/goods/bifshteks-govyazhiy-s-yaytsom-i-kartofelnym-pyure-82737.html
+"Салат «Винегрет», 600 г",600.0,6,320,1.4,5.9,10.2,99.5,https://rtw.vkusvill.ru/goods/salat-vinegret-600-g-71616.html
+Плов со свининой_РП,250.0,0,200,15,17,53,420,https://rtw.vkusvill.ru/goods/plov-so-svininoy-rp-75586.html
+"Чиабатта с курицей, 205 г",205.0,6,238,9.7,16.2,24.8,283.8,https://rtw.vkusvill.ru/goods/chiabatta-s-kuritsey-205-g-39535.html
+Суп-пюре норвежский с семгой,300.0,4,228,1.2,1.7,5.1,40.5,https://rtw.vkusvill.ru/goods/sup-pyure-norvezhskiy-s-semgoy-29907.html
+Суп «Куриный» с домашней лапшой_РП,300.0,0,140,6,6,12,126,https://rtw.vkusvill.ru/goods/sup-kurinyy-s-domashney-lapshoy-rp-75585.html
+Макарошки с фрикадельками из говядины,150.0,0,348,6.6,9.1,15.5,170.3,https://rtw.vkusvill.ru/goods/makaroshki-s-frikadelkami-iz-govyadiny-83386.html
+"Пирожки постные с яблоками, 90 г, (2 шт)",90.0,7,104,6.2,7.8,54.8,314.2,https://rtw.vkusvill.ru/goods/pirozhki-postnye-s-yablokami-90-g-2-sht-43330.html
+Большая порция сырников с малиной,410.0,0,361,14.1,8.6,22.3,223,https://rtw.vkusvill.ru/goods/bolshaya-portsiya-syrnikov-s-malinoy-52814.html
+Биточки куриные с овощами на пару_РП,250.0,0,190,7.9,2.9,11.3,102.9,https://rtw.vkusvill.ru/goods/bitochki-kurinye-s-ovoshchami-na-paru-rp-77187.html
+Сырники творожные с яблочной начинкой,130.0,10,156,11.4,5.9,18.9,174.3,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-s-yablochnoy-nachinkoy-64757.html
+"Суп куриный с домашней лапшой, 390 г_РП",390.0,0,167,3.3,2.8,5.3,59.6,https://rtw.vkusvill.ru/goods/sup-kurinyy-s-domashney-lapshoy-390-g-rp-80354.html
+Паста с соусом песто и вялеными томатами Халяль_РП,200.0,0,180,,,,,https://rtw.vkusvill.ru/goods/pasta-s-sousom-pesto-i-vyalenymi-tomatami-khalyal-rp-83083.html
+Роллы «Филадельфия с угрем»,250.0,2,540,,,,,https://rtw.vkusvill.ru/goods/rolly-filadelfiya-s-ugrem-38465.html
+"Салат «Сельдь под шубой», 1 кг",1000.0,0,948,11.3,12.5,3.4,171.3,https://rtw.vkusvill.ru/goods/salat-seld-pod-shuboy-1-kg-84803.html
+Хот-Дог Суздальский,240.0,0,340,10.4,11,13.3,191,https://rtw.vkusvill.ru/goods/khot-dog-suzdalskiy-70436.html
+"Кекс веган банановый, кафе рег",80.0,0,140,4.9,13.8,42.5,313.8,https://rtw.vkusvill.ru/goods/keks-vegan-bananovyy-kafe-reg-60821.html
+"Азу из говядины с гречкой, 500 г",500.0,4,390,5.7,6.3,12.9,131.1,https://rtw.vkusvill.ru/goods/azu-iz-govyadiny-s-grechkoy-500-g-63719.html
+Каша 7 злаков,250.0,0,128,4.9,5.9,19.9,152.3,https://rtw.vkusvill.ru/goods/kasha-7-zlakov-76802.html
+Набор: Суп грибной + Котлета «Домашняя» (1 шт.) с картофельным пюре,570.0,0,385,,,,,https://rtw.vkusvill.ru/goods/nabor-sup-gribnoy-kotleta-domashnyaya-1-sht-s-kartofelnym-pyure-58636.html
+Пирог «Кальцоне» курица - грибы,130.0,2,165,9.7,24,25.3,356,https://rtw.vkusvill.ru/goods/pirog-kaltsone-kuritsa-griby-79985.html
+"Салат «Витаминный» с лимонной заправкой, 500 г",500.0,2,340,0.9,7.2,9.5,106.4,https://rtw.vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-500-g-65409.html
+Суп «Рассольник» с курицей,390.0,8,186,,,,,https://rtw.vkusvill.ru/goods/sup-rassolnik-s-kuritsey-30290.html
+"Блины с вишней, 210 грамм",210.0,0,196,5.5,7.7,33.4,224.9,https://rtw.vkusvill.ru/goods/bliny-s-vishney-210-gramm-65045.html
+Плов «Постный»,250.0,0,208,2.4,12.3,23.3,213.5,https://rtw.vkusvill.ru/goods/plov-postnyy-43695.html
+"Салат «Оливье» с уткой, каперсами и перепелиными яйцами",200.0,4,298,8,9.1,6.9,141.5,https://rtw.vkusvill.ru/goods/salat-olive-s-utkoy-kapersami-i-perepelinymi-yaytsami-81473.html
+Онигири с угрем в соусе унаги,100.0,8,188,7.3,3.6,31.2,186.4,https://rtw.vkusvill.ru/goods/onigiri-s-ugrem-v-souse-unagi-58053.html
+Салат с курицей и апельсиновой заправкой,198.0,2,256,6.9,11.5,6.3,156.3,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-i-apelsinovoy-zapravkoy-68047.html
+"Каша пшенная сливочная, 250 г",250.0,7,178,3.2,5.9,17.8,137.1,https://rtw.vkusvill.ru/goods/kasha-pshennaya-slivochnaya-250-g-68616.html
+Каша гречневая со свининой_РП,250.0,0,135,6,28,15,336,https://rtw.vkusvill.ru/goods/kasha-grechnevaya-so-svininoy-rp-72614.html
+"Запеканка творожная с тыквой, цедрой апельсина и корицей",220.0,3,178,9.7,9.6,11.7,172,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-tykvoy-tsedroy-apelsina-i-koritsey-48802.html
+Бургер с говядиной BBQ и апельсиновый фреш 500 мл,823.0,0,600,,,,,https://rtw.vkusvill.ru/goods/burger-s-govyadinoy-bbq-i-apelsinovyy-fresh-500-ml-70964.html
+Хумус с кедровыми орешками,200.0,24,206,5.3,11.2,14.0,178.0,https://rtw.vkusvill.ru/goods/khumus-s-kedrovymi-oreshkami-20811.html
+Штрудель с вишней и черной смородиной,110.0,0,205,5.4,11.4,38.6,364,https://rtw.vkusvill.ru/goods/shtrudel-s-vishney-i-chernoy-smorodinoy-64195.html
+Салат «Мимоза» с сайрой_РП,150.0,0,120,7.6,15.9,8.6,207.9,https://rtw.vkusvill.ru/goods/salat-mimoza-s-sayroy-rp-77188.html
+Баклажаны по-сычуаньски,150.0,14,198,1.9,17.8,20.6,250.2,https://rtw.vkusvill.ru/goods/baklazhany-po-sychuanski-78244.html
+Говядина томленая в гранатовом соке с картофельным пюре и фасолью,250.0,14,298,6.1,5.7,11.2,120.5,https://rtw.vkusvill.ru/goods/govyadina-tomlenaya-v-granatovom-soke-s-kartofelnym-pyure-i-fasolyu-71656.html
+Суп «Чучвара» с пельменями из говядины и баранины,400.0,0,268,3.2,4.9,15.3,118.1,https://rtw.vkusvill.ru/goods/sup-chuchvara-s-pelmenyami-iz-govyadiny-i-baraniny-71221.html
+Салат по-гречески с сыром «Фета»,188.0,2,328,2.9,15,5.7,169.4,https://rtw.vkusvill.ru/goods/salat-po-grecheski-s-syrom-feta-81525.html
+"Котлеты мясные Домашние с макаронами, 500 г",500.0,4,390,11.1,8,14.8,175.6,https://rtw.vkusvill.ru/goods/kotlety-myasnye-domashnie-s-makaronami-500-g-75505.html
+"Салат оливье с колбасой без майонеза, 600 г",600.0,0,450,6,6.2,6.3,105,https://rtw.vkusvill.ru/goods/salat-olive-s-kolbasoy-bez-mayoneza-600-g-41152.html
+Блины шоколадные с маскарпоне и вишней,210.0,6,197,,,,,https://rtw.vkusvill.ru/goods/bliny-shokoladnye-s-maskarpone-i-vishney-37284.html
+Картофельная запеканка с грибами постная,240.0,7,248,2.4,9,14.6,149,https://rtw.vkusvill.ru/goods/kartofelnaya-zapekanka-s-gribami-postnaya-51243.html
+Салат «Крабовый»,160.0,14,218,5.6,16.4,10.7,212,https://rtw.vkusvill.ru/goods/salat-krabovyy-64073.html
+"Вареники с картофелем и грибами, 245 г",245.0,0,166,5.1,2.3,30.6,163.5,https://rtw.vkusvill.ru/goods/vareniki-s-kartofelem-i-gribami-245-g-48668.html
+Куриное филе с грибами и соусом с томленым картофелем,230.0,0,228,16.6,12.5,9.1,215.3,https://rtw.vkusvill.ru/goods/kurinoe-file-s-gribami-i-sousom-s-tomlenym-kartofelem-76366.html
+Салат с курицей и жареными шампиньонами,180.0,12,188,,,,,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-i-zharenymi-shampinonami-39456.html
+Крем-суп из печеного картофеля с белыми грибами и трюфельным маслом,300.0,0,288,2.5,12.7,13.2,177.1,https://rtw.vkusvill.ru/goods/krem-sup-iz-pechenogo-kartofelya-s-belymi-gribami-i-tryufelnym-maslom-81565.html
+"Салат «Столичный», 600 г",600.0,0,490,7,7.1,7.4,121.5,https://rtw.vkusvill.ru/goods/salat-stolichnyy-600-g-42134.html
+Онигири с креветкой,100.0,16,176,7,3.8,36.4,207.8,https://rtw.vkusvill.ru/goods/onigiri-s-krevetkoy-76931.html
+"Пирожки с яблочной начинкой, 160 г (4 шт)",160.0,6,172,4.3,5.4,44.7,244.6,https://rtw.vkusvill.ru/goods/pirozhki-s-yablochnoy-nachinkoy-160-g-4-sht-78477.html
+Омлет с сыром и шпинатом,165.0,6,198,6.5,11.8,15.7,193.8,https://rtw.vkusvill.ru/goods/omlet-s-syrom-i-shpinatom-30211.html
+Набор роллов «Норикура» (из 4 видов роллов),465.0,0,980,,,,,https://rtw.vkusvill.ru/goods/nabor-rollov-norikura-iz-4-vidov-rollov-84958.html
+Паста «Фузилли» с сыром,250.0,3,206,9.1,4.4,38.2,228.8,https://rtw.vkusvill.ru/goods/pasta-fuzilli-s-syrom-75476.html
+"Пирог осетинский «Картофель с сыром», 250 г",250.0,10,190,,,,,https://rtw.vkusvill.ru/goods/pirog-osetinskiy-kartofel-s-syrom-250-g-27966.html
+Блинчики с вареной сгущенкой,190.0,0,205,3,16.7,36,306.3,https://rtw.vkusvill.ru/goods/blinchiki-s-varenoy-sgushchenkoy-44765.html
+Борщ вегетарианский,300.0,0,208,1.3,3.3,9.6,73.7,https://rtw.vkusvill.ru/goods/borshch-vegetarianskiy-55152.html
+"Шницель куриный с картофельным пюре, 305 г",305.0,0,398,6.7,6.8,14.8,147.2,https://rtw.vkusvill.ru/goods/shnitsel-kurinyy-s-kartofelnym-pyure-305-g-52955.html
+"Суп «Рассольник» с курицей, 1 кг",1000.0,7,430,2.8,0.5,3.9,31.3,https://rtw.vkusvill.ru/goods/sup-rassolnik-s-kuritsey-1-kg-60658.html
+"Котлеты из свинины и говядины, 300 г",300.0,17,420,21.4,12.1,2.6,204.9,https://rtw.vkusvill.ru/goods/kotlety-iz-svininy-i-govyadiny-300-g-63899.html
+Суп «Том ям» вегетарианский,270.0,2,198,1.4,4.3,7.5,74.3,https://rtw.vkusvill.ru/goods/sup-tom-yam-vegetarianskiy-73608.html
+"Гречневая лапша с овощами, 200 грамм",200.0,0,158,5.1,2.3,22.3,130.3,https://rtw.vkusvill.ru/goods/grechnevaya-lapsha-s-ovoshchami-200-gramm-65044.html
+Комбо-перекус (салат + сэндвич),320.0,0,326,31,54,63,862,https://rtw.vkusvill.ru/goods/kombo-perekus-salat-sendvich-85720.html
+Хумус «Иерусалимский»,200.0,11,188,7.3,17.8,16.1,253.8,https://rtw.vkusvill.ru/goods/khumus-ierusalimskiy-53716.html
+Салат «Цезарь» с тигровыми креветками и гренками из багета,250.0,0,488,10,9.5,6,149.5,https://rtw.vkusvill.ru/goods/salat-tsezar-s-tigrovymi-krevetkami-i-grenkami-iz-bageta-82511.html
+Борщ «Украинский»,390.0,12,178,3.4,1.1,10.5,65.5,https://rtw.vkusvill.ru/goods/borshch-ukrainskiy-18361.html
+"Суп грибной, 300 г",300.0,0,186,1.0,0.1,5.0,24.9,https://rtw.vkusvill.ru/goods/sup-gribnoy-300-g-44772.html
+Гречка с котлетами из индейки,220.0,6,250,12.7,5.4,13.8,154.6,https://rtw.vkusvill.ru/goods/grechka-s-kotletami-iz-indeyki-46647.html
+"Похлебка грибная, 1 кг",1000.0,2,510,0.4,3.3,9.3,68.5,https://rtw.vkusvill.ru/goods/pokhlebka-gribnaya-1-kg-60657.html
+"Борщ с говядиной, 1 кг",1000.0,20,452,4.2,3.6,5,69.2,https://rtw.vkusvill.ru/goods/borshch-s-govyadinoy-1-kg-67837.html
+"Блины с шоколадной пастой, фундуком и изюмом",150.0,0,186,6.1,14.4,29.2,270.8,https://rtw.vkusvill.ru/goods/bliny-s-shokoladnoy-pastoy-fundukom-i-izyumom-78476.html
+Суп с куриными фрикадельками и пастой «Звездочки»,300.0,26,158,2.6,0.3,5.2,33.9,https://rtw.vkusvill.ru/goods/sup-s-kurinymi-frikadelkami-i-pastoy-zvezdochki-61602.html
+"Сосиска в тесте (свинина, говядина), 2 шт.",180.0,12,185,17.1,7.8,23.8,233.8,https://rtw.vkusvill.ru/goods/sosiska-v-teste-svinina-govyadina-2-sht-59515.html
+"Равиоли с сыром пармезан и шпинатом, 245 г",245.0,0,380,14.2,13.4,30.8,300.6,https://rtw.vkusvill.ru/goods/ravioli-s-syrom-parmezan-i-shpinatom-245-g-48658.html
+Салат с ростбифом и моцареллой с соусом из томатов,220.0,4,388,10.6,15.6,4.6,201.2,https://rtw.vkusvill.ru/goods/salat-s-rostbifom-i-motsarelloy-s-sousom-iz-tomatov-81356.html
+Фунчоза с курицей и овощами в сладком соусе чили,200.0,8,198,3.3,6.2,12.3,118.2,https://rtw.vkusvill.ru/goods/funchoza-s-kuritsey-i-ovoshchami-v-sladkom-souse-chili-67266.html
+Шницель куриный в сырной панировке с макаронами,230.0,6,280,12.4,13,24.2,263.4,https://rtw.vkusvill.ru/goods/shnitsel-kurinyy-v-syrnoy-panirovke-s-makaronami-59037.html
+Биточки курин. с цукини с пюре из батата,200.0,0,218,11.5,11.2,4.3,169.2,https://rtw.vkusvill.ru/goods/bitochki-kurin-s-tsukini-s-pyure-iz-batata-36801.html
+Комбо-завтрак (Омлет + Каша),365.0,0,270,30,30,33,520,https://rtw.vkusvill.ru/goods/kombo-zavtrak-omlet-kasha-84279.html
+Макарошки по-флотски,150.0,0,348,9.5,10.2,14.8,189,https://rtw.vkusvill.ru/goods/makaroshki-po-flotski-83388.html
+Омлет запеченный с муссом из филе лосося,165.0,2,198,13.8,11.1,11.4,200.7,https://rtw.vkusvill.ru/goods/omlet-zapechennyy-s-mussom-iz-file-lososya-48193.html
+Хумус с вялеными помидорами,200.0,25,206,,,,,https://rtw.vkusvill.ru/goods/khumus-s-vyalenymi-pomidorami-21408.html
+Удон с курицей в соусе «Том-ям»_РП,210.0,0,236,7.3,6.4,17.8,158,https://rtw.vkusvill.ru/goods/udon-s-kuritsey-v-souse-tom-yam-rp-74455.html
+"Чиабатта ржаная с индейкой и соусом песто, кафе",180.0,2,220,12.9,8.8,30.8,254,https://rtw.vkusvill.ru/goods/chiabatta-rzhanaya-s-indeykoy-i-sousom-pesto-kafe-60022.html
+"Чиабатта с тунцом и яйцом, кафе",180.0,6,220,,,,,https://rtw.vkusvill.ru/goods/chiabatta-s-tuntsom-i-yaytsom-kafe-60021.html
+Суп «Грибной»,350.0,0,140,1.4,1,9.8,53.8,https://rtw.vkusvill.ru/goods/sup-gribnoy-55130.html
+"Голубцы ленивые из мяса птицы, 200 грамм",200.0,0,198,4.9,1.7,11.2,79.7,https://rtw.vkusvill.ru/goods/golubtsy-lenivye-iz-myasa-ptitsy-200-gramm-65047.html
+Печеночные оладьи со сметаной,220.0,0,299,15.9,17.6,16.2,286.8,https://rtw.vkusvill.ru/goods/pechenochnye-oladi-so-smetanoy-75181.html
+Сэндвич ролл с лососем (кетой),175.0,20,228,8.8,5.4,21.3,169,https://rtw.vkusvill.ru/goods/sendvich-roll-s-lososem-ketoy-17580.html
+"Бефстроганов из говядины с картофельным пюре, 800 г",800.0,4,830,5.5,7.6,8.5,124.4,https://rtw.vkusvill.ru/goods/befstroganov-iz-govyadiny-s-kartofelnym-pyure-800-g-72191.html
+Спаржа по-корейски,150.0,0,238,14.4,13.7,3.3,194.1,https://rtw.vkusvill.ru/goods/sparzha-po-koreyski-79660.html
+Кутабы с зеленью,150.0,0,181,8,14.3,35,300.7,https://rtw.vkusvill.ru/goods/kutaby-s-zelenyu-40259.html
+Стейк из лосося с картофельным пюре,220.0,4,386,11.8,9.6,28.7,248.4,https://rtw.vkusvill.ru/goods/steyk-iz-lososya-s-kartofelnym-pyure-71054.html
+Уха «Норвежская»,310.0,0,290,6,6.1,7.9,110.5,https://rtw.vkusvill.ru/goods/ukha-norvezhskaya-82630.html
+"Суп-пюре «Сырный» с гренками, 260 г",260.0,18,268,,,,,https://rtw.vkusvill.ru/goods/sup-pyure-syrnyy-s-grenkami-260-g-50163.html
+"Салат «Сельдь под шубой», 150 г_РП",150.0,0,125,4.7,19.4,8.7,228.2,https://rtw.vkusvill.ru/goods/salat-seld-pod-shuboy-150-g-rp-77189.html
+Блин-омлет с куриным филе,140.0,6,186,16.9,20,1.8,254.8,https://rtw.vkusvill.ru/goods/blin-omlet-s-kurinym-file-38118.html
+"Конвертики с курицей, сыром и томатами с зеленью",140.0,2,270,16.4,23.5,24,373.1,https://rtw.vkusvill.ru/goods/konvertiki-s-kuritsey-syrom-i-tomatami-s-zelenyu-76016.html
+Котлета куриная «Солнышко» с картофельным пюре,250.0,0,296,8.9,12.4,12.1,195.1,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-solnyshko-s-kartofelnym-pyure-64022.html
+Чебуреки с мясом,120.0,0,195,10,13.8,25.2,265,https://rtw.vkusvill.ru/goods/chebureki-s-myasom-57963.html
+Сырники с малиной и сметаной,270.0,0,242,14.1,8.6,22.3,223,https://rtw.vkusvill.ru/goods/syrniki-s-malinoy-i-smetanoy-44764.html
+Салат винегрет с квашеной капустой,250.0,12,150,,,,,https://rtw.vkusvill.ru/goods/salat-vinegret-s-kvashenoy-kapustoy-22930.html
+Суп-пюре с грибами пастеризованный_РП,250.0,0,210,8.3,10,3.2,136,https://rtw.vkusvill.ru/goods/sup-pyure-s-gribami-pasterizovannyy-rp-80599.html
+Цыплёнок в пряном соусе «Тикка Масала» с рисом_РП,230.0,0,260,11.5,10.7,22.3,231.5,https://rtw.vkusvill.ru/goods/tsyplyenok-v-pryanom-souse-tikka-masala-s-risom-rp-76806.html
+"Борщ с говядиной, 390 г_РП",390.0,0,169,2,2.3,3.9,44.3,https://rtw.vkusvill.ru/goods/borshch-s-govyadinoy-390-g-rp-80164.html
+Рисовая каша с тыквой и ванилью,250.0,0,198,2.2,3.2,14.4,95.2,https://rtw.vkusvill.ru/goods/risovaya-kasha-s-tykvoy-i-vanilyu-72212.html
+Сэндвич ролл с курицей и соусом чипотле_РП,180.0,0,196,7.8,1.5,21,128.7,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-chipotle-rp-81382.html
+Цыпленок в кисло-сладком соусе с рисом и овощами_РП,250.0,0,259,7.4,1.2,19.6,118.8,https://rtw.vkusvill.ru/goods/tsyplenok-v-kislo-sladkom-souse-s-risom-i-ovoshchami-rp-70264.html
+Комбо-обед (салат + второе),430.0,0,430,32,28,50,519,https://rtw.vkusvill.ru/goods/kombo-obed-salat-vtoroe-83906.html
+Пироги «По-корейски» с мясом,280.0,2,223,,,,,https://rtw.vkusvill.ru/goods/pirogi-po-koreyski-s-myasom-21158.html
+"Пицца «Чикен Песто», охлажденная",400.0,7,410,13.9,11.3,22.1,245.7,https://rtw.vkusvill.ru/goods/pitstsa-chiken-pesto-okhlazhdennaya-61333.html
+Каша рисовая молочная_РП,250.0,0,180,3,2,17.2,98.8,https://rtw.vkusvill.ru/goods/kasha-risovaya-molochnaya-rp-75579.html
+Паста «Фетучини» с индейкой и грибами в сливочно-томатном соусе,270.0,0,440,8.1,5.4,16,145,https://rtw.vkusvill.ru/goods/pasta-fetuchini-s-indeykoy-i-gribami-v-slivochno-tomatnom-souse-70066.html
+"Мясо по-французски с печеным картофелем, 250 грамм",250.0,0,286,10.4,12.4,9,189.2,https://rtw.vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-250-gramm-61540.html
+Биточки куриные с гречкой и овощами пастеризованные_РП,250.0,0,225,7.5,3.4,15.8,123.8,https://rtw.vkusvill.ru/goods/bitochki-kurinye-s-grechkoy-i-ovoshchami-pasterizovannye-rp-80598.html
+Салат «Оливье» с говяжьими щечками,200.0,0,238,10.4,11.5,7.9,176.7,https://rtw.vkusvill.ru/goods/salat-olive-s-govyazhimi-shchechkami-82541.html
+Блины с вареной сгущенкой,160.0,2,158,8,13.1,41.7,316.7,https://rtw.vkusvill.ru/goods/bliny-s-varenoy-sgushchenkoy-83770.html
+Салат «Норвежский» с лососем,180.0,18,268,,,,,https://rtw.vkusvill.ru/goods/salat-norvezhskiy-s-lososem-24722.html
+"Пирожок с картофелем и грибами, кафе рег",50.0,0,55,6.1,8.4,37.5,250,https://rtw.vkusvill.ru/goods/pirozhok-s-kartofelem-i-gribami-kafe-reg-51472.html
+Сосиска в слоеном тесте с сыром и горчицей,105.0,4,173,8.3,25.8,15.4,327,https://rtw.vkusvill.ru/goods/sosiska-v-sloenom-teste-s-syrom-i-gorchitsey-68814.html
+"Каша молочная рисовая пастеризованная, 250 г_РП",250.0,0,176,2.8,6.4,17,136.8,https://rtw.vkusvill.ru/goods/kasha-molochnaya-risovaya-pasterizovannaya-250-g-rp-77902.html
+Запеканка классическая,,1,600,13.9,6.9,17.7,188.5,https://rtw.vkusvill.ru/goods/zapekanka-klassicheskaya-69.html
+Сэндвич ролл с креветкой темпура и соусом Спайс,170.0,4,263,6.6,9.6,25.2,213.6,https://rtw.vkusvill.ru/goods/sendvich-roll-s-krevetkoy-tempura-i-sousom-spays-70067.html
+Онигири с угрем в соусе Спайси-Унаги,100.0,4,188,6.9,3.7,30.1,181.3,https://rtw.vkusvill.ru/goods/onigiri-s-ugrem-v-souse-spaysi-unagi-79069.html
+Салат «Филадельфия»,180.0,14,252,,,,,https://rtw.vkusvill.ru/goods/salat-filadelfiya-40527.html
+Сэндвич ролл «Полло Тоннато» с курицей,167.0,4,210,10.1,5.8,23.6,187,https://rtw.vkusvill.ru/goods/sendvich-roll-pollo-tonnato-s-kuritsey-49317.html
+Суп-пюре с грибами,270.0,20,188,2,5.6,5.7,81.2,https://rtw.vkusvill.ru/goods/sup-pyure-s-gribami-19435.html
+"Борщ с курицей, 350 грамм",350.0,0,134,2.5,0.5,5.5,36.5,https://rtw.vkusvill.ru/goods/borshch-s-kuritsey-350-gramm-61843.html
+"Салат из овощей гриль, 200 г",200.0,0,218,0.9,10,7.9,125.2,https://rtw.vkusvill.ru/goods/salat-iz-ovoshchey-gril-200-g-79278.html
+Тефтели куриные с картофельным пюре,250.0,0,210,6.4,4.9,8.9,105.3,https://rtw.vkusvill.ru/goods/tefteli-kurinye-s-kartofelnym-pyure-61685.html
+Фрикадельки «не мясо» с рисом и томатным соусом,270.0,0,340,7.4,13.2,21.7,233,https://rtw.vkusvill.ru/goods/frikadelki-ne-myaso-s-risom-i-tomatnym-sousom-81127.html
+Онигири «Говядина по-корейски»,100.0,2,188,7,3.4,27.5,168.6,https://rtw.vkusvill.ru/goods/onigiri-govyadina-po-koreyski-83045.html
+Булочка паровая «Бань Бао» с грибами,135.0,8,160,10,6.8,33.2,234,https://rtw.vkusvill.ru/goods/bulochka-parovaya-ban-bao-s-gribami-83514.html
+Вареники постные с картофелем и грибами,250.0,6,230,4.7,6.4,30.8,199.6,https://rtw.vkusvill.ru/goods/vareniki-postnye-s-kartofelem-i-gribami-43609.html
+"Шницель куриный в яйце, 360 г",360.0,2,440,19,8,8,180,https://rtw.vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-360-g-67887.html
+"Борщ «Вегетарианский», 390 грамм",390.0,0,155,1.6,3.4,12.8,88.2,https://rtw.vkusvill.ru/goods/borshch-vegetarianskiy-390-gramm-61052.html
+Крем-суп тыквенный с сухариками,320.0,0,263,1.2,2.5,5,47.3,https://rtw.vkusvill.ru/goods/krem-sup-tykvennyy-s-sukharikami-67056.html
+"Рулетики из ветчины с сырной начинкой, 360 г",360.0,4,740,14.8,20.1,2.6,250.5,https://rtw.vkusvill.ru/goods/ruletiki-iz-vetchiny-s-syrnoy-nachinkoy-360-g-84820.html
+Плов с курицей пастеризованный_РП,250.0,0,185,9.4,8.5,20.2,194.9,https://rtw.vkusvill.ru/goods/plov-s-kuritsey-pasterizovannyy-rp-66162.html
+Каша гречневая с говядиной_РП,250.0,0,164,6,22,17,290,https://rtw.vkusvill.ru/goods/kasha-grechnevaya-s-govyadinoy-rp-72616.html
+Салат винегрет с опятами,180.0,2,190,1.6,5.8,11.6,105,https://rtw.vkusvill.ru/goods/salat-vinegret-s-opyatami-69876.html
+Рикотники Апельсиновые,125.0,6,160,8.3,7.3,23.5,192.9,https://rtw.vkusvill.ru/goods/rikotniki-apelsinovye-53319.html
+Куриная грудка на гриле с фарфалле в сливочном соусе_РП,210.0,0,270,14.7,9.1,21.7,227.5,https://rtw.vkusvill.ru/goods/kurinaya-grudka-na-grile-s-farfalle-v-slivochnom-souse-rp-76809.html
+Щечки томленные с давленным печеным картофелем,300.0,4,426,15,16.3,8.7,241.5,https://rtw.vkusvill.ru/goods/shchechki-tomlennye-s-davlennym-pechenym-kartofelem-81416.html
+"Сэндвич ролл с горбушей и яйцом, 155 грамм",155.0,0,208,10.2,11.8,22.7,237.8,https://rtw.vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-155-gramm-68091.html
+Салат «Кальмаровый»,180.0,8,258,5.9,24.2,5.2,262.2,https://rtw.vkusvill.ru/goods/salat-kalmarovyy-23760.html
+Спаржа с морковью по-корейски,150.0,22,115,,,,,https://rtw.vkusvill.ru/goods/sparzha-s-morkovyu-po-koreyski-54133.html
+"Корюшка жареная, вес",,0,1 048,13.8,12.6,3.3,181.4,https://rtw.vkusvill.ru/goods/koryushka-zharenaya-ves-54499.html
+"Салатный микс с лососем, брокколи и кукурузой гриль с соусом «Понзу»",235.0,0,518,6.7,4.8,24.6,168.4,https://rtw.vkusvill.ru/goods/salatnyy-miks-s-lososem-brokkoli-i-kukuruzoy-gril-s-sousom-ponzu-81567.html
+"Лагман с говядиной, 320 г",320.0,0,219,8,3.2,24,155,https://rtw.vkusvill.ru/goods/lagman-s-govyadinoy-320-g-66768.html
+Блинчики с курицей и сметаной,190.0,0,215,8.5,10,30,244,https://rtw.vkusvill.ru/goods/blinchiki-s-kuritsey-i-smetanoy-55994.html
+Паста с лососем в сливочном соусе,210.0,16,278,,,,,https://rtw.vkusvill.ru/goods/pasta-s-lososem-v-slivochnom-souse-30220.html
+Салат с капустой белокочанной по-корейски,180.0,4,108,1.4,6.8,12,114.8,https://rtw.vkusvill.ru/goods/salat-s-kapustoy-belokochannoy-po-koreyski-66904.html
+"Щи из свежей капусты с курицей, 1 кг",1000.0,3,430,1.2,2.9,4.1,47.3,https://rtw.vkusvill.ru/goods/shchi-iz-svezhey-kapusty-s-kuritsey-1-kg-68802.html
+Блины с карамельно-банановой начинкой,210.0,4,188,5.6,12.9,35,278.5,https://rtw.vkusvill.ru/goods/bliny-s-karamelno-bananovoy-nachinkoy-74814.html
+Салат свекольный с грецким орехом,200.0,12,156,1.9,6,9.6,100,https://rtw.vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-38977.html
+"Суп «Куриный» с домашней лапшой, 390 грамм",390.0,0,176,3.2,3.9,7.2,76.7,https://rtw.vkusvill.ru/goods/sup-kurinyy-s-domashney-lapshoy-390-gramm-61046.html
+Суп «Рамен» с индейкой,400.0,8,270,5.1,5.6,12.8,122,https://rtw.vkusvill.ru/goods/sup-ramen-s-indeykoy-70454.html
+"Салат с пастрами из индейки, помело и тропическим соусом",190.0,6,348,8.7,6,8,120.8,https://rtw.vkusvill.ru/goods/salat-s-pastrami-iz-indeyki-pomelo-i-tropicheskim-sousom-81415.html
+Мама бургер классический,308.0,0,435,8.4,21.94,15.31,290,https://rtw.vkusvill.ru/goods/mama-burger-klassicheskiy-43397.html
+"Блины с семгой, 150 г",150.0,6,313,,,,,https://rtw.vkusvill.ru/goods/bliny-s-semgoy-150-g-36843.html
+"Суп Гороховый с копченостями, 310 гр.",310.0,0,256,3.4,6.5,4.4,89.7,https://rtw.vkusvill.ru/goods/sup-gorokhovyy-s-kopchenostyami-310-gr-60799.html
+Кускус с овощами и котлетами из индейки,220.0,4,250,,,,,https://rtw.vkusvill.ru/goods/kuskus-s-ovoshchami-i-kotletami-iz-indeyki-32387.html
+Сэндвич-ролл с куриными стрипсами в тортилье,200.0,10,220,7.6,17.4,24.9,286.6,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kurinymi-stripsami-v-tortile-78929.html
+"Похлебка грибная, 270 грамм",270.0,0,168,0.4,3.3,9.3,68.5,https://rtw.vkusvill.ru/goods/pokhlebka-gribnaya-270-gramm-61050.html
+Кукуруза гриль с «не мясной» котлетой Hi и соусом,330.0,0,354,2.27,5.04,17.44,143,https://rtw.vkusvill.ru/goods/kukuruza-gril-s-ne-myasnoy-kotletoy-hi-i-sousom-70760.html
+Каша овсяная с бананом и голубикой,320.0,0,217,3.8,3,18.7,116.7,https://rtw.vkusvill.ru/goods/kasha-ovsyanaya-s-bananom-i-golubikoy-53917.html
+Паста с курицей гриль и сливочно-томатным соусом,235.0,10,246,11,6.7,15.3,165.5,https://rtw.vkusvill.ru/goods/pasta-s-kuritsey-gril-i-slivochno-tomatnym-sousom-34120.html
+Мини-сырники,120.0,6,155,14.8,9,23.7,235,https://rtw.vkusvill.ru/goods/mini-syrniki-43320.html
+"Сэндвич «Нежный» с курицей, омлетом и моцареллой",215.0,32,222,12.8,17.8,26.4,317,https://rtw.vkusvill.ru/goods/sendvich-nezhnyy-s-kuritsey-omletom-i-motsarelloy-31712.html
+Комбо: Колбаска «Баварская» (1 шт.) с картофельным пюре + суп Харчо с говядиной,560.0,0,508,,,,,https://rtw.vkusvill.ru/goods/kombo-kolbaska-bavarskaya-1-sht-s-kartofelnym-pyure-sup-kharcho-s-govyadinoy-71187.html
+"Пирожки с капустной начинкой, 160 г (4 шт)",160.0,8,163,6.6,12.8,30.6,264,https://rtw.vkusvill.ru/goods/pirozhki-s-kapustnoy-nachinkoy-160-g-4-sht-75681.html
+Паста «Орзо» с лососем в томатно-сливочном соусе,250.0,8,357,10.6,9.4,25.8,230.2,https://rtw.vkusvill.ru/goods/pasta-orzo-s-lososem-v-tomatno-slivochnom-souse-71053.html
+Плов с курицей Халяль_РП,220.0,0,210,,,,,https://rtw.vkusvill.ru/goods/plov-s-kuritsey-khalyal-rp-83079.html
+"Киш с сыром и овощами, кафе",160.0,0,185,11.1,15.9,19.5,265.5,https://rtw.vkusvill.ru/goods/kish-s-syrom-i-ovoshchami-kafe-27159.html
+Пирожки слоеные с капустой,120.0,4,163,6,20.3,30.3,327.9,https://rtw.vkusvill.ru/goods/pirozhki-sloenye-s-kapustoy-53190.html
+Котлета рыбная с картофельным пюре,200.0,4,250,7.1,6,12.6,132.8,https://rtw.vkusvill.ru/goods/kotleta-rybnaya-s-kartofelnym-pyure-61688.html
+Лепешка с творогом и зеленью,160.0,5,150,15.8,3.5,18.7,169.5,https://rtw.vkusvill.ru/goods/lepeshka-s-tvorogom-i-zelenyu-78935.html
+Заливное из филе радужной форели,175.0,0,198,6.5,2,0.7,46.8,https://rtw.vkusvill.ru/goods/zalivnoe-iz-file-raduzhnoy-foreli-85592.html
+"Минтай жареный филе, 200 г",200.0,9,198,14.7,8.7,3.6,151.5,https://rtw.vkusvill.ru/goods/mintay-zharenyy-file-200-g-63774.html
+"Пирожки с зеленью и яйцом на сметанном тесте, 120 г (2шт)",120.0,0,117,9.9,21.5,26.3,338.3,https://rtw.vkusvill.ru/goods/pirozhki-s-zelenyu-i-yaytsom-na-smetannom-teste-120-g-2sht-46813.html
+"Сырники с малиновой начинкой, 120 грамм",120.0,0,155,13.4,10.5,22.1,236.5,https://rtw.vkusvill.ru/goods/syrniki-s-malinovoy-nachinkoy-120-gramm-64076.html
+"Салат с курицей, ананасами и сельдереем, 300 г",300.0,6,368,14.4,14.2,5,205.4,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-ananasami-i-seldereem-300-g-76362.html
+Шаурма с люля из баранины,250.0,6,281,8.4,8.8,34.8,252,https://rtw.vkusvill.ru/goods/shaurma-s-lyulya-iz-baraniny-76296.html
+Суп Солянка сборная с каперсами,300.0,0,299,1.7,2.2,6.1,51,https://rtw.vkusvill.ru/goods/sup-solyanka-sbornaya-s-kapersami-62856.html
+"Салат оливье с колбасой, 600 г",600.0,8,520,6,15,5.5,181,https://rtw.vkusvill.ru/goods/salat-olive-s-kolbasoy-600-g-40564.html
+"Сэндвич ролл с курицей, вяленой клюквой и арахисом",180.0,2,220,8.7,14.2,25.8,265.8,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-vyalenoy-klyukvoy-i-arakhisom-39781.html
+"Корюшка жареная, 250 г",250.0,6,278,13.5,11.9,7.4,190.7,https://rtw.vkusvill.ru/goods/koryushka-zharenaya-250-g-60198.html
+"Оладьи печеночные, 150 грамм",150.0,0,228,12.5,13.5,12.9,223.1,https://rtw.vkusvill.ru/goods/oladi-pechenochnye-150-gramm-64221.html
+Блин сырный по-голландски,140.0,13,188,10.7,23.4,17.7,324.2,https://rtw.vkusvill.ru/goods/blin-syrnyy-po-gollandski-38119.html
+Мини сырники фигурные,125.0,11,155,21.1,6.1,26.8,246.5,https://rtw.vkusvill.ru/goods/mini-syrniki-figurnye-70524.html
+"Огурцы «битые» по-корейски, 200 г",200.0,6,123,1.3,2.8,4.9,50,https://rtw.vkusvill.ru/goods/ogurtsy-bitye-po-koreyski-200-g-72842.html
+"Сэндвич ролл с курицей «Тандури», 190 грамм",190.0,0,220,10.5,13.5,19.7,242.3,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-tanduri-190-gramm-71292.html
+"Салат «Цезарь» с курицей, 150 г_РП",150.0,0,173,9.8,12.9,7.7,186.1,https://rtw.vkusvill.ru/goods/salat-tsezar-s-kuritsey-150-g-rp-77172.html
+"Котлета куриная с картофельным пюре, 400 г",400.0,6,370,12.6,6.6,11.3,155,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-400-g-58173.html
+"Оладьи печеночные, 300 г",300.0,6,378,10.9,11.4,16.2,211,https://rtw.vkusvill.ru/goods/oladi-pechenochnye-300-g-69649.html
+Борщ с говядиной Халяль_РП,260.0,0,200,,,,,https://rtw.vkusvill.ru/goods/borshch-s-govyadinoy-khalyal-rp-83086.html
+Куриное филе запеченное с кабачками,200.0,0,260,13.9,3.6,3.4,101.6,https://rtw.vkusvill.ru/goods/kurinoe-file-zapechennoe-s-kabachkami-65027.html
+Плов с овощами и нутом,250.0,6,160,3.2,8,29.1,201.2,https://rtw.vkusvill.ru/goods/plov-s-ovoshchami-i-nutom-45519.html
+Онигири с тунцом в майонезе,100.0,28,168,,,,,https://rtw.vkusvill.ru/goods/onigiri-s-tuntsom-v-mayoneze-20866.html
+Плов с говядиной пастеризованный_РП,250.0,0,220,5.3,10.3,20.4,195.8,https://rtw.vkusvill.ru/goods/plov-s-govyadinoy-pasterizovannyy-rp-66167.html
+Мясо по-французски с печеным картофелем,250.0,2,286,10.4,12.4,9,189.2,https://rtw.vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-54391.html
+Хумус «Марокканский» с вялеными томатами,200.0,8,178,8,17.6,15.9,254,https://rtw.vkusvill.ru/goods/khumus-marokkanskiy-s-vyalenymi-tomatami-76892.html
+"Кета жареная филе, 200 г",200.0,3,285,21.8,9.6,11.6,220,https://rtw.vkusvill.ru/goods/keta-zharenaya-file-200-g-70274.html
+Люля-кебаб из говядины с запеченным мини-картофелем,325.0,0,490,12,15.5,9.13,228,https://rtw.vkusvill.ru/goods/lyulya-kebab-iz-govyadiny-s-zapechennym-mini-kartofelem-76952.html
+Ролл «Симфония» с крабовыми палочками,180.0,6,228,3.7,4.1,26.5,157.7,https://rtw.vkusvill.ru/goods/roll-simfoniya-s-krabovymi-palochkami-71190.html
+Яичница глазунья с пикантной сосиской и томатами,247.0,0,280,12.8,12.7,1,173,https://rtw.vkusvill.ru/goods/yaichnitsa-glazunya-s-pikantnoy-sosiskoy-i-tomatami-82711.html
+Лепешка с зеленью,175.0,18,216,,,,,https://rtw.vkusvill.ru/goods/lepeshka-s-zelenyu-22487.html
+"Каша овсяная, 250 г",250.0,2,98,3.4,2.6,14,93,https://rtw.vkusvill.ru/goods/kasha-ovsyanaya-250-g-76778.html
+Чиабатта с куриным филе и соусом «Песто»,220.0,2,258,15,19.7,26.9,344.9,https://rtw.vkusvill.ru/goods/chiabatta-s-kurinym-file-i-sousom-pesto-78481.html
+Картофель жареный со свининой,200.0,2,248,6.9,19.1,21.4,285.1,https://rtw.vkusvill.ru/goods/kartofel-zharenyy-so-svininoy-69656.html
+Рис басмати,250.0,2,138,2.1,1.2,23.7,114,https://rtw.vkusvill.ru/goods/ris-basmati-69880.html
+Суп-крем овощной,300.0,8,154,1.8,3.7,4.9,60.1,https://rtw.vkusvill.ru/goods/sup-krem-ovoshchnoy-36634.html
+Хумус классический,200.0,14,176,7.3,18.1,13.2,244.9,https://rtw.vkusvill.ru/goods/khumus-klassicheskiy-42845.html
+Ежики мясные с отварной гречкой,250.0,6,210,7.4,12,10.2,178.4,https://rtw.vkusvill.ru/goods/ezhiki-myasnye-s-otvarnoy-grechkoy-43719.html
+Сосиски куриные с макаронами «Бантики»,260.0,0,264,8.6,8.1,20.2,188,https://rtw.vkusvill.ru/goods/sosiski-kurinye-s-makaronami-bantiki-58615.html
+"Шаурма с курицей, 180 г_РП",180.0,0,214,7.9,10.3,23,216.3,https://rtw.vkusvill.ru/goods/shaurma-s-kuritsey-180-g-rp-80569.html
+Сосиски куриные с картофельным пюре,210.0,16,208,8.6,8.4,9.5,148,https://rtw.vkusvill.ru/goods/sosiski-kurinye-s-kartofelnym-pyure-79479.html
+"Сэндвич ролл с омлетом, ветчиной и сыром, 170 грамм",170.0,0,208,10.9,13.3,20.8,246.5,https://rtw.vkusvill.ru/goods/sendvich-roll-s-omletom-vetchinoy-i-syrom-170-gramm-61948.html
+Рис «По-тайски»,250.0,8,206,7.8,7.2,14.8,155.2,https://rtw.vkusvill.ru/goods/ris-po-tayski-18354.html
+"Оладьи с яблоком, 330 г",330.0,10,305,5.9,7.1,33.9,223.1,https://rtw.vkusvill.ru/goods/oladi-s-yablokom-330-g-71962.html
+Онигирадзу с курицей и соевым соусом,130.0,0,188,8.8,18.1,42.7,368.9,https://rtw.vkusvill.ru/goods/onigiradzu-s-kuritsey-i-soevym-sousom-78050.html
+Картофельное пюре с печеночными оладьями,280.0,0,274,6.9,6.8,15,151,https://rtw.vkusvill.ru/goods/kartofelnoe-pyure-s-pechenochnymi-oladyami-76649.html
+Салат из моркови с сыром,140.0,10,130,5.1,16.6,6.3,195,https://rtw.vkusvill.ru/goods/salat-iz-morkovi-s-syrom-61594.html
+"Салат с курицей и ананасами, 180 г",180.0,14,196,9.8,19.7,3.4,230.1,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-i-ananasami-180-g-68083.html
+"Набор роллов «Сэтто» с форелью, с креветкой, с огурцом и роллами «Филадельфия»",860.0,0,1 520,,,,,https://rtw.vkusvill.ru/goods/nabor-rollov-setto-s-forelyu-s-krevetkoy-s-ogurtsom-i-rollami-filadelfiya-77845.html
+Биточки морковные,190.0,2,155,2.8,7,22.5,164.2,https://rtw.vkusvill.ru/goods/bitochki-morkovnye-43468.html
+"Суп «Рассольник» с курицей, 390 грамм",390.0,0,176,2.8,0.5,3.9,31.3,https://rtw.vkusvill.ru/goods/sup-rassolnik-s-kuritsey-390-gramm-61047.html
+"Каша рисовая на кокос молоке с с/фрукт, кафе",200.0,0,180,1.71,6.73,19.29,144.62,https://rtw.vkusvill.ru/goods/kasha-risovaya-na-kokos-moloke-s-s-frukt-kafe-33785.html
+"Морковь по-корейски, 500 г",500.0,12,145,1.1,6.1,10.4,100.9,https://rtw.vkusvill.ru/goods/morkov-po-koreyski-500-g-72149.html
+Котлета «Домашняя» (2 шт.) с картофельным пюре,310.0,0,334,8.2,9.4,17.7,185,https://rtw.vkusvill.ru/goods/kotleta-domashnyaya-2-sht-s-kartofelnym-pyure-44776.html
+Запеканка творожная с чёрной смородиной,250.0,4,237,10.4,3,22,156.6,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-chyernoy-smorodinoy-39479.html
+"Пирог с семгой, брокколи и брынзой",170.0,4,258,10.3,4.6,17.2,151.4,https://rtw.vkusvill.ru/goods/pirog-s-semgoy-brokkoli-i-brynzoy-61281.html
+Сэндвич ролл «Цезарь»,160.0,56,210,9.6,11.8,23.8,239.8,https://rtw.vkusvill.ru/goods/sendvich-roll-tsezar-20542.html
+Биточек сочный с пенне,200.0,2,198,10.2,6.7,23.3,194.3,https://rtw.vkusvill.ru/goods/bitochek-sochnyy-s-penne-61689.html
+"Киш с курицей и грибами, кафе",160.0,8,185,12.5,16.9,17.8,273.3,https://rtw.vkusvill.ru/goods/kish-s-kuritsey-i-gribami-kafe-27158.html
+"Чиабатта с курицей, пармезаном и соусом цезарь, кафе рег",180.0,0,220,8.8,15.7,26,280.5,https://rtw.vkusvill.ru/goods/chiabatta-s-kuritsey-parmezanom-i-sousom-tsezar-kafe-reg-51466.html
+Сэндвич ролл с лососем и шпинатом,160.0,10,242,,,,,https://rtw.vkusvill.ru/goods/sendvich-roll-s-lososem-i-shpinatom-37319.html
+Ленивые голубцы в сметанном соусе,272.0,0,282,8.9,10.7,5.7,159,https://rtw.vkusvill.ru/goods/lenivye-golubtsy-v-smetannom-souse-81154.html
+"Салат «Оливье», 1 кг",1000.0,0,1 148,7.3,12.7,11.7,190.3,https://rtw.vkusvill.ru/goods/salat-olive-1-kg-84807.html
+"Пирожок с куриной начинкой, кафе",50.0,0,70,,,,,https://rtw.vkusvill.ru/goods/pirozhok-s-kurinoy-nachinkoy-kafe-36940.html
+"Шаурма с курицей, 230 г",230.0,12,208,7.8,12.9,20.9,230.9,https://rtw.vkusvill.ru/goods/shaurma-s-kuritsey-230-g-70874.html
+Мясо «под шубой» с картофелем,240.0,4,312,11.5,19.7,14.6,281.7,https://rtw.vkusvill.ru/goods/myaso-pod-shuboy-s-kartofelem-59237.html
+"Запеканка творожная «Нежная», кафе",180.0,4,160,12.6,5.6,16.1,165.73,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-nezhnaya-kafe-44548.html
+Хумус «Ливанский» острый,200.0,0,158,8.1,18.1,15.1,255.7,https://rtw.vkusvill.ru/goods/khumus-livanskiy-ostryy-76893.html
+Креветки в зеленом соусе с лимонным соком,135.0,4,502,14.5,15.2,2.9,206.4,https://rtw.vkusvill.ru/goods/krevetki-v-zelenom-souse-s-limonnym-sokom-76932.html
+Шницель из свинины в сырной панировке с картофельным пюре,220.0,4,260,10.6,9.4,13.6,181.4,https://rtw.vkusvill.ru/goods/shnitsel-iz-svininy-v-syrnoy-panirovke-s-kartofelnym-pyure-74022.html
+"Салат с индейкой, копченым куриным филе и ананасами, 600 г",600.0,0,620,9.8,13.5,11,204.7,https://rtw.vkusvill.ru/goods/salat-s-indeykoy-kopchenym-kurinym-file-i-ananasami-600-g-71373.html
+Винегрет овощной Халяль_РП,180.0,0,150,,,,,https://rtw.vkusvill.ru/goods/vinegret-ovoshchnoy-khalyal-rp-83085.html
+Салат «Цезарь»,180.0,12,284,,,,,https://rtw.vkusvill.ru/goods/salat-tsezar-19363.html
+"Пицца «Курица, Грибы, Терияки», охлажденная",400.0,7,410,11.3,8,23.4,210.8,https://rtw.vkusvill.ru/goods/pitstsa-kuritsa-griby-teriyaki-okhlazhdennaya-78866.html
+Салат охлажденный «Кабачки с морковью по-корейски»,200.0,2,116,0.9,10.2,9,131.4,https://rtw.vkusvill.ru/goods/salat-okhlazhdennyy-kabachki-s-morkovyu-po-koreyski-70371.html
+Курица в сливочном соусе с гречкой,235.0,8,246,11,7,11.4,152.6,https://rtw.vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-grechkoy-53516.html
+Каша овсяная молочная_РП,250.0,0,146,4,3,17,111,https://rtw.vkusvill.ru/goods/kasha-ovsyanaya-molochnaya-rp-75583.html
+"Мойва жареная, вес",,0,845,11.7,19.6,6.1,247,https://rtw.vkusvill.ru/goods/moyva-zharenaya-ves-54398.html
+Заливное из говяжьего языка,300.0,16,297,5.4,9.2,0.9,108,https://rtw.vkusvill.ru/goods/zalivnoe-iz-govyazhego-yazyka-18164.html
+Набор онигири «С тунцом + Филадельфия» с соевым соусом,250.0,0,378,,,,,https://rtw.vkusvill.ru/goods/nabor-onigiri-s-tuntsom-filadelfiya-s-soevym-sousom-81298.html
+"Салат «Гранатовый» с куриным филе, 600 г",600.0,0,550,11.2,14.9,13.5,232.9,https://rtw.vkusvill.ru/goods/salat-granatovyy-s-kurinym-file-600-g-71374.html
+"Суп Куриный, 300 г",300.0,0,178,3.9,2.2,3.3,48.6,https://rtw.vkusvill.ru/goods/sup-kurinyy-300-g-46332.html
+Азу из индейки с рисом_РП,230.0,0,260,8.4,3.7,20.4,148.5,https://rtw.vkusvill.ru/goods/azu-iz-indeyki-s-risom-rp-76811.html
+"Сэндвич-ролл «Фалафель» с хумусом и овощами, кафе",180.0,12,200,8.9,16.5,42,352.3,https://rtw.vkusvill.ru/goods/sendvich-roll-falafel-s-khumusom-i-ovoshchami-kafe-57853.html
+Стейк из куриного филе на гриле с брокколи на пару,250.0,8,248,,,,,https://rtw.vkusvill.ru/goods/steyk-iz-kurinogo-file-na-grile-s-brokkoli-na-paru-43693.html
+Паста «Карбонара»,240.0,0,278,,,,,https://rtw.vkusvill.ru/goods/pasta-karbonara-25690.html
+Котлета Домашняя с макаронами,220.0,6,208,11.2,7.4,15.7,174.2,https://rtw.vkusvill.ru/goods/kotleta-domashnyaya-s-makaronami-67621.html
+Сэндвич ролл с кетой и яйцом,160.0,0,208,9.1,14.1,28,275.3,https://rtw.vkusvill.ru/goods/sendvich-roll-s-ketoy-i-yaytsom-33697.html
+Яйца перепелиные копченые «Молодецкие»,200.0,12,298,12,13,0.2,165.8,https://rtw.vkusvill.ru/goods/yaytsa-perepelinye-kopchenye-molodetskie-36059.html
+"Азу из говядины с маринованными огурцами, 500 г",500.0,0,830,10.3,10.9,5.6,161.7,https://rtw.vkusvill.ru/goods/azu-iz-govyadiny-s-marinovannymi-ogurtsami-500-g-80725.html
+Паприкаш куриный с картофельным пюре,332.0,0,304,7.1,6.1,13.7,138,https://rtw.vkusvill.ru/goods/paprikash-kurinyy-s-kartofelnym-pyure-81065.html
+"Сырники из творога, кафе",120.0,0,135,14.8,10.5,20.4,235.3,https://rtw.vkusvill.ru/goods/syrniki-iz-tvoroga-kafe-27161.html
+Суп с фрикадельками из индейки,300.0,26,168,,,,,https://rtw.vkusvill.ru/goods/sup-s-frikadelkami-iz-indeyki-16416.html
+Суп-крем куриный,270.0,16,188,4.3,4.7,9.9,99.1,https://rtw.vkusvill.ru/goods/sup-krem-kurinyy-25262.html
+Бефстроганов из говядины с гречкой отварной,200.0,2,282,10.1,9.3,17.2,192.9,https://rtw.vkusvill.ru/goods/befstroganov-iz-govyadiny-s-grechkoy-otvarnoy-52702.html
+Блинчики с печенью и яйцом,150.0,0,195,8.2,9.4,21.2,202.2,https://rtw.vkusvill.ru/goods/blinchiki-s-pechenyu-i-yaytsom-69140.html
+Закуска из баклажанов,80.0,6,178,4.8,24.3,7.7,268.7,https://rtw.vkusvill.ru/goods/zakuska-iz-baklazhanov-38635.html
+"Салат «Гнездо глухаря» с копченой курицей, 500 г",500.0,6,680,12.4,21.8,4.4,263.4,https://rtw.vkusvill.ru/goods/salat-gnezdo-glukharya-s-kopchenoy-kuritsey-500-g-84853.html
+"Запеканка из творожного сыра рикотта с апельсином, 100 г",100.0,7,116,9.5,11.8,22,232.2,https://rtw.vkusvill.ru/goods/zapekanka-iz-tvorozhnogo-syra-rikotta-s-apelsinom-100-g-73410.html
+"Расстегаи с лососем и палтусом, 120 г (2 шт)",120.0,4,175,11.7,11.8,24,249,https://rtw.vkusvill.ru/goods/rasstegai-s-lososem-i-paltusom-120-g-2-sht-46828.html
+Котлеты Домашние с картофельным пюре,220.0,6,270,,,,,https://rtw.vkusvill.ru/goods/kotlety-domashnie-s-kartofelnym-pyure-58171.html
+Котлета из щуки (1 шт.) с картофельным пюре,270.0,0,258,6.01,6.28,14.9,134,https://rtw.vkusvill.ru/goods/kotleta-iz-shchuki-1-sht-s-kartofelnym-pyure-56403.html
+Хумус с минихлебцами,130.0,9,110,,,,,https://rtw.vkusvill.ru/goods/khumus-s-minikhlebtsami-23761.html
+Салат «Снегурочка» с мандаринами,245.0,0,350,5.7,5,9.17,107,https://rtw.vkusvill.ru/goods/salat-snegurochka-s-mandarinami-71673.html
+Бургеры с куриной котлетой и сыром Чеддер,145.0,8,208,17.4,15.7,21.5,296.9,https://rtw.vkusvill.ru/goods/burgery-s-kurinoy-kotletoy-i-syrom-chedder-78473.html
+Омлет на козьем молоке,180.0,0,168,5.6,8.5,3.3,112.1,https://rtw.vkusvill.ru/goods/omlet-na-kozem-moloke-83220.html
+"Говядина томленая, 350 г",350.0,6,498,16,8.4,0.5,141.6,https://rtw.vkusvill.ru/goods/govyadina-tomlenaya-350-g-70724.html
+Закуска фава «Классическая»,200.0,10,101,7,8.5,16,168.5,https://rtw.vkusvill.ru/goods/zakuska-fava-klassicheskaya-29009.html
+Суп «Рассольник» вегетарианский с грибами и сельдереем,270.0,6,166,1,0.5,6.8,35.7,https://rtw.vkusvill.ru/goods/sup-rassolnik-vegetarianskiy-s-gribami-i-seldereem-74326.html
+Борщ с говядиной 300 г_РП,300.0,0,200,3,2,4,46.7,https://rtw.vkusvill.ru/goods/borshch-s-govyadinoy-300-g-rp-79362.html
+Сэндвич-ролл с курицей «Сациви»,180.0,2,220,8.1,12.9,20.5,230.5,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-satsivi-38113.html
+"Борщ «Вегетарианский», 1 кг",1000.0,15,390,1,2.6,5.9,51,https://rtw.vkusvill.ru/goods/borshch-vegetarianskiy-1-kg-44627.html
+Запеканка рыбная с печеным картофелем,220.0,0,292,10.7,15.9,12.9,237.5,https://rtw.vkusvill.ru/goods/zapekanka-rybnaya-s-pechenym-kartofelem-67264.html
+Суп-пюре с курицей и овощами пастеризованный_РП,250.0,0,189,4.8,2.3,6.9,67.5,https://rtw.vkusvill.ru/goods/sup-pyure-s-kuritsey-i-ovoshchami-pasterizovannyy-rp-80600.html
+Розанчики творожно-сливочные с топпингом «Манго и Маракуйя»,150.0,5,228,6.7,21.5,20.8,303.5,https://rtw.vkusvill.ru/goods/rozanchiki-tvorozhno-slivochnye-s-toppingom-mango-i-marakuyya-47139.html
+Сэндвич ролл «Буррито» с растительным мясом,160.0,2,228,7.3,7,22.4,181.8,https://rtw.vkusvill.ru/goods/sendvich-roll-burrito-s-rastitelnym-myasom-55350.html
+"Рагу овощное с кабачками, 450 г",450.0,2,398,1.6,4.5,12,94.9,https://rtw.vkusvill.ru/goods/ragu-ovoshchnoe-s-kabachkami-450-g-79480.html
+Салат «Греческий»,190.0,2,292,3.5,15.9,4,183.7,https://rtw.vkusvill.ru/goods/salat-grecheskiy-24991.html
+"Пирожок с яблочной начинкой, кафе",50.0,0,55,5.7,9.6,38.8,264.4,https://rtw.vkusvill.ru/goods/pirozhok-s-yablochnoy-nachinkoy-kafe-36939.html
+Сэндвич «Клаб»,90.0,6,155,11.8,14.5,19.3,254.9,https://rtw.vkusvill.ru/goods/sendvich-klab-50364.html
+Паста «Орзо» с запеченной курицей,240.0,4,198,9.9,7.1,19.3,180.7,https://rtw.vkusvill.ru/goods/pasta-orzo-s-zapechennoy-kuritsey-68436.html
+Бефстроганов из индейки с картофелем_РП,250.0,0,255,5.6,6,13.5,130.4,https://rtw.vkusvill.ru/goods/befstroganov-iz-indeyki-s-kartofelem-rp-70261.html
+Котлета куриная со шпинатом и картофельным пюре_РП,250.0,0,175,5.1,3.3,13.2,102.9,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-so-shpinatom-i-kartofelnym-pyure-rp-83223.html
+Набор: Крем-суп грибной + Гречка с говядиной в сливочном соусе,,0,505,,,,,https://rtw.vkusvill.ru/goods/nabor-krem-sup-gribnoy-grechka-s-govyadinoy-v-slivochnom-souse-58642.html
+Салат «Новогодний» с бужениной,215.0,0,300,4.2,5.05,6.3,94,https://rtw.vkusvill.ru/goods/salat-novogodniy-s-buzheninoy-85297.html
+Салат «Оливье вегетарианский»,200.0,4,208,1.7,8.7,8.1,117.5,https://rtw.vkusvill.ru/goods/salat-olive-vegetarianskiy-45767.html
+"Сырники творожные, 260 г",260.0,0,188,14.7,4,22.2,183,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-260-g-64201.html
+Ролл с креветкой и огурцом,200.0,6,290,6.6,0.8,26.5,139.6,https://rtw.vkusvill.ru/goods/roll-s-krevetkoy-i-ogurtsom-69875.html
+Гречневая лапша с индейкой,200.0,8,292,7.8,4.2,10.6,111.4,https://rtw.vkusvill.ru/goods/grechnevaya-lapsha-s-indeykoy-41137.html
+"Салат «Нисуаз», 200 г",200.0,2,328,8.2,11.5,5.1,156.7,https://rtw.vkusvill.ru/goods/salat-nisuaz-200-g-81428.html
+Салат с индейкой и соусом «Наршараб»_РП,165.0,0,270,8.3,6.4,18.7,165.6,https://rtw.vkusvill.ru/goods/salat-s-indeykoy-i-sousom-narsharab-rp-72544.html
+Вок с креветкой в соево-чесночном соусе,270.0,16,348,5.8,2.5,21,130,https://rtw.vkusvill.ru/goods/vok-s-krevetkoy-v-soevo-chesnochnom-souse-37779.html
+"Куриное филе запеченное с овощами, 210 грамм",210.0,0,296,10.3,3.8,3.6,89.8,https://rtw.vkusvill.ru/goods/kurinoe-file-zapechennoe-s-ovoshchami-210-gramm-62454.html
+Плов с курицей_РП,250.0,0,188,14,18,53,430,https://rtw.vkusvill.ru/goods/plov-s-kuritsey-rp-75581.html
+Розанчики творожно-сливочные с начинкой «Вишня»,150.0,0,218,6.7,21.5,20.8,303.5,https://rtw.vkusvill.ru/goods/rozanchiki-tvorozhno-slivochnye-s-nachinkoy-vishnya-75498.html
+Форель радужная филе на коже на гриле 160г,160.0,1,490,21,18,1,250,https://rtw.vkusvill.ru/goods/forel-raduzhnaya-file-na-kozhe-na-grile-160g-75770.html
+Салат «Цезарь» с курицей и кешью_РП,200.0,0,295,10.2,20.9,2.7,240,https://rtw.vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-keshyu-rp-74448.html
+"Филе куриной грудки с перцем и чесноком, нарезка",150.0,3,228,23.4,3.2,0,122.4,https://rtw.vkusvill.ru/goods/file-kurinoy-grudki-s-pertsem-i-chesnokom-narezka-24435.html
+Большая порция сырников творожных со сметаной и малиновым вареньем,410.0,0,381,13.64,9.49,22.5,225,https://rtw.vkusvill.ru/goods/bolshaya-portsiya-syrnikov-tvorozhnykh-so-smetanoy-i-malinovym-varenem-64454.html
+Картофельные дольки по-техасски с беконом,245.0,0,250,4.19,8.22,16.94,156,https://rtw.vkusvill.ru/goods/kartofelnye-dolki-po-tekhasski-s-bekonom-70751.html
+"Салат «Сельдь под шубой», 180 грамм",180.0,0,168,6.4,16.1,7.8,201.7,https://rtw.vkusvill.ru/goods/salat-seld-pod-shuboy-180-gramm-68094.html
+Запеканка творожная «Айва-банан» без доб. сахара,220.0,4,186,12.9,4.5,15.8,155.3,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-ayva-banan-bez-dob-sakhara-29330.html
+"Штрудель яблочный, веган",110.0,6,130,2.9,3.6,51.7,250.8,https://rtw.vkusvill.ru/goods/shtrudel-yablochnyy-vegan-51294.html
+Запеканка творожная с грушей,250.0,10,206,,,,,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-grushey-39477.html
+"Пирог осетинский с курицей, грибами и сыром, 250 г",250.0,8,224,12.1,11.4,26.4,256.6,https://rtw.vkusvill.ru/goods/pirog-osetinskiy-s-kuritsey-gribami-i-syrom-250-g-75365.html
+Морепродукты в лимонном соусе с пюре «Васаби»,300.0,0,468,20.4,10.2,9.8,212.6,https://rtw.vkusvill.ru/goods/moreprodukty-v-limonnom-souse-s-pyure-vasabi-82800.html
+"Пирожки с капустой и яйцом, 140 г (2 шт)",140.0,0,143,6.3,13.7,31.9,276.1,https://rtw.vkusvill.ru/goods/pirozhki-s-kapustoy-i-yaytsom-140-g-2-sht-44582.html
+"Блины с творогом, 210 грамм",210.0,0,176,6.4,15.9,24.7,267.5,https://rtw.vkusvill.ru/goods/bliny-s-tvorogom-210-gramm-65050.html
+Омлет с брокколи,250.0,0,215,10.2,7.3,4.2,123.3,https://rtw.vkusvill.ru/goods/omlet-s-brokkoli-54146.html
+Котлета Нежная со сливочным маслом и картофельным пюре,230.0,26,210,10.8,10.1,23.2,226.9,https://rtw.vkusvill.ru/goods/kotleta-nezhnaya-so-slivochnym-maslom-i-kartofelnym-pyure-67243.html
+Профитроли с паштетом из куриной печени,130.0,6,198,10,16,17.3,253.2,https://rtw.vkusvill.ru/goods/profitroli-s-pashtetom-iz-kurinoy-pecheni-72152.html
+Куриные шарики с картофельным пюре и чесночным соусом,330.0,0,382,11.2,13.2,17.7,233,https://rtw.vkusvill.ru/goods/kurinye-shariki-s-kartofelnym-pyure-i-chesnochnym-sousom-85938.html
+Суп «Харчо» из баранины,390.0,0,338,6,6.4,8,113.6,https://rtw.vkusvill.ru/goods/sup-kharcho-iz-baraniny-83102.html
+Кесадилья с ветчиной из индейки и сыром,230.0,4,298,12.3,22.7,18.3,326.7,https://rtw.vkusvill.ru/goods/kesadilya-s-vetchinoy-iz-indeyki-i-syrom-83595.html
+Суп из шпината с филе лосося,270.0,8,198,4.6,6.9,1.6,86.9,https://rtw.vkusvill.ru/goods/sup-iz-shpinata-s-file-lososya-51927.html
+Азу по-татарски с картофельным пюре,230.0,2,270,4.3,5.8,11.9,117,https://rtw.vkusvill.ru/goods/azu-po-tatarski-s-kartofelnym-pyure-70127.html
+"Борщ «Украинский» с курицей, 3 кг",3000.0,5,1 090,3.8,1.1,5.6,47.5,https://rtw.vkusvill.ru/goods/borshch-ukrainskiy-s-kuritsey-3-kg-81278.html
+"Лепешка с картофелем и грибами (постная), 2 шт",180.0,7,170,4.3,2.1,26.9,143.7,https://rtw.vkusvill.ru/goods/lepeshka-s-kartofelem-i-gribami-postnaya-2-sht-79731.html
+Ризотто с белыми грибами,280.0,0,421,4.4,8.2,18.2,164.2,https://rtw.vkusvill.ru/goods/rizotto-s-belymi-gribami-75224.html
+Ролл с лососем,243.0,2,420,,,,,https://rtw.vkusvill.ru/goods/roll-s-lososem-51823.html
+Спагетти Болоньезе Эмилия Романья,260.0,2,348,12,7,35,203,https://rtw.vkusvill.ru/goods/spagetti-boloneze-emiliya-romanya-82556.html
+"Пирожок с курицей и шпинатом, кафе рег",50.0,0,60,17,8.5,30,264.5,https://rtw.vkusvill.ru/goods/pirozhok-s-kuritsey-i-shpinatom-kafe-reg-59278.html
+"Фузилли с фрикадельками и грибным соусом, пастеризованные_РП",250.0,0,213,8.1,11.7,14.9,197.3,https://rtw.vkusvill.ru/goods/fuzilli-s-frikadelkami-i-gribnym-sousom-pasterizovannye-rp-77903.html
+Сырники с малиновой начинкой,120.0,10,155,13.3,9.1,33.9,270.7,https://rtw.vkusvill.ru/goods/syrniki-s-malinovoy-nachinkoy-41142.html
+"Салат «Сельдь под шубой», 180 г",180.0,12,168,5.8,13.8,4.8,166.6,https://rtw.vkusvill.ru/goods/salat-seld-pod-shuboy-180-g-25292.html
+Салат куриный BBQ,235.0,0,350,13.22,5.49,6.22,121,https://rtw.vkusvill.ru/goods/salat-kurinyy-bbq-66453.html
+Картофель запеченный с прованскими травами,250.0,0,198,3.6,3.4,24,141,https://rtw.vkusvill.ru/goods/kartofel-zapechennyy-s-provanskimi-travami-70125.html
+Куриное филе запеченное с овощами,210.0,8,296,,,,,https://rtw.vkusvill.ru/goods/kurinoe-file-zapechennoe-s-ovoshchami-22929.html
+Круассан с ветчиной и сыром и апельсиновый фреш 500 мл,660.0,0,478,,,,,https://rtw.vkusvill.ru/goods/kruassan-s-vetchinoy-i-syrom-i-apelsinovyy-fresh-500-ml-71030.html
+"Салат «Сельдь под шубой», 600 грамм",600.0,0,470,6.4,16.1,7.8,201.7,https://rtw.vkusvill.ru/goods/salat-seld-pod-shuboy-600-gramm-71634.html
+"Пирожок с зеленью и яйцом, кафе",50.0,0,60,,,,,https://rtw.vkusvill.ru/goods/pirozhok-s-zelenyu-i-yaytsom-kafe-36945.html
+Тефтели в сливочно-томатном соусе с рисом_РП,250.0,0,207,7.5,5.9,22,171.1,https://rtw.vkusvill.ru/goods/tefteli-v-slivochno-tomatnom-souse-s-risom-rp-77230.html
+Плов по-узбекски с говядиной,260.0,0,271,7.1,1.8,24.6,146,https://rtw.vkusvill.ru/goods/plov-po-uzbekski-s-govyadinoy-64459.html
+Шаурма с курицей и печеным картофелем,230.0,10,242,9,9.9,26.3,230.3,https://rtw.vkusvill.ru/goods/shaurma-s-kuritsey-i-pechenym-kartofelem-63729.html
+Комбо-обед (суп + второе),600.0,0,435,34,30,48,596,https://rtw.vkusvill.ru/goods/kombo-obed-sup-vtoroe-84275.html
+Пельмени с курицей и укропом,265.0,0,295,11.89,11.67,21.9,244,https://rtw.vkusvill.ru/goods/pelmeni-s-kuritsey-i-ukropom-62059.html
+Утка конфи в соусе из печеной сливы,210.0,0,448,29.7,42.1,18.4,571.3,https://rtw.vkusvill.ru/goods/utka-konfi-v-souse-iz-pechenoy-slivy-81588.html
+"Чиабатта с курицей, пармезаном и соусом цезарь, кафе",215.0,8,220,8.8,15.7,26,280.5,https://rtw.vkusvill.ru/goods/chiabatta-s-kuritsey-parmezanom-i-sousom-tsezar-kafe-39250.html
+Роллы с филе радужной форели и омлетом,205.0,0,448,17,5.8,16.5,186.2,https://rtw.vkusvill.ru/goods/rolly-s-file-raduzhnoy-foreli-i-omletom-76437.html
+Сэндвич ролл с курицей Том Ям_РП,170.0,0,216,6.6,12.5,20.8,222.1,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-tom-yam-rp-80560.html
+Каша рисовая с бананом и персиком,338.0,0,258,2.1,5.8,26.9,167.8,https://rtw.vkusvill.ru/goods/kasha-risovaya-s-bananom-i-persikom-53915.html
+Рагу из индейки в томатном соусе с пюре,290.0,4,238,6.6,5,11.8,118.6,https://rtw.vkusvill.ru/goods/ragu-iz-indeyki-v-tomatnom-souse-s-pyure-54223.html
+Конвертики с творогом и зеленью,140.0,4,202,12.2,16.3,24.7,294.3,https://rtw.vkusvill.ru/goods/konvertiki-s-tvorogom-i-zelenyu-68839.html
+"Омлет белковый с куриным филе, овощами и мягким сыром",160.0,0,270,4.7,1.6,14.2,90,https://rtw.vkusvill.ru/goods/omlet-belkovyy-s-kurinym-file-ovoshchami-i-myagkim-syrom-52515.html
+"Птитим с филе из индейки, вешенками и кукурузой в сливочном соусе 250г_РП",250.0,0,221,6.1,8.9,20.2,185,https://rtw.vkusvill.ru/goods/ptitim-s-file-iz-indeyki-veshenkami-i-kukuruzoy-v-slivochnom-souse-250g-rp-74456.html
+"Мясо по-французски с печеным картофелем, 450 г",450.0,6,490,10.4,12.4,9,189.2,https://rtw.vkusvill.ru/goods/myaso-po-frantsuzski-s-pechenym-kartofelem-450-g-61045.html
+Котлетки рыбные с запеченными овощами,180.0,8,250,6.4,5,6,95,https://rtw.vkusvill.ru/goods/kotletki-rybnye-s-zapechennymi-ovoshchami-30084.html
+Круассан с лососем и сливочным сыром,210.0,0,373,8.07,13.31,20.64,233,https://rtw.vkusvill.ru/goods/kruassan-s-lososem-i-slivochnym-syrom-66447.html
+"Спагетти «Болоньезе», 260 грамм",260.0,0,208,10.4,7.2,39.6,264.8,https://rtw.vkusvill.ru/goods/spagetti-boloneze-260-gramm-62413.html
+Киш с горбушей и брокколи_РП,80.0,0,160,,,,,https://rtw.vkusvill.ru/goods/kish-s-gorbushey-i-brokkoli-rp-50041.html
+Вареники с вишней и сметаной,260.0,0,198,4.2,5.2,34.5,197,https://rtw.vkusvill.ru/goods/vareniki-s-vishney-i-smetanoy-81135.html
+Блины с ветчиной (из свинины) и с сыром,210.0,8,188,11,12.2,24.5,251.8,https://rtw.vkusvill.ru/goods/bliny-s-vetchinoy-iz-svininy-i-s-syrom-20835.html
+"Суп «Гороховый» с копчёностями, 1кг",1000.0,6,490,3.4,6.5,4.4,89.7,https://rtw.vkusvill.ru/goods/sup-gorokhovyy-s-kopchyenostyami-1kg-72947.html
+Салат Винегрет без картофеля,150.0,28,116,,,,,https://rtw.vkusvill.ru/goods/salat-vinegret-bez-kartofelya-25360.html
+Бефстроганов из говядины с картофельным пюре,230.0,8,292,11.7,10,11.9,184.4,https://rtw.vkusvill.ru/goods/befstroganov-iz-govyadiny-s-kartofelnym-pyure-24513.html
+Сэндвич ролл с бужениной запеченной,175.0,14,208,,,,,https://rtw.vkusvill.ru/goods/sendvich-roll-s-buzheninoy-zapechennoy-21419.html
+Каша пшенная с тыквой и яблоком,235.0,0,200,2.5,2.9,14.1,92,https://rtw.vkusvill.ru/goods/kasha-pshennaya-s-tykvoy-i-yablokom-72672.html
+"Драники картофельные, 200 г",200.0,8,188,4.3,10.8,18.7,189.2,https://rtw.vkusvill.ru/goods/draniki-kartofelnye-200-g-31881.html
+Гратен картофельный с куриной котлетой и соусом,320.0,0,380,9.9,16.3,9.5,224,https://rtw.vkusvill.ru/goods/graten-kartofelnyy-s-kurinoy-kotletoy-i-sousom-82202.html
+"Оладьи куриные, 320 г",320.0,8,310,15.5,12.4,5.3,194.8,https://rtw.vkusvill.ru/goods/oladi-kurinye-320-g-68438.html
+Мама бургер с голубым сыром и вишневым вареньем,295.0,0,435,13.01,22.32,16.11,316,https://rtw.vkusvill.ru/goods/mama-burger-s-golubym-syrom-i-vishnevym-varenem-43138.html
+Вок рамен с курицей в апельсиново-имбирном соусе,270.0,8,320,,,,,https://rtw.vkusvill.ru/goods/vok-ramen-s-kuritsey-v-apelsinovo-imbirnom-souse-37782.html
+Похлебка грибная,270.0,6,168,,,,,https://rtw.vkusvill.ru/goods/pokhlebka-gribnaya-24796.html
+Запеканка творожная с черникой,250.0,9,206,10.4,3.5,19.2,149.9,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-chernikoy-39480.html
+Котлета куриная с карт. пюре и овощами,250.0,4,210,10.1,7.3,6.5,132.1,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-s-kart-pyure-i-ovoshchami-29021.html
+Лепешка «Индийская» с картофелем и карри (постная),160.0,10,150,6.6,5.4,36.3,220.2,https://rtw.vkusvill.ru/goods/lepeshka-indiyskaya-s-kartofelem-i-karri-postnaya-65385.html
+Ролл с креветкой и семгой,223.0,12,420,7.6,7.8,26.6,207,https://rtw.vkusvill.ru/goods/roll-s-krevetkoy-i-semgoy-65383.html
+Салат винегрет с маринованной капустой,180.0,8,130,,,,,https://rtw.vkusvill.ru/goods/salat-vinegret-s-marinovannoy-kapustoy-20665.html
+Сырники творожные со сметаной,265.0,0,247,14.23,10.58,18.42,227,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-so-smetanoy-64451.html
+Жюльен «Грибной» с шампиньонами и белыми грибами,110.0,8,153,,,,,https://rtw.vkusvill.ru/goods/zhyulen-gribnoy-s-shampinonami-i-belymi-gribami-71219.html
+"Пирожки жареные с мясом (бездрожжевые), 4 шт",340.0,4,315,10.5,13.8,27.4,275.8,https://rtw.vkusvill.ru/goods/pirozhki-zharenye-s-myasom-bezdrozhzhevye-4-sht-84525.html
+Набор: Салат Витаминный + Плов с курицей,150.0,8,310,,,,,https://rtw.vkusvill.ru/goods/nabor-salat-vitaminnyy-plov-s-kuritsey-35710.html
+Сырники творожные,,2,610,,,,,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-1642.html
+"Пирог осетинский с картофелем и сыром, 500 г",500.0,6,344,9,7,24,195,https://rtw.vkusvill.ru/goods/pirog-osetinskiy-s-kartofelem-i-syrom-500-g-22540.html
+Запеканка с манго,200.0,5,178,12.8,4,17.7,158,https://rtw.vkusvill.ru/goods/zapekanka-s-mango-76458.html
+Кукуруза гриль с соусом,245.0,0,189,4.01,6.06,19.19,146,https://rtw.vkusvill.ru/goods/kukuruza-gril-s-sousom-70771.html
+"Каша рисовая молочная, 250 г",250.0,22,180,1.5,4,14,98,https://rtw.vkusvill.ru/goods/kasha-risovaya-molochnaya-250-g-72848.html
+Салат «Царская Охота»,200.0,10,220,12.1,19.5,4.4,241.5,https://rtw.vkusvill.ru/goods/salat-tsarskaya-okhota-43199.html
+Котлета Пожарская с картофельным пюре,240.0,10,236,17.8,12.5,13.8,238.9,https://rtw.vkusvill.ru/goods/kotleta-pozharskaya-s-kartofelnym-pyure-39543.html
+Филе форели на пару,170.0,4,530,,,,,https://rtw.vkusvill.ru/goods/file-foreli-na-paru-75130.html
+Хачапури по-мегрельски,150.0,0,203,14.1,19,28.3,340.6,https://rtw.vkusvill.ru/goods/khachapuri-po-megrelski-76365.html
+Сэндвич ролл с индейкой су-вид_РП,160.0,0,178,8.1,7.1,23.8,191.5,https://rtw.vkusvill.ru/goods/sendvich-roll-s-indeykoy-su-vid-rp-81380.html
+Картофельное пюре с куриными колбасками,240.0,0,228,9.2,5.7,9.8,127.3,https://rtw.vkusvill.ru/goods/kartofelnoe-pyure-s-kurinymi-kolbaskami-76367.html
+Говядина «Провансаль» с гречкой,220.0,0,238,7.9,4.5,16.6,138.5,https://rtw.vkusvill.ru/goods/govyadina-provansal-s-grechkoy-71456.html
+Фасоль с арахисом,195.0,0,154,3.6,6.5,5.4,95,https://rtw.vkusvill.ru/goods/fasol-s-arakhisom-56756.html
+Шакшука «Классическая»,290.0,0,257,6.7,8.82,3.41,121,https://rtw.vkusvill.ru/goods/shakshuka-klassicheskaya-76973.html
+"Запеканка творожная, 250 г",250.0,17,176,11.1,3.5,23.7,170.7,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-250-g-39363.html
+"Камбала жареная, вес",,1,793,13.5,12.4,6,193,https://rtw.vkusvill.ru/goods/kambala-zharenaya-ves-54400.html
+Кутабы с курицей,150.0,0,202,17,15.1,29.8,323.1,https://rtw.vkusvill.ru/goods/kutaby-s-kuritsey-40262.html
+Лапша удон «Овощи и курица»,200.0,8,248,,,,,https://rtw.vkusvill.ru/goods/lapsha-udon-ovoshchi-i-kuritsa-41138.html
+Щи из свежей капусты с курицей,390.0,4,214,2.2,2.8,2.9,45.6,https://rtw.vkusvill.ru/goods/shchi-iz-svezhey-kapusty-s-kuritsey-59039.html
+"Капуста квашеная, 300 г",300.0,67,111,1.3,0.2,9.5,50,https://rtw.vkusvill.ru/goods/kapusta-kvashenaya-300-g-29812.html
+Заливное из индейки,300.0,17,275,,,,,https://rtw.vkusvill.ru/goods/zalivnoe-iz-indeyki-15275.html
+Клаб-сэндвич с курицей и яйцом,170.0,10,188,13.3,14.3,31.5,307.9,https://rtw.vkusvill.ru/goods/klab-sendvich-s-kuritsey-i-yaytsom-63727.html
+"Бефстроганов из говядины с картофельным пюре, 350 г",350.0,8,390,12.2,9.6,12.7,186,https://rtw.vkusvill.ru/goods/befstroganov-iz-govyadiny-s-kartofelnym-pyure-350-g-60823.html
+"Картофельное пюре, 500 г",500.0,20,242,2.1,8.3,15.2,143.9,https://rtw.vkusvill.ru/goods/kartofelnoe-pyure-500-g-68797.html
+"Чуду с фасолью и грецким орехом, постный, 2 шт",140.0,3,165,7.2,7.4,33.6,229.8,https://rtw.vkusvill.ru/goods/chudu-s-fasolyu-i-gretskim-orekhom-postnyy-2-sht-73697.html
+Салат с крабом и цитрусовой заправкой,160.0,0,468,6.1,9.7,3.1,124.1,https://rtw.vkusvill.ru/goods/salat-s-krabom-i-tsitrusovoy-zapravkoy-82058.html
+Суп «Харчо» из баранины (с грецкими орехами и соусом ткемали),390.0,0,338,7.5,4.1,6.4,92.5,https://rtw.vkusvill.ru/goods/sup-kharcho-iz-baraniny-s-gretskimi-orekhami-i-sousom-tkemali-83096.html
+Биточек из говядины с капустой и картофельным пюре,200.0,2,198,4.6,7.5,11.8,133.1,https://rtw.vkusvill.ru/goods/bitochek-iz-govyadiny-s-kapustoy-i-kartofelnym-pyure-76459.html
+Сырные палочки с клюквенно-брусничным соусом,150.0,4,228,15.1,12.7,24.2,271.5,https://rtw.vkusvill.ru/goods/syrnye-palochki-s-klyukvenno-brusnichnym-sousom-77170.html
+Бургер «Лайт» без бекона и лука,325.0,0,435,8.8,21.7,15.5,294,https://rtw.vkusvill.ru/goods/burger-layt-bez-bekona-i-luka-81149.html
+Котлета куриная на пару фаршированная брокколи,200.0,6,228,21.4,17.7,5,264.9,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-na-paru-farshirovannaya-brokkoli-68288.html
+Лазанья мясная,230.0,14,342,,,,,https://rtw.vkusvill.ru/goods/lazanya-myasnaya-18326.html
+Борщ с мраморной говядиной,310.0,0,247,7.9,4.8,3.5,88.8,https://rtw.vkusvill.ru/goods/borshch-s-mramornoy-govyadinoy-44771.html
+Пицца-мини «Кальцоне» с курицей,180.0,0,204,10.8,5.6,27.8,204.8,https://rtw.vkusvill.ru/goods/pitstsa-mini-kaltsone-s-kuritsey-79757.html
+"Онигири ( с филе тунца, с филе форели) с соевым соусом, 2 шт",250.0,2,378,,,,,https://rtw.vkusvill.ru/goods/onigiri-s-file-tuntsa-s-file-foreli-s-soevym-sousom-2-sht-79481.html
+Чиабатта с курицей_РП,205.0,0,238,10.3,5.1,21.1,171.5,https://rtw.vkusvill.ru/goods/chiabatta-s-kuritsey-rp-81374.html
+Крылья куриные с соусом барбекю,250.0,0,292,12.7,17.6,18.3,286,https://rtw.vkusvill.ru/goods/krylya-kurinye-s-sousom-barbekyu-79521.html
+Круассан с сервелатом и сыром,160.0,0,254,12.91,20.19,24.86,332,https://rtw.vkusvill.ru/goods/kruassan-s-servelatom-i-syrom-66567.html
+"Суп-гуляш с говядиной, 300 г",310.0,0,320,5.0,1.7,6.9,62.9,https://rtw.vkusvill.ru/goods/sup-gulyash-s-govyadinoy-300-g-46333.html
+"Молоки лососевых рыб жареные, 200 г",200.0,6,145,26.2,10.4,4.2,215.2,https://rtw.vkusvill.ru/goods/moloki-lososevykh-ryb-zharenye-200-g-63113.html
+Не «мясная» пита в белом,275.0,0,321,8.67,2.89,20.86,149,https://rtw.vkusvill.ru/goods/ne-myasnaya-pita-v-belom-70042.html
+"Вареники с творогом, 265 г",265.0,0,227,9.18,13.59,26.24,266,https://rtw.vkusvill.ru/goods/vareniki-s-tvorogom-265-g-62048.html
+"Пицца «Пепперони Салями», охлажденная",400.0,5,410,11.9,9.4,30.6,254.6,https://rtw.vkusvill.ru/goods/pitstsa-pepperoni-salyami-okhlazhdennaya-74471.html
+"Паста «Болоньезе», 250 гр._РП",250.0,0,240,7.2,6,16,146.8,https://rtw.vkusvill.ru/goods/pasta-boloneze-250-gr-rp-75659.html
+Котлета куриная с фарфалле,200.0,6,188,16.5,3.8,21.3,185.4,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-s-farfalle-75244.html
+Филе семги на пару с овощами,230.0,4,452,8.2,5.9,3.7,100.7,https://rtw.vkusvill.ru/goods/file-semgi-na-paru-s-ovoshchami-77530.html
+Комбо-обед Вегетарианский (суп+второе+напиток),720.0,0,462,13,18,116,676,https://rtw.vkusvill.ru/goods/kombo-obed-vegetarianskiy-sup-vtoroe-napitok-85719.html
+Каша гречневая с грибами и луком,200.0,0,155,3.1,6.3,15.4,130.7,https://rtw.vkusvill.ru/goods/kasha-grechnevaya-s-gribami-i-lukom-58722.html
+Котлетка из цыпленка с булгуром и овощами_РП,250.0,0,250,9,4.8,30.5,215,https://rtw.vkusvill.ru/goods/kotletka-iz-tsyplenka-s-bulgurom-i-ovoshchami-rp-70268.html
+Тефтельки из индейки с тыквенно-апельсиновым муссом и брокколи_РП,230.0,0,260,6.6,6.4,8.2,116.8,https://rtw.vkusvill.ru/goods/teftelki-iz-indeyki-s-tykvenno-apelsinovym-mussom-i-brokkoli-rp-76810.html
+Блины пшеничные_РП,200.0,0,114,4.3,13.2,34.9,275.6,https://rtw.vkusvill.ru/goods/bliny-pshenichnye-rp-80550.html
+Каша рисовая с манговым топингом,300.0,10,182,1.7,0.3,17.4,79.1,https://rtw.vkusvill.ru/goods/kasha-risovaya-s-mangovym-topingom-67453.html
+Суп солянка с каперсами,270.0,4,188,3,2.6,4.3,52.6,https://rtw.vkusvill.ru/goods/sup-solyanka-s-kapersami-40050.html
+Блинчики «Цезарь»,196.0,4,216,12.5,12.1,15,218.9,https://rtw.vkusvill.ru/goods/blinchiki-tsezar-25023.html
+"Лепешка с зеленью, грибами и сыром",180.0,2,242,8.9,10.8,24,228.8,https://rtw.vkusvill.ru/goods/lepeshka-s-zelenyu-gribami-i-syrom-71179.html
+Кутабы с сыром и помидорами,150.0,4,190,16.1,10.6,29.4,277.4,https://rtw.vkusvill.ru/goods/kutaby-s-syrom-i-pomidorami-48165.html
+"Сэндвич с лососем и яичным салатом, кафе",200.0,2,250,14.2,13.6,24.7,278,https://rtw.vkusvill.ru/goods/sendvich-s-lososem-i-yaichnym-salatom-kafe-56837.html
+"Каша овсяная молочная с яблоком и корицей, 215 г",215.0,14,138,2.8,1.4,11,67.8,https://rtw.vkusvill.ru/goods/kasha-ovsyanaya-molochnaya-s-yablokom-i-koritsey-215-g-68084.html
+Панкейки банановые с клубникой и сгущенным молоком,220.0,0,319,5.1,17.03,35.05,315,https://rtw.vkusvill.ru/goods/pankeyki-bananovye-s-klubnikoy-i-sgushchennym-molokom-68178.html
+Паста с курицей гриль и сливочно-томатным соусом_РП,235.0,0,226,15.2,20.3,16.5,309.5,https://rtw.vkusvill.ru/goods/pasta-s-kuritsey-gril-i-slivochno-tomatnym-sousom-rp-72561.html
+Щи из квашеной капусты с грибами по-монастырски,350.0,0,158,1,0.4,7.2,36.4,https://rtw.vkusvill.ru/goods/shchi-iz-kvashenoy-kapusty-s-gribami-po-monastyrski-65174.html
+"Пирожки «Курица, томат, сыр», 2 шт",120.0,0,136,11.8,16.4,27.1,303.2,https://rtw.vkusvill.ru/goods/pirozhki-kuritsa-tomat-syr-2-sht-80705.html
+"Салат мимоза с семгой горячего копчения, 300 г",300.0,4,410,14.3,16.3,7.9,235.5,https://rtw.vkusvill.ru/goods/salat-mimoza-s-semgoy-goryachego-kopcheniya-300-g-71709.html
+Блины пшеничные,200.0,20,154,,,,,https://rtw.vkusvill.ru/goods/bliny-pshenichnye-19345.html
+Ассорти роллов «Киото»,190.0,2,378,6.1,3.3,27,162.1,https://rtw.vkusvill.ru/goods/assorti-rollov-kioto-71188.html
+Куриный кармашек с картофелем и розмарином,300.0,8,270,10.4,4,11.8,125.7,https://rtw.vkusvill.ru/goods/kurinyy-karmashek-s-kartofelem-i-rozmarinom-22490.html
+Суп-пюре овощной,300.0,0,146,1.1,2.9,3.0,43.0,https://rtw.vkusvill.ru/goods/sup-pyure-ovoshchnoy-29025.html
+Кальмар «Гриль» с рисом,250.0,7,311,4.9,7.1,29.2,200,https://rtw.vkusvill.ru/goods/kalmar-gril-s-risom-50397.html
+Салат «Коул Слоу» из овощей,140.0,16,148,1.2,9.2,6.3,112.8,https://rtw.vkusvill.ru/goods/salat-koul-slou-iz-ovoshchey-38701.html
+Хот-Дог Цезарь,165.0,0,315,12.52,12.47,17.3,228,https://rtw.vkusvill.ru/goods/khot-dog-tsezar-70737.html
+Заливное из семги,170.0,4,248,6,3.5,1,59.5,https://rtw.vkusvill.ru/goods/zalivnoe-iz-semgi-66170.html
+"Креветки «Королевские» неразделанные вареные 50/60 охл., 250 г",250.0,2,325,,,,,https://rtw.vkusvill.ru/goods/krevetki-korolevskie-nerazdelannye-varenye-50-60-okhl-250-g-83456.html
+"Чебуреки с мясом, 240 г",240.0,8,330,9.3,16.5,22.5,275.7,https://rtw.vkusvill.ru/goods/chebureki-s-myasom-240-g-72683.html
+"Салат «Оливье» с колбасой без майонеза, 1 кг",1000.0,0,948,,,,,https://rtw.vkusvill.ru/goods/salat-olive-s-kolbasoy-bez-mayoneza-1-kg-84805.html
+Салат со свеклой «Идиллия»,150.0,0,118,1.5,10.5,8.9,136.1,https://rtw.vkusvill.ru/goods/salat-so-svekloy-idilliya-34834.html
+"Салат «Оливье вегетарианский», 600 г",600.0,0,490,1.7,8.7,8.1,117.5,https://rtw.vkusvill.ru/goods/salat-olive-vegetarianskiy-600-g-58107.html
+"Биточки из курицы и капусты, 480 г",480.0,4,430,13.8,4.8,4.9,118,https://rtw.vkusvill.ru/goods/bitochki-iz-kuritsy-i-kapusty-480-g-76795.html
+Розанчики творожно-сливочные с мандарином и корицей с наполнителем «Персик»,120.0,3,198,6.7,21.5,20.8,303.5,https://rtw.vkusvill.ru/goods/rozanchiki-tvorozhno-slivochnye-s-mandarinom-i-koritsey-s-napolnitelem-persik-85870.html
+Колбаска «Баварская» (2 шт.) на шпажке с картофельным пюре,385.0,0,498,7.5,14.9,8.4,197.7,https://rtw.vkusvill.ru/goods/kolbaska-bavarskaya-2-sht-na-shpazhke-s-kartofelnym-pyure-52943.html
+"Судак филе-кусок без кожи в кляре жареный, вес",,0,1 795,18,1,5,101,https://rtw.vkusvill.ru/goods/sudak-file-kusok-bez-kozhi-v-klyare-zharenyy-ves-85501.html
+Цыпленок карри с лапшой удон_РП,250.0,0,275,10.47,5.75,10.77,140,https://rtw.vkusvill.ru/goods/tsyplenok-karri-s-lapshoy-udon-rp-70263.html
+Сэндвич ролл с курицей Том Ям,170.0,2,228,11.4,12,25.9,257.2,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-tom-yam-69758.html
+"Салат «Оливье» с колбасой, 600 грамм",600.0,0,460,4.2,13.1,6.7,161.5,https://rtw.vkusvill.ru/goods/salat-olive-s-kolbasoy-600-gramm-71636.html
+Голубцы ленивые из мяса птицы,200.0,14,198,,,,,https://rtw.vkusvill.ru/goods/golubtsy-lenivye-iz-myasa-ptitsy-61601.html
+Морковь по-корейски,275.0,17,105,,,,,https://rtw.vkusvill.ru/goods/morkov-po-koreyski-14577.html
+"Салат «Мимоза», 600 грамм",600.0,0,498,8.3,18.5,8,231.7,https://rtw.vkusvill.ru/goods/salat-mimoza-600-gramm-71635.html
+"Салат с рукколой и моцареллой, 150 г",150.0,6,276,5.9,13.6,5.8,169.2,https://rtw.vkusvill.ru/goods/salat-s-rukkoloy-i-motsarelloy-150-g-45342.html
+Курица «Терияки» с рисом по-сингапурски,250.0,0,248,8.7,7.2,42.3,269,https://rtw.vkusvill.ru/goods/kuritsa-teriyaki-s-risom-po-singapurski-22639.html
+Оладьи печеночные,150.0,4,228,12.5,13.5,12.9,223.1,https://rtw.vkusvill.ru/goods/oladi-pechenochnye-23996.html
+Щечка телячья томленая,300.0,2,576,17,7,1,135,https://rtw.vkusvill.ru/goods/shchechka-telyachya-tomlenaya-47835.html
+Лосось атлантический (семга) филе на коже на гриле 160г,160.0,0,616,,,,,https://rtw.vkusvill.ru/goods/losos-atlanticheskiy-semga-file-na-kozhe-na-grile-160g-75788.html
+Шницель куриный с рисом_РП,250.0,0,197,8.8,7.3,22.9,192.5,https://rtw.vkusvill.ru/goods/shnitsel-kurinyy-s-risom-rp-77186.html
+"Блины овсяные, 6 шт",320.0,20,220,6.1,11.8,18.6,205,https://rtw.vkusvill.ru/goods/bliny-ovsyanye-6-sht-59996.html
+Шаурма грузинская,240.0,10,284,17.6,14.9,12,252.5,https://rtw.vkusvill.ru/goods/shaurma-gruzinskaya-69753.html
+Плов с курицей,250.0,16,218,,,,,https://rtw.vkusvill.ru/goods/plov-s-kuritsey-28799.html
+Ролл «Филадельфия» с форелью,255.0,0,540,8.2,3.8,22,155,https://rtw.vkusvill.ru/goods/roll-filadelfiya-s-forelyu-76446.html
+"Сэндвич с овощами гриль, сулугуни и соусом песто, кафе",245.0,4,190,9.3,11.2,27,246,https://rtw.vkusvill.ru/goods/sendvich-s-ovoshchami-gril-suluguni-i-sousom-pesto-kafe-56840.html
+Суп турецкий с чечевицей_РП,300.0,0,165,4,4,10,93.3,https://rtw.vkusvill.ru/goods/sup-turetskiy-s-chechevitsey-rp-79284.html
+Суп «Мисо»,250.0,0,178,3.3,0.5,2.6,28.1,https://rtw.vkusvill.ru/goods/sup-miso-77849.html
+"Блины с яблоком, 210 г",210.0,12,176,5.2,12,32.1,239,https://rtw.vkusvill.ru/goods/bliny-s-yablokom-210-g-16942.html
+Ролл «Симфония» с креветкой,180.0,10,330,5.5,10.5,23.7,211.3,https://rtw.vkusvill.ru/goods/roll-simfoniya-s-krevetkoy-50389.html
+Комбо-обед (суп + второе + десерт),700.0,0,605,52,63,123,1262,https://rtw.vkusvill.ru/goods/kombo-obed-sup-vtoroe-desert-84276.html
+Английский завтрак,315.0,0,440,8.39,13.4,11.53,197,https://rtw.vkusvill.ru/goods/angliyskiy-zavtrak-53931.html
+Фетучини в соусе со свининой и шампиньонами,240.0,8,248,8.2,6.6,21.2,177,https://rtw.vkusvill.ru/goods/fetuchini-v-souse-so-svininoy-i-shampinonami-22384.html
+"Салат с тунцом, фасолью и яблоком",180.0,10,216,3.7,3,13.7,96.6,https://rtw.vkusvill.ru/goods/salat-s-tuntsom-fasolyu-i-yablokom-38608.html
+"Салат «Мимоза», 180 грамм",180.0,0,188,8.3,18.5,8,231.7,https://rtw.vkusvill.ru/goods/salat-mimoza-180-gramm-68095.html
+"Пирожок с мясом 45г, кафе",45.0,4,70,,,,,https://rtw.vkusvill.ru/goods/pirozhok-s-myasom-45g-kafe-54421.html
+Паста «Болоньезе»,250.0,3,280,9.2,4.8,23,172,https://rtw.vkusvill.ru/goods/pasta-boloneze-25044.html
+Паста «Фетучини» с курицей и соусом «Песто»,270.0,0,427,8.4,6.7,15.6,156.3,https://rtw.vkusvill.ru/goods/pasta-fetuchini-s-kuritsey-i-sousom-pesto-70065.html
+"Салат из кальмаров с яйцом, 160 г",160.0,6,298,12,13,3.2,177.8,https://rtw.vkusvill.ru/goods/salat-iz-kalmarov-s-yaytsom-160-g-68122.html
+Крок Мадам,305.0,0,301,13.05,14.93,9.98,227,https://rtw.vkusvill.ru/goods/krok-madam-54374.html
+Сырники творожные с начинкой «Манго-Маракуйя»,260.0,0,300,12.8,10.9,19.3,227,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-s-nachinkoy-mango-marakuyya-76166.html
+Филе минтая под сыром с картофельным пюре,315.0,0,390,7.6,11.1,11.2,175,https://rtw.vkusvill.ru/goods/file-mintaya-pod-syrom-s-kartofelnym-pyure-82629.html
+Запеканка картофельная с мясом,240.0,12,312,5.1,5.9,10.4,115,https://rtw.vkusvill.ru/goods/zapekanka-kartofelnaya-s-myasom-30218.html
+Куриная котлета-гриль,200.0,4,271,20.3,11.9,4.1,204.7,https://rtw.vkusvill.ru/goods/kurinaya-kotleta-gril-43175.html
+"Блинчики мини с мясом, 400 г",400.0,0,305,10.6,13.1,23.2,253.1,https://rtw.vkusvill.ru/goods/blinchiki-mini-s-myasom-400-g-71324.html
+Профитроли с творожным сыром и грибами,155.0,4,248,7.7,24.7,12.6,303.5,https://rtw.vkusvill.ru/goods/profitroli-s-tvorozhnym-syrom-i-gribami-71580.html
+"Салат свекольный с грецким орехом, 200 грамм",200.0,0,156,1.9,6,9.6,100,https://rtw.vkusvill.ru/goods/salat-svekolnyy-s-gretskim-orekhom-200-gramm-62455.html
+"Сырники с малиновой начинкой, 480 г",480.0,6,504,14.4,12.8,21.8,260,https://rtw.vkusvill.ru/goods/syrniki-s-malinovoy-nachinkoy-480-g-69757.html
+Онигири с курицей «Терияки»,100.0,6,140,7,1.9,30.1,165.5,https://rtw.vkusvill.ru/goods/onigiri-s-kuritsey-teriyaki-77167.html
+Филе семги на пару с овощным гарниром,230.0,4,418,7.9,6.4,1.8,96.4,https://rtw.vkusvill.ru/goods/file-semgi-na-paru-s-ovoshchnym-garnirom-27193.html
+"Салат «Крабовый», 600 г",600.0,0,550,5.7,15.9,11.3,211.1,https://rtw.vkusvill.ru/goods/salat-krabovyy-600-g-71193.html
+"Картоф. пюре, капуста по-баварски, с колбасками по-нюрнбергски и горч. соусом",330.0,10,320,5.5,14.4,12.6,202,https://rtw.vkusvill.ru/goods/kartof-pyure-kapusta-po-bavarski-s-kolbaskami-po-nyurnbergski-i-gorch-sousom-41132.html
+"Бифштекс из говядины с картофелем, 500 г",500.0,4,480,10.3,4.6,11.3,127.8,https://rtw.vkusvill.ru/goods/bifshteks-iz-govyadiny-s-kartofelem-500-g-50172.html
+Суп-крем куриный_РП,330.0,0,188,4.1,5.6,4,82.8,https://rtw.vkusvill.ru/goods/sup-krem-kurinyy-rp-79900.html
+Филе минтая под сыром с рисом,290.0,0,420,8.9,14.6,19.8,251,https://rtw.vkusvill.ru/goods/file-mintaya-pod-syrom-s-risom-82628.html
+"Пирожки жареные с картошкой, сыром и укропом",160.0,6,167,10.7,8,32.2,243.6,https://rtw.vkusvill.ru/goods/pirozhki-zharenye-s-kartoshkoy-syrom-i-ukropom-78054.html
+"Салат «Цезарь» с курицей, 450 г",450.0,4,590,10.1,19.3,5.6,236.5,https://rtw.vkusvill.ru/goods/salat-tsezar-s-kuritsey-450-g-58174.html
+"Суп «Уха», 270 г",270.0,4,188,3.6,1.9,2.6,41.9,https://rtw.vkusvill.ru/goods/sup-ukha-270-g-82086.html
+Котлета куриная с карт. пюре,250.0,0,216,,,,,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-s-kart-pyure-24006.html
+Салат Кобб с имбирным соусом,240.0,14,258,,,,,https://rtw.vkusvill.ru/goods/salat-kobb-s-imbirnym-sousom-23073.html
+Бургер куриный «Цезарь»,246.0,0,395,13.08,13.58,9.66,218,https://rtw.vkusvill.ru/goods/burger-kurinyy-tsezar-43102.html
+Заливное с говядиной и овощами,300.0,6,245,12,6,4,118,https://rtw.vkusvill.ru/goods/zalivnoe-s-govyadinoy-i-ovoshchami-40051.html
+"Парфе-гранола с голубикой, клубникой и йогуртом",330.0,0,244,6,5,13.4,123.5,https://rtw.vkusvill.ru/goods/parfe-granola-s-golubikoy-klubnikoy-i-yogurtom-53266.html
+Вертута с капустой,250.0,8,177,4.7,8.2,30.7,215.4,https://rtw.vkusvill.ru/goods/vertuta-s-kapustoy-76059.html
+"Пирожки с рисом, яйцом и зеленым луком",140.0,3,130,9.4,24.2,47.7,446.2,https://rtw.vkusvill.ru/goods/pirozhki-s-risom-yaytsom-i-zelenym-lukom-70863.html
+Борщ с томлеными говяжьими щечками,390.0,4,318,8.7,4.6,8.6,110.6,https://rtw.vkusvill.ru/goods/borshch-s-tomlenymi-govyazhimi-shchechkami-82975.html
+Сэндвич ролл с горбушей и яйцом,155.0,16,208,6.5,13,22.1,231.4,https://rtw.vkusvill.ru/goods/sendvich-roll-s-gorbushey-i-yaytsom-22664.html
+Шницель куриный в яйце с картофельным пюре,210.0,2,268,,,,,https://rtw.vkusvill.ru/goods/shnitsel-kurinyy-v-yaytse-s-kartofelnym-pyure-62637.html
+Сэндвич ролл с курицей и соусом «Дор-Блю»,157.0,22,208,9,11.4,28.6,253,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-23954.html
+Вок с говядиной_РП,250.0,0,250,6.4,2.6,19.2,128,https://rtw.vkusvill.ru/goods/vok-s-govyadinoy-rp-79291.html
+Онигири с креветками «Эби Чили»,100.0,0,188,6.6,0.9,25.2,135.3,https://rtw.vkusvill.ru/goods/onigiri-s-krevetkami-ebi-chili-43006.html
+Бутерброд с тунцом и базиликом,78.0,9,132,11.4,9.5,27.4,240.7,https://rtw.vkusvill.ru/goods/buterbrod-s-tuntsom-i-bazilikom-53878.html
+Куриная грудка с грибами и пенне,230.0,10,286,,,,,https://rtw.vkusvill.ru/goods/kurinaya-grudka-s-gribami-i-penne-37923.html
+Рамен с курицей в соево-чесночном соусе,300.0,4,310,10.4,7.9,36.4,195.3,https://rtw.vkusvill.ru/goods/ramen-s-kuritsey-v-soevo-chesnochnom-souse-53807.html
+"Сэндвич ролл с курицей, кабачком и соусом песто, 185 грамм",185.0,0,210,10.5,7.9,20.4,194.7,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-kabachkom-i-sousom-pesto-185-gramm-68088.html
+Чиабатта с индейкой су-вид и горчичным соусом,210.0,14,237,15.9,13.3,29.8,302.5,https://rtw.vkusvill.ru/goods/chiabatta-s-indeykoy-su-vid-i-gorchichnym-sousom-68413.html
+"Салат из баклажанов и моркови по-корейски, 200 г",200.0,6,150,1.1,5.7,11.1,100.1,https://rtw.vkusvill.ru/goods/salat-iz-baklazhanov-i-morkovi-po-koreyski-200-g-84817.html
+Шаурма с курицей_РП,200.0,0,163,8.6,9.6,23.1,213.2,https://rtw.vkusvill.ru/goods/shaurma-s-kuritsey-rp-77232.html
+Суп «Харчо»,390.0,8,198,,,,,https://rtw.vkusvill.ru/goods/sup-kharcho-18360.html
+"Борщ «Украинский» с курицей, 1 кг",1000.0,21,430,3.2,1.3,10.8,67.7,https://rtw.vkusvill.ru/goods/borshch-ukrainskiy-s-kuritsey-1-kg-35099.html
+Лапша рисовая с морепродуктами,180.0,0,238,3.5,5.5,16.7,130.3,https://rtw.vkusvill.ru/goods/lapsha-risovaya-s-moreproduktami-60874.html
+Пенне с грибами и овощами,200.0,4,160,6.3,4.1,32.9,193.7,https://rtw.vkusvill.ru/goods/penne-s-gribami-i-ovoshchami-34511.html
+Пирог с зеленью и яйцом,300.0,4,272,9.4,12.7,22,239.9,https://rtw.vkusvill.ru/goods/pirog-s-zelenyu-i-yaytsom-56887.html
+Хачапури с сыром,95.0,2,162,13.4,14.4,28.5,297.2,https://rtw.vkusvill.ru/goods/khachapuri-s-syrom-40109.html
+Онигири с крабом,100.0,2,198,6.8,1.1,36.4,182.7,https://rtw.vkusvill.ru/goods/onigiri-s-krabom-81777.html
+Патэ из птицы с копченой уткой и моченой брусникой,150.0,0,318,16.1,13.8,9.2,225.4,https://rtw.vkusvill.ru/goods/pate-iz-ptitsy-s-kopchenoy-utkoy-i-mochenoy-brusnikoy-81475.html
+Тефтели с картофельным пюре,240.0,2,206,8.7,6,11.3,134,https://rtw.vkusvill.ru/goods/tefteli-s-kartofelnym-pyure-61149.html
+Паста с курицей и соусом песто_РП,230.0,0,235,18,16,41,380,https://rtw.vkusvill.ru/goods/pasta-s-kuritsey-i-sousom-pesto-rp-79364.html
+"Ватрушка «Шпинат и лосось», кафе",70.0,4,160,25,11.8,23.3,304,https://rtw.vkusvill.ru/goods/vatrushka-shpinat-i-losos-kafe-44549.html
+"Чиабатта с курицей, омлетом и моцареллой, кафе рег",215.0,0,220,12,20.3,25.8,333.9,https://rtw.vkusvill.ru/goods/chiabatta-s-kuritsey-omletom-i-motsarelloy-kafe-reg-51465.html
+Хипстер-Хамбургер,310.0,0,395,7.3,14.6,15.1,223,https://rtw.vkusvill.ru/goods/khipster-khamburger-76828.html
+"Суп «Гороховый» с копченостями, 580 г",580.0,4,290,3.4,6.3,7.8,103.9,https://rtw.vkusvill.ru/goods/sup-gorokhovyy-s-kopchenostyami-580-g-42387.html
+Котлетка из индейки с картофельным пюре,150.0,0,348,4.7,6,12.5,122.8,https://rtw.vkusvill.ru/goods/kotletka-iz-indeyki-s-kartofelnym-pyure-83384.html
+Тортилья с сыром и вялеными томатами,150.0,2,228,11.7,17.8,25.2,307.8,https://rtw.vkusvill.ru/goods/tortilya-s-syrom-i-vyalenymi-tomatami-76447.html
+Картофельная вафля с лососем и яйцом,250.0,0,448,8.5,12.7,16.3,213,https://rtw.vkusvill.ru/goods/kartofelnaya-vaflya-s-lososem-i-yaytsom-53927.html
+"Рулетики из баклажанов с сырной начинкой, 210 г",210.0,1,398,9.7,29.5,3.5,318.3,https://rtw.vkusvill.ru/goods/ruletiki-iz-baklazhanov-s-syrnoy-nachinkoy-210-g-85532.html
+Салат «Гранатовый браслет»,180.0,10,188,11,20.7,4.7,249.1,https://rtw.vkusvill.ru/goods/salat-granatovyy-braslet-70195.html
+Салат «Витаминный» с лимонной заправкой,150.0,10,155,1,7.7,8.8,108.5,https://rtw.vkusvill.ru/goods/salat-vitaminnyy-s-limonnoy-zapravkoy-34835.html
+Салат Греческий с томатами,225.0,0,250,3.13,11.19,11.19,127,https://rtw.vkusvill.ru/goods/salat-grecheskiy-s-tomatami-77203.html
+"Салат «Мимоза», 180 г",180.0,20,188,,,,,https://rtw.vkusvill.ru/goods/salat-mimoza-180-g-25291.html
+Салат фасолевый с шампиньонами и грецким орехом,150.0,6,190,4,11.6,11.6,166.8,https://rtw.vkusvill.ru/goods/salat-fasolevyy-s-shampinonami-i-gretskim-orekhom-70505.html
+Фрикадельки «не мясо» в томатно-шпинатном соусе с брокколи,331.0,0,415,5.4,9.3,6,127,https://rtw.vkusvill.ru/goods/frikadelki-ne-myaso-v-tomatno-shpinatnom-souse-s-brokkoli-81126.html
+Салат «Разгрузочный»,120.0,2,168,1.3,8.5,12.6,132.1,https://rtw.vkusvill.ru/goods/salat-razgruzochnyy-47836.html
+"Пирожки с капустой и морковью, 2 шт (постные)",110.0,0,95,7.1,8,46.9,288,https://rtw.vkusvill.ru/goods/pirozhki-s-kapustoy-i-morkovyu-2-sht-postnye-72136.html
+"Пирожки постные с вишней, 90 г, (2 шт)",90.0,8,102,3.7,4,46,234.8,https://rtw.vkusvill.ru/goods/pirozhki-postnye-s-vishney-90-g-2-sht-43331.html
+Большая порция сырников творожных с начинкой «Манго-Маракуйя»,410.0,0,452,12.8,10.9,19.3,227,https://rtw.vkusvill.ru/goods/bolshaya-portsiya-syrnikov-tvorozhnykh-s-nachinkoy-mango-marakuyya-76165.html
+"Блины с яблоком, 210 г_РП",210.0,0,164,3.7,6.38,22.06,160,https://rtw.vkusvill.ru/goods/bliny-s-yablokom-210-g-rp-80579.html
+Колбаски мясные гриль в наборе с соусом «Шашлычный»,190.0,3,260,14.9,23.4,2.4,279.8,https://rtw.vkusvill.ru/goods/kolbaski-myasnye-gril-v-nabore-s-sousom-shashlychnyy-77525.html
+"Блины домашние, 200 грамм",200.0,0,114,8,11,36.6,277.4,https://rtw.vkusvill.ru/goods/bliny-domashnie-200-gramm-65043.html
+"Салат мимоза, 600 г",600.0,0,498,2,14.9,11.7,188.9,https://rtw.vkusvill.ru/goods/salat-mimoza-600-g-40531.html
+"Жюльен «Грибной» с шампиньонами и белыми грибами, 440 г",440.0,0,530,9.3,14.1,12.2,212.9,https://rtw.vkusvill.ru/goods/zhyulen-gribnoy-s-shampinonami-i-belymi-gribami-440-g-71214.html
+"Салат с курицей, сыром «Фета» и виноградом",180.0,0,238,16,17.7,3.8,238.5,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-syrom-feta-i-vinogradom-71212.html
+Шашлычок куриный с лапшой и фасолью_РП,250.0,0,264,11.2,3.4,13.6,129,https://rtw.vkusvill.ru/goods/shashlychok-kurinyy-s-lapshoy-i-fasolyu-rp-70271.html
+Стрипсы куриные с соусом медово-горчичным,210.0,0,277,19,21.1,14.6,325,https://rtw.vkusvill.ru/goods/stripsy-kurinye-s-sousom-medovo-gorchichnym-79523.html
+"Сэндвич ролл с курицей и соусом «Дор-Блю», 157 грамм",157.0,0,208,12.5,6.8,23.6,205.6,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-dor-blyu-157-gramm-68089.html
+Макароны «Бантики» в сливочном соусе с курицей и овощами,282.0,0,296,9.5,5.5,18,166,https://rtw.vkusvill.ru/goods/makarony-bantiki-v-slivochnom-souse-s-kuritsey-i-ovoshchami-84424.html
+"Салат с курицей и жареными шампиньонами, 180 грамм",180.0,0,188,8,15.7,6.7,200.1,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-i-zharenymi-shampinonami-180-gramm-68099.html
+Вок фунчоза с креветками,200.0,14,288,3.4,5.8,6.8,93,https://rtw.vkusvill.ru/goods/vok-funchoza-s-krevetkami-51915.html
+Крок-Бекон,265.0,0,355,13.72,19.2,12.34,275,https://rtw.vkusvill.ru/goods/krok-bekon-65074.html
+Цветная капуста в панировке,150.0,8,188,2.6,5.5,9.6,98.3,https://rtw.vkusvill.ru/goods/tsvetnaya-kapusta-v-panirovke-74576.html
+Грузинский суп из фасоли с овощами,270.0,12,188,1.8,1.5,6.2,45.5,https://rtw.vkusvill.ru/goods/gruzinskiy-sup-iz-fasoli-s-ovoshchami-54161.html
+Сырники творожные с брусничной начинкой,130.0,6,155,12.9,8.4,22.5,217.2,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-s-brusnichnoy-nachinkoy-74325.html
+Запеканка творожная с яблоком,250.0,0,188,9.4,3.5,24.6,167.5,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-yablokom-39478.html
+"Гречка отварная с овощами, 200 г",200.0,10,110,4.1,4.7,23,150.7,https://rtw.vkusvill.ru/goods/grechka-otvarnaya-s-ovoshchami-200-g-61751.html
+Омлет с курицей и сыром,150.0,6,172,,,,,https://rtw.vkusvill.ru/goods/omlet-s-kuritsey-i-syrom-21451.html
+Киш с индейкой и овощами,160.0,2,218,13,15.5,18.5,265.5,https://rtw.vkusvill.ru/goods/kish-s-indeykoy-i-ovoshchami-66926.html
+"Пончики с ветчиной и сыром, 2 шт",130.0,4,159,13.9,20.3,21.5,324.3,https://rtw.vkusvill.ru/goods/ponchiki-s-vetchinoy-i-syrom-2-sht-84432.html
+Куриные шарики с брусничным соусом,260.0,0,473,26,14,19.2,306,https://rtw.vkusvill.ru/goods/kurinye-shariki-s-brusnichnym-sousom-85961.html
+"Митболы с рисом в соусе барбекю пастеризованные, 270 г_РП",270.0,0,219,7.5,8.4,13.5,159.6,https://rtw.vkusvill.ru/goods/mitboly-s-risom-v-souse-barbekyu-pasterizovannye-270-g-rp-77907.html
+Картофель беби жареный с вешенками,200.0,6,168,2.7,0.7,18.3,90.3,https://rtw.vkusvill.ru/goods/kartofel-bebi-zharenyy-s-veshenkami-70069.html
+"Салат «Мимоза», 1 кг",1000.0,0,1 148,9.9,12.1,10,188.5,https://rtw.vkusvill.ru/goods/salat-mimoza-1-kg-84801.html
+"Салат сельдь под шубой, 600 г",600.0,5,520,6.1,15.4,6.6,189.4,https://rtw.vkusvill.ru/goods/salat-seld-pod-shuboy-600-g-58080.html
+"Сырники, 420 г",420.0,4,510,15.6,10.5,27.4,266.5,https://rtw.vkusvill.ru/goods/syrniki-420-g-69022.html
+Филе куриной грудки с прованскими травами,182.0,35,218,,,,,https://rtw.vkusvill.ru/goods/file-kurinoy-grudki-s-provanskimi-travami-23595.html
+"Суп «Грибной», 350 грамм",350.0,0,128,1.4,1,9.8,53.8,https://rtw.vkusvill.ru/goods/sup-gribnoy-350-gramm-61542.html
+Бургер «Ипполит» с мандаринами,340.0,0,450,9.6,20,19,296,https://rtw.vkusvill.ru/goods/burger-ippolit-s-mandarinami-71669.html
+Говядина тушеная по-домашнему с картофельным пюре,230.0,4,238,8.3,6.3,9.3,127.1,https://rtw.vkusvill.ru/goods/govyadina-tushenaya-po-domashnemu-s-kartofelnym-pyure-71648.html
+"Котлеты куриные с моцареллой с булгуром, киноа и овощами",230.0,15,278,10.2,8.5,9.3,154.5,https://rtw.vkusvill.ru/goods/kotlety-kurinye-s-motsarelloy-s-bulgurom-kinoa-i-ovoshchami-53515.html
+Суп рыбный Чаудер,320.0,0,257,4.4,3,5.1,65,https://rtw.vkusvill.ru/goods/sup-rybnyy-chauder-82197.html
+Крок Месье,234.0,0,261,14.57,17.9,12.2,261,https://rtw.vkusvill.ru/goods/krok-mese-53463.html
+"Мама бургер с голубым сыром и вишневым вареньем + картошка с соусом тысяча островов + напиток Лимонад, 500 мл",995.0,0,519,,,,,https://rtw.vkusvill.ru/goods/mama-burger-s-golubym-syrom-i-vishnevym-varenem-kartoshka-s-sousom-tysyacha-ostrovov-napitok-limonad-71446.html
+Суп щавелевый с курицей,300.0,4,170,4.2,1.7,3,44.1,https://rtw.vkusvill.ru/goods/sup-shchavelevyy-s-kuritsey-27195.html
+Сэндвич ролл с курицей и соусом чипотле,180.0,2,206,8.5,15.3,20.9,255.3,https://rtw.vkusvill.ru/goods/sendvich-roll-s-kuritsey-i-sousom-chipotle-48410.html
+Борщ «Вегетарианский»,390.0,28,155,,,,,https://rtw.vkusvill.ru/goods/borshch-vegetarianskiy-20171.html
+"Блины с мясом, 210 грамм",210.0,0,222,9.2,10.3,13.9,185.1,https://rtw.vkusvill.ru/goods/bliny-s-myasom-210-gramm-65114.html
+Ролл «Симфония» с семгой,180.0,4,330,5,9.4,24.8,203.8,https://rtw.vkusvill.ru/goods/roll-simfoniya-s-semgoy-65382.html
+Клаб-сэндвич,160.0,0,181,9.01,17.37,12.92,241,https://rtw.vkusvill.ru/goods/klab-sendvich-66566.html
+Салат из моркови и свеклы по-корейски,300.0,4,118,1.1,6.1,10.4,100.9,https://rtw.vkusvill.ru/goods/salat-iz-morkovi-i-svekly-po-koreyski-61752.html
+Салат с камчатским крабом и свежим огурцом,150.0,2,468,10.9,11.8,2.2,158.6,https://rtw.vkusvill.ru/goods/salat-s-kamchatskim-krabom-i-svezhim-ogurtsom-85372.html
+Сырники с абрикосовой начинкой,120.0,8,166,14.4,12.8,21.2,257.6,https://rtw.vkusvill.ru/goods/syrniki-s-abrikosovoy-nachinkoy-69075.html
+Куриный люля-кебаб с картофельным пюре,350.0,0,440,11,16.7,11.2,241,https://rtw.vkusvill.ru/goods/kurinyy-lyulya-kebab-s-kartofelnym-pyure-76951.html
+Колбаска «Баварская» (1 шт.) на шпажке с картофельным пюре,295.0,0,320,7.5,14.9,8.4,197.7,https://rtw.vkusvill.ru/goods/kolbaska-bavarskaya-1-sht-na-shpazhke-s-kartofelnym-pyure-56404.html
+"Пирожок с вишневой начинкой, кафе рег",50.0,0,60,6.1,4.9,52.6,278.9,https://rtw.vkusvill.ru/goods/pirozhok-s-vishnevoy-nachinkoy-kafe-reg-51475.html
+"Самса с курицей, 120 г",120.0,7,188,9.6,14.1,20.9,248.9,https://rtw.vkusvill.ru/goods/samsa-s-kuritsey-120-g-71944.html
+Кальмар фаршированный с кус-кусом и соусом маринара,180.0,0,298,4.8,1.7,14.7,93.3,https://rtw.vkusvill.ru/goods/kalmar-farshirovannyy-s-kus-kusom-i-sousom-marinara-73618.html
+"Куриные кармашки с мини картофелем с розмарином, 600 г",600.0,2,440,9.2,5.2,11.7,130.4,https://rtw.vkusvill.ru/goods/kurinye-karmashki-s-mini-kartofelem-s-rozmarinom-600-g-43241.html
+"Навага жареная, вес",,0,641,14.4,9.0,2.5,149,https://rtw.vkusvill.ru/goods/navaga-zharenaya-ves-54399.html
+Бифштекс из говядины с картофелем,250.0,4,288,12.3,10.4,6.7,169.6,https://rtw.vkusvill.ru/goods/bifshteks-iz-govyadiny-s-kartofelem-28648.html
+"Блинчики с творогом, 400 г",400.0,10,252,11.3,7.1,27,217.1,https://rtw.vkusvill.ru/goods/blinchiki-s-tvorogom-400-g-71323.html
+Запеканка из козьего молока,180.0,0,458,10.4,5.4,17.1,158.6,https://rtw.vkusvill.ru/goods/zapekanka-iz-kozego-moloka-83215.html
+Вок с курицей_РП,230.0,0,245,6.5,2.83,17,121.7,https://rtw.vkusvill.ru/goods/vok-s-kuritsey-rp-79303.html
+"Лепешка с сыром сулугуни на гриле, кафе",115.0,10,140,,,,,https://rtw.vkusvill.ru/goods/lepeshka-s-syrom-suluguni-na-grile-kafe-31854.html
+Котлета «По-киевски» с сырной начинкой с картофельным пюре,200.0,0,268,10.6,11.3,16.7,210.9,https://rtw.vkusvill.ru/goods/kotleta-po-kievski-s-syrnoy-nachinkoy-s-kartofelnym-pyure-64538.html
+"Блины с ветчиной (из свинины) и с сыром, 210 грамм",210.0,0,188,11,12.2,24.5,251.8,https://rtw.vkusvill.ru/goods/bliny-s-vetchinoy-iz-svininy-i-s-syrom-210-gramm-65034.html
+"Шницель из свинины в сырной панировке, 350 г",350.0,3,410,21.9,19.1,10.3,300.7,https://rtw.vkusvill.ru/goods/shnitsel-iz-svininy-v-syrnoy-panirovke-350-g-71891.html
+Закуска из древесных грибов,150.0,0,218,2.1,9.5,15.9,157.5,https://rtw.vkusvill.ru/goods/zakuska-iz-drevesnykh-gribov-79659.html
+Люля кебаб из баранины с красным ткемали и печеной картошкой,290.0,4,260,5.3,16.1,11,210.1,https://rtw.vkusvill.ru/goods/lyulya-kebab-iz-baraniny-s-krasnym-tkemali-i-pechenoy-kartoshkoy-67825.html
+"Пирожки с мясом, 140 г (2 шт)",140.0,23,190,11.3,11,28.8,259.4,https://rtw.vkusvill.ru/goods/pirozhki-s-myasom-140-g-2-sht-44581.html
+"Салат мимоза, 300 г",300.0,10,288,,,,,https://rtw.vkusvill.ru/goods/salat-mimoza-300-g-39461.html
+Омлет с беконом и ветчиной,270.0,0,273,13.53,19.14,0.81,231,https://rtw.vkusvill.ru/goods/omlet-s-bekonom-i-vetchinoy-66029.html
+Курица в сливочном соусе с рисом,280.0,0,296,8.8,6.8,21.9,187,https://rtw.vkusvill.ru/goods/kuritsa-v-slivochnom-souse-s-risom-76156.html
+Гуляш из говядины с гречкой,230.0,4,258,8.9,4.9,16.4,145.3,https://rtw.vkusvill.ru/goods/gulyash-iz-govyadiny-s-grechkoy-27194.html
+Блины с курицей в сливочном соусе,160.0,8,196,12.5,15,13.2,237.8,https://rtw.vkusvill.ru/goods/bliny-s-kuritsey-v-slivochnom-souse-34570.html
+Хот-Дог Классический,200.0,0,330,8.87,13.15,24.12,249,https://rtw.vkusvill.ru/goods/khot-dog-klassicheskiy-70429.html
+"Блины с мясом, 7 шт",490.0,12,431,,,,,https://rtw.vkusvill.ru/goods/bliny-s-myasom-7-sht-43242.html
+Онигири «Филадельфия»,110.0,10,206,5.4,6.9,36.8,230.9,https://rtw.vkusvill.ru/goods/onigiri-filadelfiya-70530.html
+"Пирожки постные с капустой и зеленью, 140 г (2 шт)",70.0,4,140,5.5,5.8,40.9,237.8,https://rtw.vkusvill.ru/goods/pirozhki-postnye-s-kapustoy-i-zelenyu-140-g-2-sht-40936.html
+Каша пшенная молочная_РП,250.0,0,178,4,2,19.2,110.8,https://rtw.vkusvill.ru/goods/kasha-pshennaya-molochnaya-rp-75582.html
+Салат Цезарь с куриной грудкой гриль,200.0,0,342,15.8,12.5,4.6,201,https://rtw.vkusvill.ru/goods/salat-tsezar-s-kurinoy-grudkoy-gril-62855.html
+Сырники творожные из сыра «Рикотта» с черной смородиной,130.0,0,148,9.2,7.3,14.1,158.9,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-iz-syra-rikotta-s-chernoy-smorodinoy-79685.html
+"Каша рисовая безмолочная на кокосе, 250 г",250.0,12,178,1.2,2.8,15.3,91.2,https://rtw.vkusvill.ru/goods/kasha-risovaya-bezmolochnaya-na-kokose-250-g-71220.html
+Печеное яблоко с брусникой,150.0,4,168,0.4,0.4,10.9,48.8,https://rtw.vkusvill.ru/goods/pechenoe-yabloko-s-brusnikoy-61152.html
+Омлет с ветчиной и томатами,272.0,0,260,15.3,11.8,3.6,181.8,https://rtw.vkusvill.ru/goods/omlet-s-vetchinoy-i-tomatami-54143.html
+Блины с «Крем чиз» и вишней,140.0,8,176,5.3,14.2,25.4,250.6,https://rtw.vkusvill.ru/goods/bliny-s-krem-chiz-i-vishney-58742.html
+"Лапша удон «Овощи и курица», 200 грамм",200.0,0,248,6.7,6.8,12.6,138.4,https://rtw.vkusvill.ru/goods/lapsha-udon-ovoshchi-i-kuritsa-200-gramm-61539.html
+"Пирожок с зеленью и яйцом на кефирном тесте, кафе рег",50.0,0,50,7.4,8.14,33.1,236,https://rtw.vkusvill.ru/goods/pirozhok-s-zelenyu-i-yaytsom-na-kefirnom-teste-kafe-reg-51478.html
+Холодец говяжий,300.0,27,271,,,,,https://rtw.vkusvill.ru/goods/kholodets-govyazhiy-18163.html
+Борщ «Вегетарианский» без картофеля с красной фасолью,300.0,0,146,0.8,1,5,32.2,https://rtw.vkusvill.ru/goods/borshch-vegetarianskiy-bez-kartofelya-s-krasnoy-fasolyu-76926.html
+Долма по-восточному с говядиной и курицей,250.0,2,258,10.2,8.3,7.8,146.7,https://rtw.vkusvill.ru/goods/dolma-po-vostochnomu-s-govyadinoy-i-kuritsey-76891.html
+"Лепешка с зеленью и сыром, 2 шт",180.0,3,242,8.8,10.9,24.1,229.7,https://rtw.vkusvill.ru/goods/lepeshka-s-zelenyu-i-syrom-2-sht-71177.html
+"Котлета куриная с картофельным пюре, 250 г_РП",250.0,0,193,4.98,2.95,16.89,114.03,https://rtw.vkusvill.ru/goods/kotleta-kurinaya-s-kartofelnym-pyure-250-g-rp-77231.html
+Лепешка с курицей и овощами,175.0,7,230,9.1,7,18.9,175,https://rtw.vkusvill.ru/goods/lepeshka-s-kuritsey-i-ovoshchami-76538.html
+"Угорь жареный в соусе унаги охл., 100 г",100.0,2,398,19,11.2,12.5,226.8,https://rtw.vkusvill.ru/goods/ugor-zharenyy-v-souse-unagi-okhl-100-g-86002.html
+"Набор: Суп гороховый с копченостями, 330 г + блины с печенью",450.0,0,397,,,,,https://rtw.vkusvill.ru/goods/nabor-sup-gorokhovyy-s-kopchenostyami-330-g-bliny-s-pechenyu-71207.html
+Суп по-деревенски с курицей,390.0,10,178,4.9,1.8,4.7,54.6,https://rtw.vkusvill.ru/goods/sup-po-derevenski-s-kuritsey-83302.html
+Пирожок с капустой,200.0,2,141,5,11,30,230,https://rtw.vkusvill.ru/goods/pirozhok-s-kapustoy-682.html
+Рулетики из баклажанов с сырной начинкой,80.0,20,198,9.7,29.5,3.4,317.9,https://rtw.vkusvill.ru/goods/ruletiki-iz-baklazhanov-s-syrnoy-nachinkoy-57597.html
+Салат с тунцом под горчичным соусом_РП,200.0,0,230,6,8,4,112,https://rtw.vkusvill.ru/goods/salat-s-tuntsom-pod-gorchichnym-sousom-rp-70184.html
+Суп-пюре из цветной капусты с сыром,300.0,0,265,2.4,5.3,5.4,78.9,https://rtw.vkusvill.ru/goods/sup-pyure-iz-tsvetnoy-kapusty-s-syrom-70058.html
+Котлеты куриные,320.0,8,390,19.6,14.9,6.6,238.9,https://rtw.vkusvill.ru/goods/kotlety-kurinye-62414.html
+"Пирожок с яблоком 45г, кафе",45.0,0,65,3.44,5.48,22.03,149,https://rtw.vkusvill.ru/goods/pirozhok-s-yablokom-45g-kafe-54598.html
+"Паста «Болоньезе», 290 г",290.0,0,387,11.4,6,41.2,264.4,https://rtw.vkusvill.ru/goods/pasta-boloneze-290-g-53237.html
+Суп «Куриный» с домашней лапшой,390.0,48,176,,,,,https://rtw.vkusvill.ru/goods/sup-kurinyy-s-domashney-lapshoy-19434.html
+Котлета из птицы с брокколи и соусом,200.0,8,208,,,,,https://rtw.vkusvill.ru/goods/kotleta-iz-ptitsy-s-brokkoli-i-sousom-21818.html
+"Драники картофельные, 200 грамм",200.0,0,188,4.3,10.8,18.7,189.2,https://rtw.vkusvill.ru/goods/draniki-kartofelnye-200-gramm-65115.html
+Холодец из говядины и свинины,300.0,10,248,,,,,https://rtw.vkusvill.ru/goods/kholodets-iz-govyadiny-i-svininy-12196.html
+"Чебуреки-мини с мясом, 160 г",160.0,2,198,11.7,9.3,20.1,210.9,https://rtw.vkusvill.ru/goods/chebureki-mini-s-myasom-160-g-83225.html
+"Перец фаршированный с куриным фаршем, 900 г",900.0,0,610,4.5,1.8,8.6,68.6,https://rtw.vkusvill.ru/goods/perets-farshirovannyy-s-kurinym-farshem-900-g-69881.html
+"Рулетики из баклажанов с сырной начинкой, 8 шт",200.0,0,398,14.6,33.5,2.3,369.1,https://rtw.vkusvill.ru/goods/ruletiki-iz-baklazhanov-s-syrnoy-nachinkoy-8-sht-84848.html
+"Филе морского волка с томатным ризотто, оливками каламата и вялеными томатами",200.0,0,468,8,11,36,275,https://rtw.vkusvill.ru/goods/file-morskogo-volka-s-tomatnym-rizotto-olivkami-kalamata-i-vyalenymi-tomatami-81568.html
+Комбо-обед (суп + салат),450.0,0,405,28,33,25,513,https://rtw.vkusvill.ru/goods/kombo-obed-sup-salat-84277.html
+Профитроли «Бородинские» с сельдью,115.0,6,210,8.9,29.5,12.3,350.3,https://rtw.vkusvill.ru/goods/profitroli-borodinskie-s-seldyu-71581.html
+Ролл Филадельфия,255.0,8,550,,,,,https://rtw.vkusvill.ru/goods/roll-filadelfiya-46648.html
+Суп-лапша с курицей Халяль_РП,250.0,0,150,,,,,https://rtw.vkusvill.ru/goods/sup-lapsha-s-kuritsey-khalyal-rp-83084.html
+Окорочок цыпленка «В дорогу»_РП,325.0,0,204,,,,,https://rtw.vkusvill.ru/goods/okorochok-tsyplenka-v-dorogu-rp-73558.html
+Салат «Свежесть» Халяль_РП,120.0,0,100,,,,,https://rtw.vkusvill.ru/goods/salat-svezhest-khalyal-rp-83284.html
+Крем-суп с тыквой и индейкой,270.0,40,196,2.4,1.4,5.6,44.6,https://rtw.vkusvill.ru/goods/krem-sup-s-tykvoy-i-indeykoy-58178.html
+Сырники творожные с клубничной начинкой,130.0,4,155,12.9,8.4,22.5,217.2,https://rtw.vkusvill.ru/goods/syrniki-tvorozhnye-s-klubnichnoy-nachinkoy-74314.html
+Вок с курицей,300.0,0,335,6.5,2.5,16.1,112.9,https://rtw.vkusvill.ru/goods/vok-s-kuritsey-70139.html
+Салат из запеченной свеклы с сыром фета и киноа,165.0,0,176,,,,,https://rtw.vkusvill.ru/goods/salat-iz-zapechennoy-svekly-s-syrom-feta-i-kinoa-24725.html
+Лепешка с сулугуни на гриле_РП,115.0,0,115,12.9,12.7,32.5,295.9,https://rtw.vkusvill.ru/goods/lepeshka-s-suluguni-na-grile-rp-66537.html
+"Набор роллов «Нокогири» (из 7 видов роллов), 805 г",805.0,0,1 550,,,,,https://rtw.vkusvill.ru/goods/nabor-rollov-nokogiri-iz-7-vidov-rollov-805-g-84831.html
+Крок Мадам и апельсиновый фреш 500 мл,805.0,0,514,,,,,https://rtw.vkusvill.ru/goods/krok-madam-i-apelsinovyy-fresh-500-ml-71118.html
+Лазанья Болоньезе,230.0,0,438,13.3,11.4,14.5,213.8,https://rtw.vkusvill.ru/goods/lazanya-boloneze-69916.html
+Салат с баклажаном и сыром «Фета»_РП,185.0,0,210,5.6,22.5,11.9,272.5,https://rtw.vkusvill.ru/goods/salat-s-baklazhanom-i-syrom-feta-rp-72558.html
+Булгур с овощами,150.0,6,166,2.5,2,11.7,74.8,https://rtw.vkusvill.ru/goods/bulgur-s-ovoshchami-28947.html
+"Пирог осетинский с капустой и яйцом, 250 г",250.0,7,162,5,7.6,27.2,197.2,https://rtw.vkusvill.ru/goods/pirog-osetinskiy-s-kapustoy-i-yaytsom-250-g-75403.html
+Суп рамен со свининой 320 г_РП,320.0,0,190,5,4.3,6.5,84.7,https://rtw.vkusvill.ru/goods/sup-ramen-so-svininoy-320-g-rp-74453.html
+"Суп-крем куриный, 270 грамм",270.0,0,188,1.3,3.1,9.7,71.9,https://rtw.vkusvill.ru/goods/sup-krem-kurinyy-270-gramm-63664.html
+Холодец говядина-курица,300.0,12,262,,,,,https://rtw.vkusvill.ru/goods/kholodets-govyadina-kuritsa-55730.html
+"Пицца «Маргарита», 350 г",350.0,6,370,11.3,8.6,34.4,260.2,https://rtw.vkusvill.ru/goods/pitstsa-margarita-350-g-66710.html
+Поке с креветкой,260.0,2,368,,,,,https://rtw.vkusvill.ru/goods/poke-s-krevetkoy-60988.html
+Цыпленок по-мексикански_РП,325.0,0,198,6,7,11,131,https://rtw.vkusvill.ru/goods/tsyplenok-po-meksikanski-rp-72886.html
+Оладьи печеночные с картофельным пюре,210.0,6,238,7.1,8.6,17.5,175.8,https://rtw.vkusvill.ru/goods/oladi-pechenochnye-s-kartofelnym-pyure-50132.html
+Лепешка с сыром и зеленью,175.0,4,221,10.4,9.1,21.3,208.7,https://rtw.vkusvill.ru/goods/lepeshka-s-syrom-i-zelenyu-65193.html
+Чебуреки с сыром и картофелем,160.0,2,176,8.7,15.3,23,264.5,https://rtw.vkusvill.ru/goods/chebureki-s-syrom-i-kartofelem-67797.html
+"Шаурма с курицей, 180 г",180.0,10,228,10,10.8,15.6,199.6,https://rtw.vkusvill.ru/goods/shaurma-s-kuritsey-180-g-66727.html
+"Сырники, 210 г",210.0,17,260,15.6,10.5,27.4,266.5,https://rtw.vkusvill.ru/goods/syrniki-210-g-44305.html
+Салат «Тосканский» с нутом,185.0,0,198,4.8,10.4,16.7,179.6,https://rtw.vkusvill.ru/goods/salat-toskanskiy-s-nutom-77384.html
+Спагетти «Карбонара»,265.0,0,392,10.2,10.4,41,298.4,https://rtw.vkusvill.ru/goods/spagetti-karbonara-80959.html
+"Кутабы с сыром, творогом и зеленью",165.0,4,196,11.2,11.9,22.2,240.7,https://rtw.vkusvill.ru/goods/kutaby-s-syrom-tvorogom-i-zelenyu-48257.html
+Круассан с лососем и сливочным сыром и апельсиновый фреш 500 мл,710.0,0,610,,,,,https://rtw.vkusvill.ru/goods/kruassan-s-lososem-i-slivochnym-syrom-i-apelsinovyy-fresh-500-ml-70970.html
+Сэндвич ролл «Гавайский» с курицей,190.0,0,208,9.4,6.3,21.5,180.3,https://rtw.vkusvill.ru/goods/sendvich-roll-gavayskiy-s-kuritsey-61335.html
+Салат «Грин Энерджи»,150.0,16,188,,,,,https://rtw.vkusvill.ru/goods/salat-grin-enerdzhi-15896.html
+Щечки томленые с картофельным пюре,230.0,0,428,11,9,11,169,https://rtw.vkusvill.ru/goods/shchechki-tomlenye-s-kartofelnym-pyure-81571.html
+Филе судака с картофельным пюре,220.0,0,397,9.2,8.3,7.7,142.3,https://rtw.vkusvill.ru/goods/file-sudaka-s-kartofelnym-pyure-76924.html
+Бургер с растительным «мясом»,235.0,0,268,8.9,13.4,20.1,236.6,https://rtw.vkusvill.ru/goods/burger-s-rastitelnym-myasom-48574.html
+Буженина в собственном соку_РП,325.0,0,275,,,,,https://rtw.vkusvill.ru/goods/buzhenina-v-sobstvennom-soku-rp-72624.html
+Бургер с говядиной BBQ,323.0,0,435,10.91,12.49,8.6,278,https://rtw.vkusvill.ru/goods/burger-s-govyadinoy-bbq-43103.html
+"Салат с курицей, грибами и грецкими орехами, 600 г",600.0,0,520,13.6,24,4.3,287.6,https://rtw.vkusvill.ru/goods/salat-s-kuritsey-gribami-i-gretskimi-orekhami-600-g-70722.html
+"Плов с курицей, 600 г",600.0,18,370,,,,,https://rtw.vkusvill.ru/goods/plov-s-kuritsey-600-g-43240.html
+Каша овсяная цельнозерновая на воде,230.0,4,106,1.3,0.5,5.2,30.5,https://rtw.vkusvill.ru/goods/kasha-ovsyanaya-tselnozernovaya-na-vode-76889.html
+Запеканка творожная с вишней без доб. сахара,220.0,4,196,12.2,5,24.9,193.4,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-vishney-bez-dob-sakhara-38255.html
+Набор: Суп куриный + Паста «Карбонара»,630.0,0,505,,,,,https://rtw.vkusvill.ru/goods/nabor-sup-kurinyy-pasta-karbonara-58627.html
+"Пирожок с зеленью и яйцом на кефирном тесте, кафе",50.0,0,50,7.4,8.14,33.1,236,https://rtw.vkusvill.ru/goods/pirozhok-s-zelenyu-i-yaytsom-na-kefirnom-teste-kafe-43529.html
+"Заливное из семги, 500 г",500.0,0,480,7.9,1.3,0.9,46.9,https://rtw.vkusvill.ru/goods/zalivnoe-iz-semgi-500-g-71191.html
+"Салат сельдь под шубой, 300 г",300.0,24,258,,,,,https://rtw.vkusvill.ru/goods/salat-seld-pod-shuboy-300-g-39459.html
+"Драники овощные, 200 грамм",200.0,0,182,2.4,5.6,20.2,140.8,https://rtw.vkusvill.ru/goods/draniki-ovoshchnye-200-gramm-65117.html
+"Салат с лососем, свежими овощами и печеным перцем",230.0,0,426,4.49,12.97,4.11,151,https://rtw.vkusvill.ru/goods/salat-s-lososem-svezhimi-ovoshchami-i-pechenym-pertsem-68114.html
+Хот-Дог Классический + Картофель по-техасски + Напиток «Вкус-Кола» газированный,940.0,0,579,,,,,https://rtw.vkusvill.ru/goods/khot-dog-klassicheskiy-kartofel-po-tekhasski-napitok-vkus-kola-gazirovannyy-71186.html
+"Гуляш из говядины с гречкой пастеризованный, 250 г_РП",250.0,0,240,3.7,1.4,17.8,98.6,https://rtw.vkusvill.ru/goods/gulyash-iz-govyadiny-s-grechkoy-pasterizovannyy-250-g-rp-80601.html
+Драники картофельные с цукини и соусом,255.0,0,248,4,5,13.5,115,https://rtw.vkusvill.ru/goods/draniki-kartofelnye-s-tsukini-i-sousom-48095.html
+Запеканка творожная с персиковым наполнителем,200.0,4,188,8.6,5,17.2,148.2,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-s-persikovym-napolnitelem-76911.html
+"Салат «Оливье» с колбасой, 200 грамм",200.0,0,166,6,15,5.5,181,https://rtw.vkusvill.ru/goods/salat-olive-s-kolbasoy-200-gramm-68093.html
+"Пирожки с яйцом и зеленью, 6 шт",360.0,2,273,9.9,21.5,26.3,338.3,https://rtw.vkusvill.ru/goods/pirozhki-s-yaytsom-i-zelenyu-6-sht-72024.html
+"Пицца 4 сыра, охлажденная",400.0,11,390,9.8,8.8,28.1,230,https://rtw.vkusvill.ru/goods/pitstsa-4-syra-okhlazhdennaya-45520.html
+Солянка мясная с копченостями и каперсами,390.0,2,288,5,6,2,82,https://rtw.vkusvill.ru/goods/solyanka-myasnaya-s-kopchenostyami-i-kapersami-82616.html
+Кесадилья «По-Абхазски» с мандаринами,265.0,0,340,15.9,9.9,19.3,232,https://rtw.vkusvill.ru/goods/kesadilya-po-abkhazski-s-mandarinami-85296.html
+Филе трески с картофельно-тыквенным пюре,260.0,6,296,6.2,8,4.8,116,https://rtw.vkusvill.ru/goods/file-treski-s-kartofelno-tykvennym-pyure-34111.html
+Запеканка творожная без доб. сахара с мягким сыром «Рикотта»,200.0,7,186,11.3,7,10.1,148.6,https://rtw.vkusvill.ru/goods/zapekanka-tvorozhnaya-bez-dob-sakhara-s-myagkim-syrom-rikotta-66716.html
+Рис с куриной бризолью,200.0,4,258,9.7,8.8,19.7,196.8,https://rtw.vkusvill.ru/goods/ris-s-kurinoy-brizolyu-67492.html
+Гречка по-купечески,200.0,6,206,5.5,5.2,13.7,123.6,https://rtw.vkusvill.ru/goods/grechka-po-kupecheski-66903.html
+Картофель жареный со свининой и грибами в сметанном соусе,280.0,10,288,6.6,18.9,15.1,256.9,https://rtw.vkusvill.ru/goods/kartofel-zharenyy-so-svininoy-i-gribami-v-smetannom-souse-68461.html
+Комбо-перекус (салат + смузи),430.0,0,355,22,30,36,504,https://rtw.vkusvill.ru/goods/kombo-perekus-salat-smuzi-85722.html
+Блины с начинкой жюльен,210.0,8,248,,,,,https://rtw.vkusvill.ru/goods/bliny-s-nachinkoy-zhyulen-21159.html
+Удон с курицей и овощами_РП,250.0,0,248,8.2,11.7,14.1,194.5,https://rtw.vkusvill.ru/goods/udon-s-kuritsey-i-ovoshchami-rp-72557.html
+Омлет с сыром «Моцарелла»,170.0,4,178,15.2,14.7,1.4,198.7,https://rtw.vkusvill.ru/goods/omlet-s-syrom-motsarella-67478.html
+Салат «Окинавский»,210.0,0,210,5.8,7.3,4.9,109,https://rtw.vkusvill.ru/goods/salat-okinavskiy-73683.html
+Грудка куриная с картофелем по-деревенски,210.0,10,248,,,,,https://rtw.vkusvill.ru/goods/grudka-kurinaya-s-kartofelem-po-derevenski-37867.html
+Блинчики на козьем молоке,150.0,0,168,5.6,5.6,18.3,146,https://rtw.vkusvill.ru/goods/blinchiki-na-kozem-moloke-83777.html
+"Пирожки с вишней, 130 г",130.0,2,164,4.4,7.9,42.6,259.1,https://rtw.vkusvill.ru/goods/pirozhki-s-vishney-130-g-64002.html
+Креветки запеченные,110.0,4,510,19.6,2.5,0.03,101.02,https://rtw.vkusvill.ru/goods/krevetki-zapechennye-79357.html
+Рис с креветками и соусом Том-ям,250.0,4,448,5,3.5,19.2,128.3,https://rtw.vkusvill.ru/goods/ris-s-krevetkami-i-sousom-tom-yam-85572.html
+Филе куриной грудки запеченное,160.0,14,282,,,,,https://rtw.vkusvill.ru/goods/file-kurinoy-grudki-zapechennoe-34581.html
+"Каша пшенная молочная с тыквой, 580 г",580.0,2,270,2.9,3.1,16.4,105.1,https://rtw.vkusvill.ru/goods/kasha-pshennaya-molochnaya-s-tykvoy-580-g-74479.html
+Картофель с говядиной_РП,300.0,0,185,4.5,9,13,151,https://rtw.vkusvill.ru/goods/kartofel-s-govyadinoy-rp-73234.html
+"Суп-пюре с грибами, 320 г",320.0,0,282,2.8,8,2.3,92.4,https://rtw.vkusvill.ru/goods/sup-pyure-s-gribami-320-g-67055.html
+"Пирог осетинский «Сыр и шпинат», 250 г",250.0,0,217,12.6,12.5,27.7,273.7,https://rtw.vkusvill.ru/goods/pirog-osetinskiy-syr-i-shpinat-250-g-33450.html
+Суп «Рассольник» с курицей_РП,300.0,0,136,4.1,0.8,5.6,46,https://rtw.vkusvill.ru/goods/sup-rassolnik-s-kuritsey-rp-74452.html
+Рулетики из ветчины с сырной начинкой,120.0,8,278,15,17.3,3.6,230.1,https://rtw.vkusvill.ru/goods/ruletiki-iz-vetchiny-s-syrnoy-nachinkoy-71619.html
+"Голубцы ленивые из мяса птицы, 600 г",600.0,6,480,4.9,1.7,11.2,79.7,https://rtw.vkusvill.ru/goods/golubtsy-lenivye-iz-myasa-ptitsy-600-g-65276.html
+Мимоза с семгой горячего копчения,185.0,4,292,14.3,16.3,7.9,235.5,https://rtw.vkusvill.ru/goods/mimoza-s-semgoy-goryachego-kopcheniya-39685.html
+Говядина «Бургиньон» с макаронами «Орзо»,290.0,4,348,18.7,9.1,11.4,202.3,https://rtw.vkusvill.ru/goods/govyadina-burginon-s-makaronami-orzo-56783.html
+Фрикадельки из филе минтая с брокколи,130.0,2,268,13.1,2.1,5.5,93.3,https://rtw.vkusvill.ru/goods/frikadelki-iz-file-mintaya-s-brokkoli-78672.html
+Голубцы ленивые в сметанном соусе,250.0,8,198,6.5,5.7,8.2,110.1,https://rtw.vkusvill.ru/goods/golubtsy-lenivye-v-smetannom-souse-29522.html
+"Пирог осетинский с сыром, 250 г",250.0,8,221,12.2,5.1,25.4,213,https://rtw.vkusvill.ru/goods/pirog-osetinskiy-s-syrom-250-g-34063.html
+"Плов «Узбекский» с говядиной, 500 г",500.0,2,390,5.5,9.2,19.3,182,https://rtw.vkusvill.ru/goods/plov-uzbekskiy-s-govyadinoy-500-g-48189.html
+Биточки куриные с гречкой в соусе барбекю пастеризованные_РП,270.0,0,219,8.6,7.4,12.3,150.3,https://rtw.vkusvill.ru/goods/bitochki-kurinye-s-grechkoy-v-souse-barbekyu-pasterizovannye-rp-70599.html
+Перлотто с белыми грибами,250.0,0,336,4.4,11.3,18.1,191.7,https://rtw.vkusvill.ru/goods/perlotto-s-belymi-gribami-81574.html
+Пирожок с капустной начинкой_РП,50.0,0,45,8.3,8.5,40,269.7,https://rtw.vkusvill.ru/goods/pirozhok-s-kapustnoy-nachinkoy-rp-66534.html
+Салат «Цезарь» с курицей и пекинской капустой,180.0,24,230,11.9,16.5,5.5,218.1,https://rtw.vkusvill.ru/goods/salat-tsezar-s-kuritsey-i-pekinskoy-kapustoy-61483.html
+Сырники без добавления сахара с курагой,210.0,19,198,12.4,7.2,38.4,268,https://rtw.vkusvill.ru/goods/syrniki-bez-dobavleniya-sakhara-s-kuragoy-36159.html
+"Пельмени с говядиной и свининой, 275 г",275.0,0,307,10.5,14.2,24.0,265.8,https://rtw.vkusvill.ru/goods/pelmeni-s-govyadinoy-i-svininoy-275-g-48661.html
+Котлеты По-киевски с маслом и зеленью,280.0,4,510,23.3,30,15.8,426.4,https://rtw.vkusvill.ru/goods/kotlety-po-kievski-s-maslom-i-zelenyu-67886.html
+Штрудель с яблоком и корицей,110.0,0,200,5.1,10.4,37.6,354,https://rtw.vkusvill.ru/goods/shtrudel-s-yablokom-i-koritsey-64179.html
+"Харчо с говядиной, 300 г",300.0,0,267,3.1,1.9,10.4,71.1,https://rtw.vkusvill.ru/goods/kharcho-s-govyadinoy-300-g-46334.html
+"Суп «Харчо», 1 кг",1000.0,6,510,3.3,4,5.5,71.2,https://rtw.vkusvill.ru/goods/sup-kharcho-1-kg-60659.html
+Салат «Оливье» с колбасой,200.0,8,168,,,,,https://rtw.vkusvill.ru/goods/salat-olive-s-kolbasoy-34385.html
+Киш «Сыр с овощами»,160.0,6,193,11.1,15.9,19.5,265.5,https://rtw.vkusvill.ru/goods/kish-syr-s-ovoshchami-28728.html
+"Пирожок с вишневой начинкой, кафе",50.0,0,60,6.1,9.5,37.5,259.9,https://rtw.vkusvill.ru/goods/pirozhok-s-vishnevoy-nachinkoy-kafe-36938.html
+Сэндвич с форелью.,180.0,4,238,,,,,https://rtw.vkusvill.ru/goods/sendvich-s-forelyu-26904.html
+Кускус с овощами,200.0,6,180,4.9,7.1,29.2,200,https://rtw.vkusvill.ru/goods/kuskus-s-ovoshchami-17143.html
+"Салат «Оливье» с филе семги, 600 г",600.0,0,650,7.6,11.8,7.7,167.4,https://rtw.vkusvill.ru/goods/salat-olive-s-file-semgi-600-g-71932.html
+"Салат оливье, 300 г",300.0,22,288,6.9,20.1,5.7,231.3,https://rtw.vkusvill.ru/goods/salat-olive-300-g-39458.html
+"Суп-крем куриный, 1 кг",1000.0,4,560,1.3,3.1,9.7,71.9,https://rtw.vkusvill.ru/goods/sup-krem-kurinyy-1-kg-60660.html
+"Пирожок с капустной начинкой, кафе",50.0,0,55,,,,,https://rtw.vkusvill.ru/goods/pirozhok-s-kapustnoy-nachinkoy-kafe-36941.html
+Шницель куриный под сыром с картофельным гратеном и томатным соусом,405.0,0,496,9.3,16.8,8,221,https://rtw.vkusvill.ru/goods/shnitsel-kurinyy-pod-syrom-s-kartofelnym-gratenom-i-tomatnym-sousom-82207.html
+Биточек куриный с капустой и картофельным пюре,200.0,24,198,,,,,https://rtw.vkusvill.ru/goods/bitochek-kurinyy-s-kapustoy-i-kartofelnym-pyure-71215.html
+"Запеканка творож. с черной смород., 100 г",100.0,24,92,12.5,5.6,20.8,183.6,https://rtw.vkusvill.ru/goods/zapekanka-tvorozh-s-chernoy-smorod-100-g-33660.html
+Паста «Арабьата»_РП,250.0,0,205,7.5,3,45,237,https://rtw.vkusvill.ru/goods/pasta-arabata-rp-76793.html
+Паста Орзо с креветками,200.0,14,228,6.2,8.8,7.8,135.2,https://rtw.vkusvill.ru/goods/pasta-orzo-s-krevetkami-78100.html
+Блинчики с творогом,190.0,0,203,11,3.4,23,166.3,https://rtw.vkusvill.ru/goods/blinchiki-s-tvorogom-44766.html
+Каша овсяная на молоке,250.0,3,146,2.3,3.7,11,86.5,https://rtw.vkusvill.ru/goods/kasha-ovsyanaya-na-moloke-76421.html
+Большая порция ленивых голубцов в сметанном соусе,552.0,0,522,8.9,10.7,5.7,159,https://rtw.vkusvill.ru/goods/bolshaya-portsiya-lenivykh-golubtsov-v-smetannom-souse-81145.html
