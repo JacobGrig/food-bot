@@ -41,6 +41,8 @@ class Parser:
         headless
     ):
 
+        self.driver = None
+
         self.address = address
         self.delivery_interval = None
 
@@ -59,36 +61,36 @@ class Parser:
         self.logon_before_parsing = logon_before_parsing
         self.headless = headless
 
-        self.__initialize_driver()
-
     def __initialize_driver(self):
 
-        service = Service(ChromeDriverManager().install())
-        options = Options()
+        if self.driver is None:
 
-        if self.headless:
+            service = Service(ChromeDriverManager().install())
+            options = Options()
 
-            options.add_argument('--headless=new')
+            if self.headless:
 
-            driver = webdriver.Chrome(service=service, options=options)
+                options.add_argument('--headless=new')
 
-            user_agent = driver.execute_script("return navigator.userAgent")
+                driver = webdriver.Chrome(service=service, options=options)
 
-            driver.quit()
+                user_agent = driver.execute_script("return navigator.userAgent")
 
-            options.add_argument(f'user-agent={user_agent.replace("Headless", "")}')
+                driver.quit()
 
-        self.driver = webdriver.Chrome(service=service, options=options)
+                options.add_argument(f'user-agent={user_agent.replace("Headless", "")}')
 
-        self.driver.set_window_size(1200, 800)
+            self.driver = webdriver.Chrome(service=service, options=options)
 
-        self.driver.get("https://vkusvill.ru/")
+            self.driver.set_window_size(1200, 800)
 
-        if self.logon_before_parsing:
+            self.driver.get("https://vkusvill.ru/")
 
-            self.__log_in()
+            if self.logon_before_parsing:
 
-        self.delivery_interval = self.__set_address_and_delivery_interval()
+                self.__log_in()
+
+            self.delivery_interval = self.__set_address_and_delivery_interval()
 
     def __set_address_and_delivery_interval(self):
 
@@ -183,6 +185,12 @@ class Parser:
             By.CSS_SELECTOR, ".VV_Radio._separ._circleRight"
         )
 
+        self.driver.execute_script("arguments[0].scrollIntoView();", delivery_interval_cand_list[1])
+
+        delivery_interval_cand_list = self.driver.find_elements(
+            By.CSS_SELECTOR, ".VV_Radio._separ._circleRight"
+        )
+
         if self.delivery_interval is not None:
 
             delivery_interval_text = self.delivery_interval
@@ -198,6 +206,8 @@ class Parser:
 
             delivery_interval_list = []
             index_list = []
+
+
 
             for index, delivery_interval_button in enumerate(delivery_interval_cand_list):
 
@@ -231,6 +241,8 @@ class Parser:
         parse_npq_only=None
     ):
 
+        self.__initialize_driver()
+
         if parse_npq_only is None:
             parse_npq_only = self.parse_npq_only
 
@@ -257,7 +269,7 @@ class Parser:
 
             self.__save_data_to_csv(
                 out,
-                Path(Path(__file__).parents[0], "..", "output", f"{self.user_token}.csv")
+                Path(Path(__file__).parent, "..", "output", f"{self.user_token}.csv")
             )
 
         else:
@@ -689,7 +701,7 @@ class Parser:
             ".VV_Input__Input.js-vv-control__input.js-input-mask-phone.js-user-form-checksms-api-sms"
         )
 
-        sms_code = self.telegram_handler.ask_for_input("Insert your SMS-code here: ")
+        sms_code = self.telegram_handler.ask_for_input("Insert your SMS-code here: ", button_list=None)
 
         sms_form.send_keys(sms_code)
 
@@ -698,7 +710,7 @@ class Parser:
     def __read_and_convert_data(self):
 
         food_df = pd.read_csv(
-            Path(Path(__file__).parents[0], "..", "output", f"{self.user_token}.csv"),
+            Path(Path(__file__).parent, "..", "output", f"{self.user_token}.csv"),
             encoding="utf-8",
             delimiter=",",
             index_col="name",
@@ -738,9 +750,11 @@ class Parser:
 
     def __update_dishlist(self):
 
-        path_to_file = Path(Path(__file__).parents[0], "..", "data", "dishlist.xlsx")
+        path_to_file = Path(Path(__file__).parent, "..", "data", "dishlist.xlsx")
 
-        if self.parse_npq_only:
+        parsed_npq_only = "mass" not in self.food_df.columns
+
+        if parsed_npq_only:
 
             dishlist_df = pd.read_excel(path_to_file, index_col='name')
 
@@ -757,7 +771,9 @@ class Parser:
             subset=["calories", "proteins", "fats", "carbohydrates", "mass"]
         )
 
-        self.food_df.drop(columns=["quantity", "price"]).sort_index().to_excel(path_to_file)
+        if not parsed_npq_only:
+
+            self.food_df.drop(columns=["quantity", "price"]).sort_index().to_excel(path_to_file)
 
     def __filter_by_mass(self):
 
@@ -795,6 +811,8 @@ class Parser:
         min_dict_list,
         food_dict,
     ):
+
+        self.__initialize_driver()
 
         final_dict = {}
 

@@ -1,6 +1,4 @@
 import json
-import traceback
-
 from pathlib import Path
 from time import time
 
@@ -21,6 +19,7 @@ class Pipeline:
         use_telegram,
         logon_before_parsing,
         headless,
+        telegram_handler,
     ):
 
         self.n_days = n_days
@@ -35,7 +34,13 @@ class Pipeline:
         self.logon_before_parsing = logon_before_parsing
         self.headless = headless
 
-        self.__initialize_telegram_handler()
+        self.config = {"food_restrictions": {}}
+
+        if telegram_handler is not None:
+            self.telegram_handler = telegram_handler
+        else:
+            self.__initialize_telegram_handler()
+
         self.__initialize_config()
         self.__initialize_food_restrictions()
         self.__initialize_parser()
@@ -50,9 +55,274 @@ class Pipeline:
 
     def __initialize_config(self):
 
-        self.config = json.load(
-            Path(Path(__file__).parents[0], "..", "config", f"{self.user_token}.json").open(encoding="utf-8"),
+        config_path = Path(Path(__file__).parent, "..", "config", f"{self.user_token}.json")
+
+        if not config_path.exists():
+
+            self.__change_config()
+
+            json.dump(
+                self.config,
+                config_path.open('w', encoding="utf-8"),
+                ensure_ascii=False,
+                indent=2
+            )
+
+        else:
+
+            self.config = json.load(config_path.open(encoding="utf-8"))
+
+            self.__print_config()
+
+            while True:
+
+                change_section, _ = get_input_option(
+                    self.telegram_handler,
+                    "part of the config you want to change",
+                    [
+                        "addresses (append)",
+                        "addresses (new)",
+                        "phone numbers (append)",
+                        "phone numbers (new)",
+                        "lower bound for calories",
+                        "upper bound for calories",
+                        "lower bound for proteins",
+                        "upper bound for proteins",
+                        "lower bound for fats",
+                        "upper bound for fats",
+                        "lower bound for carbohydrates",
+                        "upper bound for carbohydrates",
+                        "maximum mass of one dish",
+                        "maximum price for daily set",
+                        "nothing"
+                    ]
+                )
+
+                match change_section:
+
+                    case "nothing": break
+
+                    case "addresses (append)": self.__change_addresses(True)
+                    case "addresses (new)": self.__change_addresses(False)
+
+                    case "phone numbers (append)": self.__change_phone_numbers(True)
+                    case "phone numbers (new)": self.__change_phone_numbers(False)
+
+                    case "lower bound for calories": self.__change_calories_lower()
+                    case "upper bound for calories": self.__change_calories_upper()
+
+                    case "lower bound for proteins": self.__change_proteins_lower()
+                    case "upper bound for proteins": self.__change_proteins_upper()
+
+                    case "lower bound for fats": self.__change_fats_lower()
+                    case "upper bound for fats": self.__change_fats_upper()
+
+                    case "lower bound for carbohydrates": self.__change_carbo_lower()
+                    case "upper bound for carbohydrates": self.__change_carbo_upper()
+
+                    case "maximum mass of one dish": self.__change_max_mass()
+                    case "maximum price for daily set": self.__change_start_min_price()
+
+                self.__print_config()
+
+            json.dump(
+                self.config,
+                config_path.open('w', encoding="utf-8"),
+                ensure_ascii=False,
+                indent=2
+            )
+
+    def __change_multiple_values(self, name, names, key, example, append):
+
+        value = self.telegram_handler.ask_for_input(
+            f"Enter your ___{name}___ (e.g. {example})",
+            button_list=None
         )
+
+        value_list = [value, ]
+
+        while True:
+
+            answer = self.telegram_handler.ask_for_input(
+                f"Do you want me to save ___more {names}___?",
+                button_list=["yes", "no"]
+            )
+
+            should_break = False
+
+            while True:
+
+                if answer == "yes":
+
+                    value = self.telegram_handler.ask_for_input(
+                        f"Enter your ___{name}___ (e.g. {example})",
+                        button_list=None
+                    )
+
+                    value_list.append(value)
+
+                    break
+
+                elif answer == "no":
+
+                    should_break = True
+
+                    break
+
+                else:
+
+                    answer = self.telegram_handler.ask_for_input("Try again!", button_list=["yes", "no"])
+
+            if should_break:
+                break
+
+        if append:
+
+            self.config[key].append(value_list)
+
+        else:
+
+            self.config[key] = value_list
+
+    def __change_addresses(self, append):
+
+        self.__change_multiple_values(
+            name="address",
+            names="addresses",
+            key="addresses",
+            example="Москва, Самокатная улица, 6к1",
+            append=append
+        )
+
+    def __change_phone_numbers(self, append):
+
+        self.__change_multiple_values(
+            name="phone number",
+            names="phone numbers",
+            key="phone_numbers",
+            example=9057585915,
+            append=append
+        )
+
+    def __change_value(self, name, key, example, bound):
+
+        value = self.telegram_handler.ask_for_input(
+            f"Enter ___{name}___ (e.g. {example})",
+            button_list=None
+        )
+
+        while True:
+
+            try:
+
+                value = int(value)
+
+                if value <= 0:
+                    raise ValueError
+
+                if bound == "upper":
+
+                    if value <= self.config["food_restrictions"][key.replace("upper", "lower")]:
+                        raise ValueError
+
+                break
+
+            except ValueError:
+
+                value = self.telegram_handler.ask_for_input(
+                    "You should enter positive integer number!",
+                    button_list=None
+                )
+
+        self.config["food_restrictions"][key] = value
+
+    def __change_calories_lower(self):
+
+        self.__change_value(name="lower bound for calories", key="calories_lower", example=2000, bound="lower")
+
+    def __change_calories_upper(self):
+
+        self.__change_value(name="upper bound for calories", key="calories_upper", example=2500, bound="upper")
+
+    def __change_proteins_lower(self):
+
+        self.__change_value(name="lower bound for proteins", key="proteins_lower", example=150, bound="lower")
+
+    def __change_proteins_upper(self):
+
+        self.__change_value(name="upper bound for proteins", key="proteins_upper", example=250, bound="upper")
+
+    def __change_fats_lower(self):
+
+        self.__change_value(name="lower bound for fats", key="fats_lower", example=50, bound="lower")
+
+    def __change_fats_upper(self):
+
+        self.__change_value(name="upper bound for fats", key="fats_upper", example=150, bound="upper")
+
+    def __change_carbo_lower(self):
+
+        self.__change_value(name="lower bound for carbohydrates", key="carbo_lower", example=200, bound="lower")
+
+    def __change_carbo_upper(self):
+
+        self.__change_value(name="upper bound for carbohydrates", key="carbo_upper", example=300, bound="upper")
+
+    def __change_max_mass(self):
+
+        self.__change_value(name="maximum mass of one dish", key="max_mass", example=300, bound="")
+
+    def __change_start_min_price(self):
+
+        self.__change_value(name="maximum price of daily set", key="start_min_price", example=1500, bound="")
+
+    def __change_config(self):
+
+        self.__change_addresses(False)
+        self.__change_phone_numbers(False)
+        self.__change_calories_lower()
+        self.__change_calories_upper()
+        self.__change_proteins_lower()
+        self.__change_proteins_upper()
+        self.__change_fats_lower()
+        self.__change_fats_upper()
+        self.__change_carbo_lower()
+        self.__change_carbo_upper()
+        self.__change_max_mass()
+        self.__change_start_min_price()
+
+    def __print_config(self):
+
+        addresses_str = "\n".join([f"    {i}. {address}" for i, address in enumerate(self.config["addresses"])])
+
+        phone_numbers_str = "\n".join(
+            [f"    {i}. {phone_number}" for i, phone_number in enumerate(self.config["phone_numbers"])]
+        )
+
+        print_str = f"""
+***Current config***:
+
+___addresses___: \n{addresses_str}
+
+___phone numbers___: \n{phone_numbers_str}
+
+___lower bound for calories___: {self.config["food_restrictions"]["calories_lower"]}
+___upper bound for calories___: {self.config["food_restrictions"]["calories_upper"]}
+
+___lower bound for proteins___: {self.config["food_restrictions"]["proteins_lower"]}
+___upper bound for proteins___: {self.config["food_restrictions"]["proteins_upper"]}
+
+___lower bound for fats___: {self.config["food_restrictions"]["fats_lower"]}
+___upper bound for fats___: {self.config["food_restrictions"]["fats_upper"]}
+
+___lower bound for carbohydrates___: {self.config["food_restrictions"]["carbo_lower"]}
+___upper bound for carbohydrates___: {self.config["food_restrictions"]["carbo_upper"]}
+
+___maximum mass of one dish___: {self.config["food_restrictions"]["max_mass"]}
+___maximum price for daily set___: {self.config["food_restrictions"]["start_min_price"]}
+        """
+
+        self.telegram_handler.log_info(print_str)
 
     def __initialize_food_restrictions(self):
 
@@ -79,7 +349,7 @@ class Pipeline:
             user_token=self.user_token,
             n_days=self.n_days,
             telegram_handler=self.telegram_handler,
-            max_mass=self.config["max_mass"],
+            max_mass=self.food_restrictions["max_mass"],
             logon_before_parsing=self.logon_before_parsing,
             headless=self.headless
         )
@@ -97,7 +367,7 @@ class Pipeline:
             fats_upper=self.food_restrictions["fats_upper"],
             carbo_lower=self.food_restrictions["carbo_lower"],
             carbo_upper=self.food_restrictions["carbo_upper"],
-            start_min_price=self.config["start_min_price"],
+            start_min_price=self.food_restrictions["start_min_price"],
             parser=self.parser
         )
 
@@ -132,78 +402,17 @@ class Pipeline:
 
         self.telegram_handler.log_info(f"Finished optimizing: {time() - start_time:.2f} sec")
 
-        self.telegram_handler.log_info("Started adding to cart")
-
-        start_time = time()
-
-        self.parser.launch_cart(
-            self.optimizer.min_dict_list,
-            food_dict,
-        )
-
-        self.telegram_handler.log_info(f"Finished adding to cart: {time() - start_time:.2f} sec")
+        # self.telegram_handler.log_info("Started adding to cart")
+        #
+        # start_time = time()
+        #
+        # self.parser.launch_cart(
+        #     self.optimizer.min_dict_list,
+        #     food_dict,
+        # )
+        #
+        # self.telegram_handler.log_info(f"Finished adding to cart: {time() - start_time:.2f} sec")
 
         self.telegram_handler.log_info("Algorithm is finished! Bye-bye!")
 
-
-if __name__ == '__main__':
-
-    global_user_token = 138619108
-    global_use_parser = False
-
-    global_use_telegram = True
-
-    global_logon_before_parsing = False
-    global_headless = False
-
-    telegram_handler = TelegramHandler(chat_id=global_user_token, use_telegram=global_use_telegram)
-
-    try:
-
-        telegram_handler.log_info("\nHello! Algorithm is started!")
-
-        answer = telegram_handler.ask_for_input("How many days do you want me to optimize? (1/2/3)")
-
-        while True:
-
-            if answer in ["1", "2", "3"]:
-
-                global_n_days = int(answer)
-
-                break
-
-            answer = telegram_handler.ask_for_input("Try again: 1/2/3")
-
-        answer = telegram_handler.ask_for_input("Do you want me to parse in full mode or npq mode? (full/npq)")
-
-        while True:
-
-            if answer == "full":
-
-                global_parse_npq_only = False
-
-                break
-
-            elif answer == "npq":
-
-                global_parse_npq_only = True
-
-                break
-
-            answer = telegram_handler.ask_for_input("Try again: full/npq")
-
-        Pipeline(
-            n_days=global_n_days,
-            user_token=global_user_token,
-            use_parser=global_use_parser,
-            parse_npq_only=global_parse_npq_only,
-            use_telegram=global_use_telegram,
-            logon_before_parsing=global_logon_before_parsing,
-            headless=global_headless,
-        ).run()
-
-    except (Exception, KeyboardInterrupt) as exception:
-
-        tb = traceback.format_exc()
-
-        telegram_handler.log_info(f"```python\n{tb}```")
+        # self.telegram_handler.stop_bot()

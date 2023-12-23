@@ -7,14 +7,14 @@ def get_input_option(
     def select_from_options():
 
         option_str = f"Select {option_name}:\n\n" + "\n".join(
-            [f"{i}. {option_list[i]}" for i in range(len(option_list))]
+            [f"___{i}. {option_list[i]}___" for i in range(len(option_list))]
         )
 
         while True:
 
             try:
 
-                cur_answer = telegram_handler.ask_for_input(option_str)
+                cur_answer = telegram_handler.ask_for_input(option_str, range(len(option_list)))
 
                 input_index = int(cur_answer)
 
