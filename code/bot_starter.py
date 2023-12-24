@@ -94,7 +94,7 @@ def handle_start(message):
 
                     elif answer == "not parse":
 
-                        parse_npq_only = None
+                        parse_npq_only = True
                         use_parser = False
 
                         break
