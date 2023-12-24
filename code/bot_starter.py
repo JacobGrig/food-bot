@@ -39,7 +39,7 @@ def handle_start(message):
         use_mongo = True
 
         logon_before_parsing = False
-        headless = False
+        headless = True
 
         telegram_handler = TelegramHandler(chat_id=user_token, use_telegram=use_telegram, bot=bot)
 
