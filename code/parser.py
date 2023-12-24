@@ -23,8 +23,7 @@ from utils import get_input_option
 
 class Parser:
 
-    SECTION_LINK = "https://rtw.vkusvill.ru/goods/gotovaya-eda/"
-    DATA_FILENAME = "dishlist.xlsx"
+    SECTION_LINK = "https://rtw.vkusvill.ru/goods/gotovaya-eda/"  # link where all dishes are located
     WAIT_TIMEOUT = 10
     SLEEP_AFTER_WAIT = 2
 
@@ -63,6 +62,8 @@ class Parser:
 
     def __initialize_driver(self):
 
+        # use selenium to parse data and load card
+
         if self.driver is None:
 
             service = Service(ChromeDriverManager().install())
@@ -71,6 +72,9 @@ class Parser:
             if self.headless:
 
                 options.add_argument('--headless=new')
+                options.add_argument('--no-sandbox')
+                options.add_argument('--disable-gpu')
+                options.add_argument('--disable-dev-shm-usage')
 
                 driver = webdriver.Chrome(service=service, options=options)
 
@@ -207,8 +211,6 @@ class Parser:
             delivery_interval_list = []
             index_list = []
 
-
-
             for index, delivery_interval_button in enumerate(delivery_interval_cand_list):
 
                 cur_text = delivery_interval_button.text
@@ -236,9 +238,9 @@ class Parser:
 
     def parse_data(
         self,
-        links,
-        save_to_csv,
-        parse_npq_only=None
+        links: set,
+        save_to_csv: bool,
+        parse_npq_only: Optional[bool] = None
     ):
 
         self.__initialize_driver()
@@ -341,7 +343,7 @@ class Parser:
 
     def __get_product_links(
         self,
-        link
+        link: str
     ) -> set:
 
         links = set()
@@ -382,7 +384,7 @@ class Parser:
     def __get_product_name(
         self,
         link: Optional[str],
-        from_product_card
+        from_product_card: bool
     ) -> str:
 
         if link is not None:
@@ -569,7 +571,7 @@ class Parser:
 
     def __get_quantity(
         self,
-        from_product_card
+        from_product_card: bool
     ) -> int:
 
         elem_list = self.driver.find_elements(
@@ -644,16 +646,14 @@ class Parser:
 
     @staticmethod
     def __save_data_to_csv(
-        data_strings,
-        filename
+        data_strings: list,
+        filename: str
     ):
 
         df = pd.DataFrame(data_strings)
         df.to_csv(filename, index=False, encoding="utf-8")
 
-    def __log_in(
-        self,
-    ):
+    def __log_in(self):
 
         self.driver.get("https://vkusvill.ru/personal/")
 
@@ -777,6 +777,10 @@ class Parser:
 
     def __filter_by_mass(self):
 
+        # this is needed for optimizer to work at reasonable time
+        # without this all dishes would have 50 or 100 quantity,
+        # that is why it is a user-defined parameter
+
         self.food_df["final_quantity"] = np.minimum(
             self.food_df["quantity"],
             self.max_mass // self.food_df["mass"]
@@ -808,8 +812,8 @@ class Parser:
 
     def launch_cart(
         self,
-        min_dict_list,
-        food_dict,
+        min_dict_list: list,
+        food_dict: dict,
     ):
 
         self.__initialize_driver()
@@ -828,7 +832,7 @@ class Parser:
 
     def __add_products_to_cart(
         self,
-        data,
+        data: dict,
     ):
 
         if not self.logon_before_parsing:

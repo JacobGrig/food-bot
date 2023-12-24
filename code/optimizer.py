@@ -5,6 +5,9 @@ import pandas as pd
 
 from numpy.random import default_rng
 
+from telegram_handler import TelegramHandler
+from parser import Parser
+
 
 class Optimizer:
 
@@ -13,18 +16,18 @@ class Optimizer:
 
     def __init__(
         self,
-        telegram_handler,
-        n_days,
-        calories_lower,
-        calories_upper,
-        proteins_lower,
-        proteins_upper,
-        fats_lower,
-        fats_upper,
-        carbo_lower,
-        carbo_upper,
-        start_min_price,
-        parser
+        telegram_handler: TelegramHandler,
+        n_days: int,
+        calories_lower: int,
+        calories_upper: int,
+        proteins_lower: int,
+        proteins_upper: int,
+        fats_lower: int,
+        fats_upper: int,
+        carbo_lower: int,
+        carbo_upper: int,
+        start_min_price: int,
+        parser: Parser
     ):
 
         self.telegram_handler = telegram_handler
@@ -49,7 +52,7 @@ class Optimizer:
 
         self.min_dict_list = None
 
-    def launch_optimizer(self, food_df):
+    def launch_optimizer(self, food_df: pd.DataFrame) -> dict:
 
         min_dict_list = []
         min_price_list = []
@@ -188,6 +191,7 @@ class Optimizer:
 
         return food_dict
 
+    # this is my favorite function and I did not use types on purpose because I believe that it would slow down it
     @staticmethod
     def __optimize(
         i_first_dish,
@@ -314,7 +318,7 @@ class Optimizer:
             min_price,
         )
 
-    def __calculate_nutritional_value(self, food_dict):
+    def __calculate_nutritional_value(self, food_dict: dict) -> tuple:
 
         cur_calories_list = []
         cur_proteins_list = []
@@ -352,9 +356,9 @@ class Optimizer:
 
     def __print_optimal_set_info(
         self,
-        start_day,
-        food_df,
-    ):
+        start_day: int,
+        food_df: pd.DataFrame,
+    ) ->  dict:
 
         food_dict = food_df.to_dict('index')
 
