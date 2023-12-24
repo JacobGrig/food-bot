@@ -1,13 +1,13 @@
 # food-bot
 Optimal VkusVill Dish Recommentation Bot.
 
-This project consists of the following parts:
+___This project consists of the following parts___:
 
 1. Parser (to parse the current state of dishes)
 2. Price optimizer (to find optimal food set in terms of price with some restrictions on calories)
 3. Cart loader (to add dishes from the optimal set to my cart)
 
-The full pipeline consists of the following steps (after /start command):
+___The full pipeline consists of the following steps (after /start command)___:
 
 1. Asking me about address, account phone number, pipeline params (the rest are stored in 'config' directory)
 2. Opening Google Chrome in so-called headless mode (because GitHub servers do not have displays)
@@ -20,12 +20,12 @@ The full pipeline consists of the following steps (after /start command):
 
 After that I simply go to my VkusVill cart (via their app) and make the order (I didn't add this step to the algorithm, since it is too risky).
 
-Installation of the project:
+___Installation of the project___:
 1. Install ```docker-compose```
 2. Run ```docker-compose up --build``` from repository folder
 3. After executing the previous command you can write /start to @vkusvill_food_bot
 
-File description:
+___File description___:
 1. ```code``` directory consists of python files:
    - ```bot_starter.py``` launches the infinity polling thread, it listens to different users simultaneously
    - ```mongo_connector.py``` connects to the MongoDM base, which saves user data (unique user is unique telegram user token)
@@ -50,3 +50,5 @@ File description:
 
 I strove to use obvious variable names, so commentary was not so necessary, and I added only a few in complex places. And I also almost never used docstrings, because the functions and methods are somewhat one-timers, and I wouldn't use them for something else. I did not also use defaults parameter values often, because they frequently mixed me up.
 Note that all requirements from the task are completed including those which are "beneficial".
+
+***Note***: loading to cart will not work if your phone number is not registered in VkusVill! So do that in advance!
