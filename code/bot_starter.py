@@ -6,21 +6,25 @@ from datetime import datetime
 
 from telegram_handler import TelegramHandler, BOT_TOKEN
 from pipeline import Pipeline
+from mongo_connector import MongoConnector
 
 
-max_n_users = 10
+max_n_users = 10  # maximum number of users possible (threads are not countless)
 cur_n_users = 0
 
 bot = telebot.TeleBot(token=BOT_TOKEN, threaded=True, num_threads=(max_n_users + 1))
 
+use_mongo = True  # for debug
+mongo_connector = MongoConnector() if use_mongo else None
 
-@bot.message_handler(commands=['help'])
+
+@bot.message_handler(commands=['help'])  # answer to /help command
 def handle_help(message):
 
     bot.reply_to(message, "Type /start to launch the algorithm!")
 
 
-@bot.message_handler(commands=['start'])
+@bot.message_handler(commands=['start'])  # andwer to /start command
 def handle_start(message):
 
     global cur_n_users
@@ -36,10 +40,9 @@ def handle_start(message):
         user_token = message.from_user.id
 
         use_telegram = True  # for debug
-        use_mongo = True
 
-        logon_before_parsing = False
-        headless = False
+        logon_before_parsing = False  # it is needed only for GitHub Actions,
+        headless = True  # for debug
 
         telegram_handler = TelegramHandler(chat_id=user_token, use_telegram=use_telegram, bot=bot)
 
@@ -65,6 +68,7 @@ def handle_start(message):
 
             modification_time = datetime.fromtimestamp(data_filename.stat().st_mtime).strftime('%Y-%m-%d %H:%M')
 
+            # how about full mode?
             telegram_handler.log_info(f"Last time dish list was updated is {modification_time}")
 
             if Path(Path(__file__).parent, "..", "output", f"{user_token}.csv").exists():
@@ -138,16 +142,17 @@ def handle_start(message):
                 logon_before_parsing=logon_before_parsing,
                 headless=headless,
                 telegram_handler=telegram_handler,
-                use_mongo=use_mongo
+                use_mongo=use_mongo,
+                mongo_connector=mongo_connector
             ).run()
 
         except (Exception, KeyboardInterrupt):
 
             tb = traceback.format_exc()
 
-            telegram_handler.log_info(f"```python\n{tb}```")
+            telegram_handler.log_info(f"```python\n{tb}```")  # almost all exceptions are resend to bot
 
-        cur_n_users -= 1
+        cur_n_users -= 1  # handled another user
 
 
 if __name__ == "__main__":

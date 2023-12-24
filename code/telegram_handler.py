@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 
-BOT_TOKEN = "6654595906:AAEg185xtzk03m2wz9cjH_oimfuI7idGOfg"
+BOT_TOKEN = "6654595906:AAEg185xtzk03m2wz9cjH_oimfuI7idGOfg"  # token for @vkusvill_food_bot
 
 
 class TelegramHandler:
@@ -75,7 +75,7 @@ class TelegramHandler:
 
         if button_list is not None:
 
-            markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+            markup = types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
 
             button_list = [types.KeyboardButton(button) for button in button_list]
 
@@ -125,8 +125,3 @@ class TelegramHandler:
         print(flush=True)
 
         return answer
-
-    def stop_bot(self):
-
-        self.__bot.stop_polling()
-        self.__bot.stop_bot()

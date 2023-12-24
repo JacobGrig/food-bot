@@ -21,7 +21,8 @@ class Pipeline:
         logon_before_parsing,
         headless,
         telegram_handler,
-        use_mongo
+        use_mongo,
+        mongo_connector
     ):
 
         self.n_days = n_days
@@ -37,6 +38,10 @@ class Pipeline:
         self.headless = headless
 
         self.use_mongo = use_mongo
+
+        self.mongo_connector = mongo_connector
+
+        self.config = {}
 
         if telegram_handler is not None:
             self.telegram_handler = telegram_handler
@@ -78,14 +83,14 @@ class Pipeline:
 
         else:
 
-            self.mongo_connector = MongoConnector(user_id=self.user_token)
-
-            self.config = self.mongo_connector.get_config()
+            self.config = self.mongo_connector.get_config(self.user_token)
 
             if self.config is None:
 
+                self.config = {}
+
                 self.__change_config()
-                self.mongo_connector.set_config(self.config)
+                self.mongo_connector.set_config(self.config, self.user_token)
 
                 return
 
@@ -153,7 +158,7 @@ class Pipeline:
 
         else:
 
-            self.mongo_connector.set_config(self.config)
+            self.mongo_connector.set_config(self.config, self.user_token)
 
     def __change_multiple_values(self, name, names, key, example, append):
 
@@ -251,31 +256,35 @@ class Pipeline:
 
                     new_key = key.replace("upper", "lower")
 
-                    if new_key in cur_config["food_restrictions"].keys():
+                    if "food_restrictions" in cur_config.keys():
 
-                        upper_value = cur_config["food_restrictions"][new_key]
+                        if new_key in cur_config["food_restrictions"].keys():
 
-                        if value <= upper_value:
+                            upper_value = cur_config["food_restrictions"][new_key]
 
-                            raise ValueError(
-                                f"You should enter positive integer number, "
-                                f"upper than {name.replace('upper', 'lower')} = {upper_value}!"
-                            )
+                            if value <= upper_value:
+
+                                raise ValueError(
+                                    f"You should enter positive integer number, "
+                                    f"upper than {name.replace('upper', 'lower')} = {upper_value}!"
+                                )
 
                 elif bound == "lower":
 
                     new_key = key.replace("lower", "upper")
 
-                    if new_key in cur_config["food_restrictions"].keys():
+                    if "food_restrictions" in cur_config.keys():
 
-                        lower_value = cur_config["food_restrictions"][new_key]
+                        if new_key in cur_config["food_restrictions"].keys():
 
-                        if value >= lower_value:
+                            lower_value = cur_config["food_restrictions"][new_key]
 
-                            raise ValueError(
-                                f"You should enter positive integer number, "
-                                f"lower than {name.replace('lower', 'upper')} = {lower_value}!"
-                            )
+                            if value >= lower_value:
+
+                                raise ValueError(
+                                    f"You should enter positive integer number, "
+                                    f"lower than {name.replace('lower', 'upper')} = {lower_value}!"
+                                )
 
                 break
 
@@ -286,6 +295,9 @@ class Pipeline:
                 message = error_str if 'invalid literal' not in error_str else "You should enter integer number!"
 
                 value = self.telegram_handler.ask_for_input(message, button_list=None)
+
+        if "food_restrictions" not in cur_config.keys():
+            cur_config["food_restrictions"] = {}
 
         cur_config["food_restrictions"][key] = value
 
@@ -496,6 +508,8 @@ ___maximum price for daily set___: {cur_config["food_restrictions"]["start_min_p
 
             self.telegram_handler.log_info("Started parsing")
 
+            # note that it can take from 2 to 30 minutes based on mode (full or npq) and internet connection speed
+
             start_time = time()
 
             self.parser.parse_data(
@@ -521,17 +535,15 @@ ___maximum price for daily set___: {cur_config["food_restrictions"]["start_min_p
 
         self.telegram_handler.log_info(f"Finished optimizing: {time() - start_time:.2f} sec")
 
-        # self.telegram_handler.log_info("Started adding to cart")
-        #
-        # start_time = time()
-        #
-        # self.parser.launch_cart(
-        #     self.optimizer.min_dict_list,
-        #     food_dict,
-        # )
-        #
-        # self.telegram_handler.log_info(f"Finished adding to cart: {time() - start_time:.2f} sec")
+        self.telegram_handler.log_info("Started adding to cart")
+
+        start_time = time()
+
+        self.parser.launch_cart(
+            self.optimizer.min_dict_list,
+            food_dict,
+        )
+
+        self.telegram_handler.log_info(f"Finished adding to cart: {time() - start_time:.2f} sec")
 
         self.telegram_handler.log_info("Algorithm is finished! Bye-bye!")
-
-        # self.telegram_handler.stop_bot()

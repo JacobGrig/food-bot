@@ -3,7 +3,7 @@ import json
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-URI = "mongodb+srv://jacobgrigoriev:a1GrjiPKDsuVVxKO@vkusvilldb.bwzvmt4.mongodb.net/?retryWrites=true&w=majority"
+URI = "mongodb://mongodb:27017/"
 
 
 class MongoConnector:
@@ -11,25 +11,29 @@ class MongoConnector:
     DB_NAME = "vkusvill_bot"
     USERS_COLL_NAME = "users"
 
-    def __init__(self, user_id, uri=URI):
+    def __init__(self, uri=URI):
 
         self.client = MongoClient(uri, server_api=ServerApi('1'))
 
         self.db = self.client[self.DB_NAME]
         self.users_coll = self.db[self.USERS_COLL_NAME]
 
-        self.user_id = user_id
-        self.filter = {"_id": user_id}
+    def get_config(self, user_id):
 
-    def get_config(self):
+        user_filter = {"_id": user_id}
 
-        query_list = self.users_coll.find(self.filter)
+        for value in self.users_coll.find(user_filter):
+            return value
 
-        return query_list[0] if query_list else None
+        return None
 
-    def set_config(self, config):
+    def set_config(self, config, user_id):
 
-        self.users_coll.update_one(self.filter, {"$set": config}, upsert=True)
+        user_filter = {"_id": user_id}
+
+        config["_id"] = user_id
+
+        self.users_coll.update_one(user_filter, {"$set": config}, upsert=True)
 
     def update_collection(self, filename):
 
@@ -64,11 +68,13 @@ class MongoConnector:
 
 if __name__ == "__main__":
 
+    # auxiliary script to move old config to MongoDB
+
     from pathlib import Path
 
     global_filename = Path(Path(__file__).parent, "..", "config", "config.json")
 
-    mongo_connector = MongoConnector(None)
+    mongo_connector = MongoConnector()
 
-    # mongo_connector.update_collection(global_filename)
+    mongo_connector.update_collection(global_filename)
     mongo_connector.save_to_file(global_filename)

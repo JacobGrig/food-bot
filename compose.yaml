@@ -1,0 +1,22 @@
+services:
+  food-bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: food_bot
+    depends_on:
+      - mongodb
+    networks:
+      - node-network
+
+
+  mongodb:
+    image: mongodb/mongodb-community-server:6.0-ubi8
+    ports:
+      - '27017:27017'
+    networks:
+      - node-network
+
+networks:
+  node-network:
+    driver: bridge
